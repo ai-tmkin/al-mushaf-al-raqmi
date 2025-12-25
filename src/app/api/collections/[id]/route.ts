@@ -9,10 +9,10 @@ const supabaseAdmin = createClient(
 // GET - Get single collection with designs
 export async function GET(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
-    const collectionId = params.id;
+    const { id: collectionId } = await params;
 
     // Fetch collection
     const { data: collection, error: collectionError } = await supabaseAdmin
@@ -63,10 +63,10 @@ export async function GET(
 // PUT - Update collection
 export async function PUT(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
-    const collectionId = params.id;
+    const { id: collectionId } = await params;
     const body = await request.json();
     const { user_id, name, description, is_public } = body;
 
@@ -108,10 +108,10 @@ export async function PUT(
 // DELETE - Delete collection
 export async function DELETE(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
-    const collectionId = params.id;
+    const { id: collectionId } = await params;
     const { searchParams } = new URL(request.url);
     const userId = searchParams.get("user_id");
 
