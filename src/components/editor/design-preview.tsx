@@ -56,7 +56,7 @@ export function DesignPreview() {
     // Don't show if it's the first ayah of Al-Fatiha (bismillah is part of it)
     if (selection.surahNumber === 1 && selection.ayahStart === 1) return false;
     // Show bismillah for surahs that need it
-    return needsBismillah(selection.surahNumber);
+    return needsBismillah(selection.surahNumber, selection.ayahStart);
   };
 
   const renderVerseText = () => {
@@ -64,7 +64,7 @@ export function DesignPreview() {
 
     return selection.verses.map((verse) => {
       const hasSajdaMark =
-        showSajdaMarker && hasSajda(selection.surahNumber, verse.numberInSurah);
+        showSajdaMarker && hasSajda(verse);
 
       return (
         <span key={verse.numberInSurah}>

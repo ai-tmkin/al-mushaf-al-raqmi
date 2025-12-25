@@ -410,26 +410,28 @@ export function CreateContent() {
       
       console.log("📦 Customization object:", customization);
 
+      // Clean verse_text - remove HTML tags for database storage
+      const cleanVerseText = (verseText || "بسم الله الرحمن الرحيم")
+        .replace(/<[^>]*>/g, '') // Remove all HTML tags
+        .replace(/\s+/g, ' ')    // Normalize whitespace
+        .trim()
+        .substring(0, 2000);     // Limit to 2000 chars
+
       // Update existing design or insert new one
       if (designId) {
-        // Update existing design
-        console.log("جاري تحديث التصميم...");
-        
-        // Clean verse_text - remove HTML tags for database storage
-        const cleanVerseText = (verseText || "بسم الله الرحمن الرحيم")
-          .replace(/<[^>]*>/g, '') // Remove all HTML tags
-          .replace(/\s+/g, ' ')    // Normalize whitespace
-          .trim()
-          .substring(0, 2000);     // Limit to 2000 chars
+        // Update existing design via API
+        console.log("جاري تحديث التصميم عبر API...");
         
         const updateData: any = {
+          designId,
+          user_id: user.id,
           surah_number: selectedSurah,
           ayah_start: ayahStart,
           ayah_end: ayahEnd,
           verse_text: cleanVerseText,
           customization,
           is_public: isPublic,
-          updated_at: new Date().toISOString(),
+          collection_id: selectedCollection || null,
         };
         
         // Only update thumbnail_url if we have one
@@ -437,60 +439,32 @@ export function CreateContent() {
           updateData.thumbnail_url = publicUrl;
         }
 
-        console.log("📝 Updating design data...", updateData);
+        console.log("📝 Updating design data via API...", updateData);
         const updateStartTime = Date.now();
         
-        const { error: updateError } = await withTimeout(
-          supabase
-            .from("designs")
-            .update(updateData)
-            .eq("id", designId)
-            .eq("user_id", user.id),
-          20000, // 20 seconds should be enough for a simple update
-          "انتهت مهلة تحديث التصميم"
-        );
-        
-        console.log(`⏱️ Update took ${Date.now() - updateStartTime}ms`);
+        try {
+          const response = await fetch("/api/designs", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(updateData),
+          });
+          
+          const result = await response.json();
+          console.log(`⏱️ Update took ${Date.now() - updateStartTime}ms`);
 
-        if (updateError) {
-          console.error("خطأ في تحديث التصميم:", updateError);
-          throw new Error(`فشل تحديث التصميم: ${updateError.message}`);
+          if (!response.ok || !result.success) {
+            throw new Error(result.error || "فشل تحديث التصميم");
+          }
+
+          console.log("تم تحديث التصميم:", result.data?.id);
+          alert("تم التحديث بنجاح! ✅");
+        } catch (err: any) {
+          console.error("خطأ في تحديث التصميم:", err);
+          throw new Error(`فشل تحديث التصميم: ${err.message}`);
         }
-
-        console.log("تم تحديث التصميم");
-
-        // Update collection if selected (non-blocking)
-        if (selectedCollection) {
-          supabase
-            .from("collection_designs")
-            .upsert({
-              collection_id: selectedCollection,
-              design_id: designId,
-            }, {
-              onConflict: "collection_id,design_id"
-            })
-            .then(({ error: collectionError }) => {
-              if (collectionError) {
-                console.error("خطأ في تحديث المجموعة:", collectionError);
-              }
-            })
-            .catch((err) => {
-              console.error("خطأ في تحديث المجموعة:", err);
-            });
-        }
-
-        console.log("تم الحفظ بنجاح!");
-        alert("تم التحديث بنجاح! ✅");
       } else {
         // Insert new design
         console.log("جاري إنشاء تصميم جديد...");
-        
-        // Clean verse_text - remove HTML tags for database storage
-        const cleanVerseText = (verseText || "بسم الله الرحمن الرحيم")
-          .replace(/<[^>]*>/g, '') // Remove all HTML tags
-          .replace(/\s+/g, ' ')    // Normalize whitespace
-          .trim()
-          .substring(0, 2000);     // Limit to 2000 chars
         
         const insertData: any = {
           user_id: user.id,
@@ -500,6 +474,7 @@ export function CreateContent() {
           verse_text: cleanVerseText,
           customization,
           is_public: isPublic,
+          collection_id: selectedCollection || null,
         };
         
         // Only add thumbnail_url if we have one
@@ -534,24 +509,7 @@ export function CreateContent() {
 
           const designData = result.data;
           console.log("تم إنشاء التصميم:", designData?.id);
-
-          // Add to collection if selected (non-blocking)
-          if (selectedCollection && designData && supabase) {
-            supabase
-              .from("collection_designs")
-              .insert({
-                collection_id: selectedCollection,
-                design_id: designData.id,
-              })
-              .then(({ error: collectionError }) => {
-                if (collectionError) {
-                  console.error("خطأ في إضافة التصميم إلى المجموعة:", collectionError);
-                }
-              })
-              .catch((err) => {
-                console.error("خطأ في إضافة التصميم إلى المجموعة:", err);
-              });
-          }
+          // Note: Collection assignment is handled by the API route
 
           console.log("تم الحفظ بنجاح!");
           alert("تم الحفظ بنجاح! ✅");
@@ -1035,7 +993,7 @@ export function CreateContent() {
                 </div>
 
                 <p className="text-xs text-sand-400">
-                  السورة {selectedSurah} تحتوي على {selectedSurahData?.ayahs} آية
+                  السورة {selectedSurah} تحتوي على {selectedSurahData?.numberOfAyahs} آية
                 </p>
               </div>
             </section>

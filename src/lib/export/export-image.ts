@@ -18,6 +18,7 @@ export async function exportDesign(params: ExportParams): Promise<Blob> {
   const {
     surahNumber,
     surahName,
+    ayahStart,
     verses,
     customization,
     format = "png",
@@ -33,7 +34,7 @@ export async function exportDesign(params: ExportParams): Promise<Blob> {
 
   // Check if we should show bismillah
   const showBismillah =
-    customization.showBismillah && needsBismillah(surahNumber);
+    customization.showBismillah && needsBismillah(surahNumber, ayahStart);
 
   try {
     // Call our API route to generate SVG
