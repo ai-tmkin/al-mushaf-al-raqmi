@@ -7,8 +7,6 @@ import { Sidebar } from "@/components/layout/sidebar";
 import { 
   Search as SearchIcon, 
   Heart, 
-  Smile, 
-  Frown, 
   Sparkles, 
   ArrowLeft,
   Loader2,
@@ -16,6 +14,11 @@ import {
   Sun,
   Moon,
   Shield,
+  Filter,
+  X,
+  Clock,
+  TrendingUp,
+  Star,
 } from "lucide-react";
 
 export const dynamic = "force-dynamic";
@@ -27,7 +30,28 @@ const emotionalQueries = [
   { id: "comfort", label: "الراحة", arabicLabel: "أشعر بالضيق", icon: Heart, color: "gold" },
   { id: "repentance", label: "التوبة", arabicLabel: "أريد التوبة", icon: Moon, color: "emerald" },
   { id: "provision", label: "الرزق", arabicLabel: "أسأل عن الرزق", icon: BookOpen, color: "gold" },
+  { id: "fear", label: "الخوف", arabicLabel: "أشعر بالخوف", icon: Shield, color: "gold" },
+  { id: "guidance", label: "الهداية", arabicLabel: "أطلب الهداية", icon: Star, color: "emerald" },
 ];
+
+// Popular searches
+const popularSearches = [
+  "الرحمة", "الصلاة", "الجنة", "التقوى", "الإيمان", "الدعاء"
+];
+
+// Recent searches (stored in localStorage)
+const getRecentSearches = (): string[] => {
+  if (typeof window === "undefined") return [];
+  const stored = localStorage.getItem("recentSearches");
+  return stored ? JSON.parse(stored) : [];
+};
+
+const saveRecentSearch = (query: string) => {
+  if (typeof window === "undefined") return;
+  const recent = getRecentSearches();
+  const updated = [query, ...recent.filter(s => s !== query)].slice(0, 5);
+  localStorage.setItem("recentSearches", JSON.stringify(updated));
+};
 
 interface SearchResult {
   surah: number;
@@ -43,8 +67,17 @@ export default function SearchPage() {
   const [showResults, setShowResults] = useState(false);
   const [results, setResults] = useState<SearchResult[]>([]);
   const [isLoading, setIsLoading] = useState(false);
+  const [recentSearches, setRecentSearches] = useState<string[]>([]);
+  const [showFilters, setShowFilters] = useState(false);
+  const [revelationType, setRevelationType] = useState<"all" | "meccan" | "medinan">("all");
   const mainRef = useRef<HTMLDivElement>(null);
   const resultsRef = useRef<HTMLDivElement>(null);
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  // Load recent searches on mount
+  useEffect(() => {
+    setRecentSearches(getRecentSearches());
+  }, []);
 
   useEffect(() => {
     const ctx = gsap.context(() => {
@@ -88,6 +121,8 @@ export default function SearchPage() {
     
     setIsLoading(true);
     setSearchQuery(query);
+    saveRecentSearch(query);
+    setRecentSearches(getRecentSearches());
     
     try {
       console.log("🔍 Searching for:", query);
@@ -98,8 +133,18 @@ export default function SearchPage() {
       const result = await response.json();
       
       if (result.success && result.data) {
-        setResults(result.data);
-        console.log("✅ Found", result.data.length, "results");
+        // Apply revelation type filter if needed
+        let filteredResults = result.data;
+        if (revelationType !== "all") {
+          filteredResults = result.data.filter((r: any) => {
+            // Meccan surahs (revealed before Hijrah)
+            const meccanSurahs = [1,6,7,10,11,12,14,15,16,17,18,19,20,21,23,25,26,27,28,29,30,31,32,34,35,36,37,38,39,40,41,42,43,44,45,46,50,51,52,53,54,56,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,100,101,102,103,104,105,106,107,108,109,111,112,113,114];
+            const isMeccan = meccanSurahs.includes(r.surah);
+            return revelationType === "meccan" ? isMeccan : !isMeccan;
+          });
+        }
+        setResults(filteredResults);
+        console.log("✅ Found", filteredResults.length, "results");
       } else {
         setResults([]);
       }
@@ -112,7 +157,7 @@ export default function SearchPage() {
     } finally {
       setIsLoading(false);
     }
-  }, []);
+  }, [revelationType]);
 
   // Emotional search using API
   const handleEmotionalSearch = useCallback(async (emotion: string) => {
@@ -150,6 +195,11 @@ export default function SearchPage() {
     setShowResults(false);
     setSearchQuery("");
     setResults([]);
+  };
+
+  const clearRecentSearches = () => {
+    localStorage.removeItem("recentSearches");
+    setRecentSearches([]);
   };
 
   return (
@@ -199,47 +249,162 @@ export default function SearchPage() {
           </div>
 
           {/* Search Input */}
-          <div className="relative mb-6 md:mb-12 animate-in">
-            <input
-              type="text"
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              onKeyPress={(e) => {
-                if (e.key === "Enter" && searchQuery.trim()) {
-                  if (activeTab === "surah") {
-                    // Search by surah number
-                    handleSearch(searchQuery);
-                  } else {
+          <div className="relative mb-6 md:mb-8 animate-in">
+            <div className="relative">
+              <input
+                ref={inputRef}
+                type="text"
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                onKeyPress={(e) => {
+                  if (e.key === "Enter" && searchQuery.trim()) {
                     handleSearch(searchQuery);
                   }
+                }}
+                placeholder={
+                  activeTab === "text" 
+                    ? "ابحث عن كلمة أو جملة في القرآن..." 
+                    : activeTab === "surah"
+                    ? "أدخل رقم السورة (1-114)..."
+                    : "اختر حالتك من الأسفل..."
                 }
-              }}
-              placeholder={
-                activeTab === "text" 
-                  ? "ابحث عن كلمة أو جملة في القرآن..." 
-                  : activeTab === "surah"
-                  ? "أدخل رقم السورة (1-114)..."
-                  : "اختر حالتك من الأسفل..."
-              }
-              className="w-full px-4 md:px-6 py-4 md:py-5 pr-12 md:pr-14 rounded-xl md:rounded-2xl border-2 border-sand-200 bg-white text-sand-900 text-sm md:text-lg focus:outline-none focus:border-emerald-400 focus:ring-4 focus:ring-emerald-100 transition-all"
-            />
-            {isLoading ? (
-              <Loader2
-                className="absolute right-5 top-1/2 -translate-y-1/2 w-6 h-6 text-emerald-600 animate-spin"
+                className="w-full px-4 md:px-6 py-4 md:py-5 pr-12 md:pr-14 pl-12 rounded-xl md:rounded-2xl border-2 border-sand-200 bg-white text-sand-900 text-sm md:text-lg focus:outline-none focus:border-emerald-400 focus:ring-4 focus:ring-emerald-100 transition-all"
               />
-            ) : (
-              <SearchIcon
-                className="absolute right-5 top-1/2 -translate-y-1/2 w-6 h-6 text-sand-400"
-                strokeWidth={1.5}
-              />
+              {isLoading ? (
+                <Loader2
+                  className="absolute right-4 md:right-5 top-1/2 -translate-y-1/2 w-5 md:w-6 h-5 md:h-6 text-emerald-600 animate-spin"
+                />
+              ) : (
+                <SearchIcon
+                  className="absolute right-4 md:right-5 top-1/2 -translate-y-1/2 w-5 md:w-6 h-5 md:h-6 text-sand-400"
+                  strokeWidth={1.5}
+                />
+              )}
+              {/* Filter Button */}
+              <button
+                onClick={() => setShowFilters(!showFilters)}
+                className={`absolute left-3 md:left-4 top-1/2 -translate-y-1/2 p-2 rounded-lg transition-colors ${
+                  showFilters || revelationType !== "all"
+                    ? "bg-emerald-100 text-emerald-600"
+                    : "text-sand-400 hover:text-sand-600 hover:bg-sand-100"
+                }`}
+              >
+                <Filter className="w-5 h-5" strokeWidth={1.5} />
+              </button>
+            </div>
+
+            {/* Filters Panel */}
+            {showFilters && (
+              <div className="mt-3 p-4 bg-white rounded-xl border border-sand-200 shadow-lg animate-in">
+                <div className="flex items-center justify-between mb-3">
+                  <h3 className="text-sm font-medium text-sand-900">تصفية النتائج</h3>
+                  <button
+                    onClick={() => setShowFilters(false)}
+                    className="p-1 text-sand-400 hover:text-sand-600"
+                  >
+                    <X className="w-4 h-4" />
+                  </button>
+                </div>
+                <div className="flex flex-wrap gap-2">
+                  <button
+                    onClick={() => setRevelationType("all")}
+                    className={`px-3 py-1.5 rounded-lg text-sm transition-colors ${
+                      revelationType === "all"
+                        ? "bg-emerald-100 text-emerald-700"
+                        : "bg-sand-100 text-sand-600 hover:bg-sand-200"
+                    }`}
+                  >
+                    الكل
+                  </button>
+                  <button
+                    onClick={() => setRevelationType("meccan")}
+                    className={`px-3 py-1.5 rounded-lg text-sm transition-colors ${
+                      revelationType === "meccan"
+                        ? "bg-emerald-100 text-emerald-700"
+                        : "bg-sand-100 text-sand-600 hover:bg-sand-200"
+                    }`}
+                  >
+                    مكية
+                  </button>
+                  <button
+                    onClick={() => setRevelationType("medinan")}
+                    className={`px-3 py-1.5 rounded-lg text-sm transition-colors ${
+                      revelationType === "medinan"
+                        ? "bg-emerald-100 text-emerald-700"
+                        : "bg-sand-100 text-sand-600 hover:bg-sand-200"
+                    }`}
+                  >
+                    مدنية
+                  </button>
+                </div>
+              </div>
             )}
           </div>
+
+          {/* Recent & Popular Searches */}
+          {!showResults && activeTab === "text" && (
+            <div className="mb-8 animate-in">
+              {/* Recent Searches */}
+              {recentSearches.length > 0 && (
+                <div className="mb-6">
+                  <div className="flex items-center justify-between mb-3">
+                    <h3 className="text-sm font-medium text-sand-700 flex items-center gap-2">
+                      <Clock className="w-4 h-4" />
+                      عمليات البحث الأخيرة
+                    </h3>
+                    <button
+                      onClick={clearRecentSearches}
+                      className="text-xs text-sand-500 hover:text-sand-700"
+                    >
+                      مسح الكل
+                    </button>
+                  </div>
+                  <div className="flex flex-wrap gap-2">
+                    {recentSearches.map((search, i) => (
+                      <button
+                        key={i}
+                        onClick={() => {
+                          setSearchQuery(search);
+                          handleSearch(search);
+                        }}
+                        className="px-3 py-1.5 bg-white border border-sand-200 rounded-lg text-sm text-sand-700 hover:border-emerald-300 hover:bg-emerald-50 transition-colors"
+                      >
+                        {search}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Popular Searches */}
+              <div>
+                <h3 className="text-sm font-medium text-sand-700 flex items-center gap-2 mb-3">
+                  <TrendingUp className="w-4 h-4" />
+                  عمليات البحث الشائعة
+                </h3>
+                <div className="flex flex-wrap gap-2">
+                  {popularSearches.map((search, i) => (
+                    <button
+                      key={i}
+                      onClick={() => {
+                        setSearchQuery(search);
+                        handleSearch(search);
+                      }}
+                      className="px-3 py-1.5 bg-emerald-50 border border-emerald-200 rounded-lg text-sm text-emerald-700 hover:bg-emerald-100 transition-colors"
+                    >
+                      {search}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            </div>
+          )}
 
           {/* Emotional Search Section */}
           {!showResults && activeTab === "emotional" && (
             <div className="animate-in">
               <h2 className="text-lg font-normal text-sand-800 mb-6">كيف تشعر اليوم؟</h2>
-              <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4">
                 {emotionalQueries.map((query) => {
                   const Icon = query.icon;
                   const isEmerald = query.color === "emerald";
@@ -247,19 +412,19 @@ export default function SearchPage() {
                     <button
                       key={query.id}
                       onClick={() => handleEmotionalSearch(query.label)}
-                      className={`p-6 rounded-2xl border-2 transition-all text-right group ${
+                      className={`p-4 md:p-6 rounded-xl md:rounded-2xl border-2 transition-all text-right group ${
                         isEmerald 
                           ? "border-emerald-200 bg-emerald-50 hover:bg-emerald-100 hover:border-emerald-300"
                           : "border-gold-200 bg-gold-50 hover:bg-gold-100 hover:border-gold-300"
                       }`}
                     >
                       <Icon
-                        className={`w-8 h-8 mb-3 ${
+                        className={`w-6 md:w-8 h-6 md:h-8 mb-2 md:mb-3 ${
                           isEmerald ? "text-emerald-600" : "text-gold-600"
                         }`}
                         strokeWidth={1.5}
                       />
-                      <p className={`text-lg font-normal ${
+                      <p className={`text-sm md:text-lg font-normal ${
                         isEmerald ? "text-emerald-900" : "text-gold-900"
                       }`}>
                         {query.arabicLabel}

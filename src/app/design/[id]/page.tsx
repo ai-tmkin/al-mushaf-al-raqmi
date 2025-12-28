@@ -207,7 +207,7 @@ export default function DesignViewPage() {
     return (
       <div className="flex min-h-screen">
         <Sidebar />
-        <main className="mr-[72px] w-[calc(100%-72px)] bg-sand-50 flex items-center justify-center">
+        <main className="md:mr-[72px] md:w-[calc(100%-72px)] w-full pt-14 md:pt-0 pb-20 md:pb-0 bg-sand-50 flex items-center justify-center">
           <div className="text-center">
             <Loader2 className="w-8 h-8 text-emerald-600 animate-spin mx-auto mb-4" />
             <p className="text-sand-600">جاري تحميل التصميم...</p>
@@ -228,23 +228,23 @@ export default function DesignViewPage() {
     <div className="flex min-h-screen">
       <Sidebar />
 
-      <main className="mr-[72px] w-[calc(100%-72px)] bg-sand-50 p-8 md:p-12">
+      <main className="md:mr-[72px] md:w-[calc(100%-72px)] w-full pt-14 md:pt-0 pb-20 md:pb-0 bg-sand-50 p-4 md:p-8 lg:p-12">
         <div ref={mainRef} className="max-w-6xl mx-auto">
           {/* Back Button */}
           <Link
             href="/gallery"
-            className="inline-flex items-center gap-2 text-sand-600 hover:text-sand-900 mb-8 transition-colors"
+            className="inline-flex items-center gap-2 text-sand-600 hover:text-sand-900 mb-6 md:mb-8 transition-colors text-sm md:text-base"
           >
-            <ArrowRight className="w-5 h-5" />
+            <ArrowRight className="w-4 md:w-5 h-4 md:h-5" />
             العودة للمعرض
           </Link>
 
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 md:gap-8">
             {/* Design Preview */}
             <div className="design-preview">
               <div
                 ref={canvasRef}
-                className="rounded-2xl shadow-2xl overflow-hidden"
+                className="rounded-xl md:rounded-2xl shadow-xl md:shadow-2xl overflow-hidden"
                 style={{
                   backgroundColor: customization.bgColor || "#ffffff",
                   backgroundImage: customization.bgImage
@@ -256,7 +256,7 @@ export default function DesignViewPage() {
                 }}
               >
                 <div
-                  className="w-full h-full flex items-center justify-center p-8"
+                  className="w-full h-full flex items-center justify-center p-4 md:p-8"
                   style={{
                     backgroundColor: customization.bgImage
                       ? `rgba(0,0,0,${(customization.bgOpacity || 30) / 100})`
@@ -267,7 +267,7 @@ export default function DesignViewPage() {
                     className="text-center font-quran"
                     style={{
                       color: customization.textColor || "#1c1917",
-                      fontSize: `${customization.fontSize || 32}px`,
+                      fontSize: `${Math.min(customization.fontSize || 32, 24)}px`,
                       lineHeight: customization.lineHeight || 1.8,
                       letterSpacing: `${customization.letterSpacing || 0}px`,
                     }}
@@ -279,9 +279,9 @@ export default function DesignViewPage() {
             </div>
 
             {/* Design Info */}
-            <div className="design-info space-y-6">
-              {/* Actions */}
-              <div className="flex flex-wrap gap-3">
+            <div className="design-info space-y-4 md:space-y-6">
+              {/* Actions - Mobile: Fixed bottom bar, Desktop: Regular */}
+              <div className="hidden md:flex flex-wrap gap-3">
                 <button
                   onClick={handleLike}
                   className={`flex items-center gap-2 px-4 py-2 rounded-xl transition-all ${
@@ -338,6 +338,55 @@ export default function DesignViewPage() {
                     </button>
                   </>
                 )}
+              </div>
+
+              {/* Mobile Actions Bar */}
+              <div className="md:hidden fixed bottom-[70px] left-0 right-0 z-30 bg-white border-t border-sand-200 px-4 py-3">
+                <div className="flex items-center justify-between gap-2">
+                  <button
+                    onClick={handleLike}
+                    className={`flex items-center gap-1.5 px-3 py-2 rounded-xl transition-all ${
+                      isLiked
+                        ? "bg-red-50 text-red-600"
+                        : "bg-sand-100 text-sand-600"
+                    }`}
+                  >
+                    <Heart className={`w-5 h-5 ${isLiked ? "fill-current" : ""}`} />
+                    <span className="text-sm">{likesCount}</span>
+                  </button>
+                  
+                  <div className="flex items-center gap-2">
+                    <button
+                      onClick={handleShare}
+                      className="p-2.5 bg-sand-100 text-sand-700 rounded-xl"
+                    >
+                      {copied ? <Check className="w-5 h-5 text-emerald-600" /> : <Share2 className="w-5 h-5" />}
+                    </button>
+                    <button
+                      onClick={handleDownload}
+                      className="p-2.5 bg-emerald-600 text-white rounded-xl"
+                    >
+                      <Download className="w-5 h-5" />
+                    </button>
+                    {isOwner && (
+                      <>
+                        <Link
+                          href={`/create?id=${designId}`}
+                          className="p-2.5 bg-emerald-800 text-white rounded-xl"
+                        >
+                          <Edit3 className="w-5 h-5" />
+                        </Link>
+                        <button
+                          onClick={handleDelete}
+                          disabled={isDeleting}
+                          className="p-2.5 bg-red-100 text-red-600 rounded-xl disabled:opacity-50"
+                        >
+                          {isDeleting ? <Loader2 className="w-5 h-5 animate-spin" /> : <Trash2 className="w-5 h-5" />}
+                        </button>
+                      </>
+                    )}
+                  </div>
+                </div>
               </div>
 
               {/* Verse Info */}

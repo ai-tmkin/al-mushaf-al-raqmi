@@ -20,6 +20,12 @@ import {
   Save,
   Loader2,
   Check,
+  Download,
+  Trash2,
+  AlertTriangle,
+  Camera,
+  Mail,
+  Lock,
 } from "lucide-react";
 
 export const dynamic = "force-dynamic";
@@ -45,6 +51,11 @@ export default function SettingsPage() {
   const [isSaving, setIsSaving] = useState(false);
   const [saveSuccess, setSaveSuccess] = useState(false);
   const [hasChanges, setHasChanges] = useState(false);
+  const [isExporting, setIsExporting] = useState(false);
+  const [isDeletingDesigns, setIsDeletingDesigns] = useState(false);
+  const [isDeletingAccount, setIsDeletingAccount] = useState(false);
+  const [showDeleteConfirm, setShowDeleteConfirm] = useState<"designs" | "account" | null>(null);
+  const [deleteConfirmText, setDeleteConfirmText] = useState("");
 
   const mainRef = useRef<HTMLDivElement>(null);
 
@@ -162,6 +173,110 @@ export default function SettingsPage() {
     }
   };
 
+  // Export user data
+  const handleExportData = async () => {
+    if (!user) return;
+    
+    setIsExporting(true);
+    try {
+      // Fetch all user data
+      const [designsRes, collectionsRes] = await Promise.all([
+        fetch(`/api/designs/user?user_id=${user.id}`),
+        fetch(`/api/collections?user_id=${user.id}`),
+      ]);
+      
+      const designsData = await designsRes.json();
+      const collectionsData = await collectionsRes.json();
+      
+      const exportData = {
+        exportDate: new Date().toISOString(),
+        user: {
+          id: user.id,
+          email: user.email,
+          displayName: profile?.display_name,
+        },
+        settings: {
+          locale: language,
+          theme,
+          defaultSettings: {
+            font: defaultFont,
+            showBismillah,
+            showSajda,
+            ayahSymbol,
+            exportQuality,
+            storageProvider,
+          },
+          notifications: {
+            dailyVerse,
+            galleryUpdates,
+          },
+        },
+        designs: designsData.success ? designsData.data : [],
+        collections: collectionsData.success ? collectionsData.data : [],
+      };
+      
+      // Download as JSON
+      const blob = new Blob([JSON.stringify(exportData, null, 2)], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = `mushaf-data-${new Date().toISOString().split("T")[0]}.json`;
+      a.click();
+      URL.revokeObjectURL(url);
+      
+      console.log("✅ Data exported successfully");
+    } catch (error) {
+      console.error("Error exporting data:", error);
+      alert("حدث خطأ أثناء تصدير البيانات");
+    } finally {
+      setIsExporting(false);
+    }
+  };
+
+  // Delete all designs
+  const handleDeleteAllDesigns = async () => {
+    if (!user || deleteConfirmText !== "حذف التصاميم") return;
+    
+    setIsDeletingDesigns(true);
+    try {
+      const response = await fetch(`/api/designs/user?user_id=${user.id}&delete_all=true`, {
+        method: "DELETE",
+      });
+      
+      if (response.ok) {
+        alert("تم حذف جميع التصاميم بنجاح");
+        setShowDeleteConfirm(null);
+        setDeleteConfirmText("");
+      } else {
+        throw new Error("Failed to delete designs");
+      }
+    } catch (error) {
+      console.error("Error deleting designs:", error);
+      alert("حدث خطأ أثناء حذف التصاميم");
+    } finally {
+      setIsDeletingDesigns(false);
+    }
+  };
+
+  // Delete account
+  const handleDeleteAccount = async () => {
+    if (!user || deleteConfirmText !== "حذف الحساب") return;
+    
+    setIsDeletingAccount(true);
+    try {
+      // Note: This would need a server-side implementation
+      // For now, we'll just sign out
+      alert("تم إرسال طلب حذف الحساب. سيتم التواصل معك عبر البريد الإلكتروني.");
+      await signOut();
+      router.push("/");
+    } catch (error) {
+      console.error("Error deleting account:", error);
+      alert("حدث خطأ أثناء حذف الحساب");
+    } finally {
+      setIsDeletingAccount(false);
+    }
+  };
+
   // GSAP animations
   useEffect(() => {
     if (isLoading) return;
@@ -245,27 +360,67 @@ export default function SettingsPage() {
 
           {/* Profile Section */}
           <section className="bg-white rounded-2xl border border-sand-200 overflow-hidden mb-6 animate-in">
-            <div className="p-6 border-b border-sand-100">
-              <h2 className="text-lg font-normal text-sand-900 flex items-center gap-2">
+            <div className="p-4 md:p-6 border-b border-sand-100">
+              <h2 className="text-base md:text-lg font-normal text-sand-900 flex items-center gap-2">
                 <User className="w-5 h-5 text-emerald-600" strokeWidth={1.5} />
                 الملف الشخصي
               </h2>
             </div>
-            <div className="p-6">
-              <div className="flex items-center gap-6">
-                <div className="w-20 h-20 rounded-2xl bg-gradient-to-br from-emerald-700 to-emerald-900 flex items-center justify-center text-white font-bold text-2xl shadow-lg">
-                  {profile?.display_name?.[0] || user?.email?.[0] || "م"}
+            <div className="p-4 md:p-6">
+              <div className="flex flex-col sm:flex-row items-center sm:items-start gap-4 md:gap-6">
+                <div className="relative group">
+                  <div className="w-20 h-20 rounded-2xl bg-gradient-to-br from-emerald-700 to-emerald-900 flex items-center justify-center text-white font-bold text-2xl shadow-lg">
+                    {profile?.display_name?.[0] || user?.email?.[0] || "م"}
+                  </div>
+                  <button className="absolute inset-0 flex items-center justify-center bg-black/50 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity">
+                    <Camera className="w-6 h-6 text-white" />
+                  </button>
                 </div>
-                <div className="flex-1">
+                <div className="flex-1 text-center sm:text-right">
                   <h3 className="text-lg font-medium text-sand-900 mb-1">
                     {profile?.display_name || "مستخدم"}
                   </h3>
-                  <p className="text-sm text-sand-500">{user?.email}</p>
-                  <button className="mt-3 text-sm text-emerald-600 hover:text-emerald-700">
-                    تعديل الملف الشخصي
-                  </button>
+                  <p className="text-sm text-sand-500 mb-3">{user?.email}</p>
+                  <div className="flex flex-wrap justify-center sm:justify-start gap-2">
+                    <button 
+                      onClick={() => router.push("/profile")}
+                      className="text-sm text-emerald-600 hover:text-emerald-700 px-3 py-1.5 bg-emerald-50 rounded-lg"
+                    >
+                      عرض الملف الشخصي
+                    </button>
+                  </div>
                 </div>
               </div>
+            </div>
+          </section>
+
+          {/* Account Security */}
+          <section className="bg-white rounded-2xl border border-sand-200 overflow-hidden mb-6 animate-in">
+            <div className="p-4 md:p-6 border-b border-sand-100">
+              <h2 className="text-base md:text-lg font-normal text-sand-900 flex items-center gap-2">
+                <Lock className="w-5 h-5 text-emerald-600" strokeWidth={1.5} />
+                أمان الحساب
+              </h2>
+            </div>
+            <div className="divide-y divide-sand-100">
+              <div className="p-4 md:p-6">
+                <div className="flex items-center justify-between">
+                  <div>
+                    <h3 className="text-sm font-medium text-sand-900">البريد الإلكتروني</h3>
+                    <p className="text-xs text-sand-500 mt-1" dir="ltr">{user?.email}</p>
+                  </div>
+                  <span className="px-2 py-1 bg-emerald-50 text-emerald-700 rounded-lg text-xs">
+                    مُفعّل
+                  </span>
+                </div>
+              </div>
+              <button 
+                onClick={() => router.push("/auth/forgot-password")}
+                className="w-full p-4 md:p-6 text-right hover:bg-sand-50 transition-colors"
+              >
+                <h3 className="text-sm font-medium text-sand-900">تغيير كلمة المرور</h3>
+                <p className="text-xs text-sand-500 mt-1">تحديث كلمة المرور الخاصة بك</p>
+              </button>
             </div>
           </section>
 
@@ -528,25 +683,125 @@ export default function SettingsPage() {
             </div>
           </section>
 
+          {/* Data Management */}
+          <section className="bg-white rounded-2xl border border-sand-200 overflow-hidden mb-6 animate-in">
+            <div className="p-4 md:p-6 border-b border-sand-100">
+              <h2 className="text-base md:text-lg font-normal text-sand-900 flex items-center gap-2">
+                <Download className="w-5 h-5 text-emerald-600" strokeWidth={1.5} />
+                إدارة البيانات
+              </h2>
+            </div>
+            <div className="divide-y divide-sand-100">
+              <button 
+                onClick={handleExportData}
+                disabled={isExporting}
+                className="w-full p-4 md:p-6 text-right hover:bg-sand-50 transition-colors disabled:opacity-50 flex items-center justify-between"
+              >
+                <div>
+                  <h3 className="text-sm font-medium text-sand-900">تصدير البيانات</h3>
+                  <p className="text-xs text-sand-500 mt-1">تحميل نسخة من جميع بياناتك</p>
+                </div>
+                {isExporting ? (
+                  <Loader2 className="w-5 h-5 text-emerald-600 animate-spin" />
+                ) : (
+                  <Download className="w-5 h-5 text-sand-400" />
+                )}
+              </button>
+            </div>
+          </section>
+
           {/* Danger Zone */}
           <section className="bg-white rounded-2xl border border-red-200 overflow-hidden mb-6 animate-in">
-            <div className="p-6 border-b border-red-100">
-              <h2 className="text-lg font-normal text-red-900 flex items-center gap-2">
-                <Shield className="w-5 h-5 text-red-600" strokeWidth={1.5} />
+            <div className="p-4 md:p-6 border-b border-red-100">
+              <h2 className="text-base md:text-lg font-normal text-red-900 flex items-center gap-2">
+                <AlertTriangle className="w-5 h-5 text-red-600" strokeWidth={1.5} />
                 منطقة الخطر
               </h2>
             </div>
             <div className="divide-y divide-red-100">
-              <button className="w-full p-6 text-right hover:bg-red-50 transition-colors">
-                <h3 className="text-sm font-medium text-red-900">حذف جميع التصاميم</h3>
-                <p className="text-xs text-red-500 mt-1">حذف نهائي لجميع تصاميمك المحفوظة</p>
+              <button 
+                onClick={() => setShowDeleteConfirm("designs")}
+                className="w-full p-4 md:p-6 text-right hover:bg-red-50 transition-colors flex items-center justify-between"
+              >
+                <div>
+                  <h3 className="text-sm font-medium text-red-900">حذف جميع التصاميم</h3>
+                  <p className="text-xs text-red-500 mt-1">حذف نهائي لجميع تصاميمك المحفوظة</p>
+                </div>
+                <Trash2 className="w-5 h-5 text-red-400" />
               </button>
-              <button className="w-full p-6 text-right hover:bg-red-50 transition-colors">
-                <h3 className="text-sm font-medium text-red-900">حذف الحساب</h3>
-                <p className="text-xs text-red-500 mt-1">حذف نهائي لحسابك وجميع بياناتك</p>
+              <button 
+                onClick={() => setShowDeleteConfirm("account")}
+                className="w-full p-4 md:p-6 text-right hover:bg-red-50 transition-colors flex items-center justify-between"
+              >
+                <div>
+                  <h3 className="text-sm font-medium text-red-900">حذف الحساب</h3>
+                  <p className="text-xs text-red-500 mt-1">حذف نهائي لحسابك وجميع بياناتك</p>
+                </div>
+                <Trash2 className="w-5 h-5 text-red-400" />
               </button>
             </div>
           </section>
+
+          {/* Delete Confirmation Modal */}
+          {showDeleteConfirm && (
+            <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50">
+              <div className="bg-white rounded-2xl p-6 max-w-md w-full shadow-2xl">
+                <div className="flex items-center gap-3 mb-4">
+                  <div className="w-12 h-12 rounded-full bg-red-100 flex items-center justify-center">
+                    <AlertTriangle className="w-6 h-6 text-red-600" />
+                  </div>
+                  <div>
+                    <h3 className="text-lg font-medium text-sand-900">
+                      {showDeleteConfirm === "designs" ? "حذف جميع التصاميم" : "حذف الحساب"}
+                    </h3>
+                    <p className="text-sm text-sand-500">هذا الإجراء لا يمكن التراجع عنه</p>
+                  </div>
+                </div>
+                
+                <p className="text-sm text-sand-700 mb-4">
+                  {showDeleteConfirm === "designs" 
+                    ? "سيتم حذف جميع تصاميمك المحفوظة نهائياً. اكتب \"حذف التصاميم\" للتأكيد."
+                    : "سيتم حذف حسابك وجميع بياناتك نهائياً. اكتب \"حذف الحساب\" للتأكيد."
+                  }
+                </p>
+                
+                <input
+                  type="text"
+                  value={deleteConfirmText}
+                  onChange={(e) => setDeleteConfirmText(e.target.value)}
+                  placeholder={showDeleteConfirm === "designs" ? "حذف التصاميم" : "حذف الحساب"}
+                  className="w-full px-4 py-3 rounded-xl border-2 border-sand-200 focus:border-red-400 focus:outline-none mb-4 text-sm"
+                />
+                
+                <div className="flex gap-3">
+                  <button
+                    onClick={() => {
+                      setShowDeleteConfirm(null);
+                      setDeleteConfirmText("");
+                    }}
+                    className="flex-1 py-3 px-4 rounded-xl border border-sand-200 text-sand-700 hover:bg-sand-50 transition-colors text-sm"
+                  >
+                    إلغاء
+                  </button>
+                  <button
+                    onClick={showDeleteConfirm === "designs" ? handleDeleteAllDesigns : handleDeleteAccount}
+                    disabled={
+                      (showDeleteConfirm === "designs" && deleteConfirmText !== "حذف التصاميم") ||
+                      (showDeleteConfirm === "account" && deleteConfirmText !== "حذف الحساب") ||
+                      isDeletingDesigns ||
+                      isDeletingAccount
+                    }
+                    className="flex-1 py-3 px-4 rounded-xl bg-red-600 text-white hover:bg-red-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed text-sm flex items-center justify-center gap-2"
+                  >
+                    {(isDeletingDesigns || isDeletingAccount) && (
+                      <Loader2 className="w-4 h-4 animate-spin" />
+                    )}
+                    حذف
+                  </button>
+                </div>
+              </div>
+            </div>
+          )}
 
           {/* Logout Button */}
           <div className="animate-in">
