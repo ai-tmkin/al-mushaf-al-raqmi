@@ -1722,6 +1722,7 @@ export function CreateContent() {
                 onClick={handleSave}
                 disabled={isSaving || ayahsLoading}
                 className="p-2.5 bg-emerald-600 text-white rounded-xl disabled:opacity-50"
+                title="حفظ"
               >
                 {isSaving ? (
                   <Loader2 className="w-5 h-5 animate-spin" strokeWidth={2} />
@@ -1730,9 +1731,22 @@ export function CreateContent() {
                 )}
               </button>
               <button 
+                onClick={handleShare}
+                disabled={isSharing || ayahsLoading}
+                className="p-2.5 bg-white border border-sand-200 text-sand-700 rounded-xl disabled:opacity-50 hover:bg-sand-50"
+                title="مشاركة"
+              >
+                {isSharing ? (
+                  <Loader2 className="w-5 h-5 animate-spin" strokeWidth={2} />
+                ) : (
+                  <Share2 className="w-5 h-5" strokeWidth={2} />
+                )}
+              </button>
+              <button 
                 onClick={handleExport}
                 disabled={isExporting || ayahsLoading}
                 className="p-2.5 bg-emerald-800 text-white rounded-xl disabled:opacity-50"
+                title="تصدير"
               >
                 {isExporting ? (
                   <Loader2 className="w-5 h-5 animate-spin" strokeWidth={2} />
