@@ -9,6 +9,7 @@ export async function GET(request: NextRequest) {
     const { searchParams } = new URL(request.url);
     const query = searchParams.get("q");
     const type = searchParams.get("type") || "text"; // text, surah, ayah
+    const limit = parseInt(searchParams.get("limit") || "0") || 0; // 0 = no limit
     
     if (!query) {
       return NextResponse.json(
@@ -17,7 +18,7 @@ export async function GET(request: NextRequest) {
       );
     }
     
-    console.log("🔍 Searching Quran for:", query, "type:", type);
+    console.log("🔍 Searching Quran for:", query, "type:", type, "limit:", limit);
     
     let results: any[] = [];
     
@@ -29,7 +30,14 @@ export async function GET(request: NextRequest) {
       const data = await response.json();
       
       if (data.code === 200 && data.data?.matches) {
-        results = data.data.matches.map((match: any) => ({
+        let matches = data.data.matches;
+        
+        // Apply limit if specified
+        if (limit > 0) {
+          matches = matches.slice(0, limit);
+        }
+        
+        results = matches.map((match: any) => ({
           surah: match.surah.number,
           surahName: match.surah.name,
           surahEnglishName: match.surah.englishName,

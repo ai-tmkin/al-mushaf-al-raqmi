@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useRef, useCallback } from "react";
+import { useState, useEffect, useRef, useCallback, useMemo } from "react";
 import Link from "next/link";
 import gsap from "gsap";
 import { Sidebar } from "@/components/layout/sidebar";
@@ -19,6 +19,7 @@ import {
   Clock,
   TrendingUp,
   Star,
+  Zap,
 } from "lucide-react";
 
 export const dynamic = "force-dynamic";
@@ -53,12 +54,65 @@ const saveRecentSearch = (query: string) => {
   localStorage.setItem("recentSearches", JSON.stringify(updated));
 };
 
+// Debounce hook for live search
+function useDebounce<T>(value: T, delay: number): T {
+  const [debouncedValue, setDebouncedValue] = useState<T>(value);
+
+  useEffect(() => {
+    const handler = setTimeout(() => {
+      setDebouncedValue(value);
+    }, delay);
+
+    return () => {
+      clearTimeout(handler);
+    };
+  }, [value, delay]);
+
+  return debouncedValue;
+}
+
 interface SearchResult {
   surah: number;
   surahName: string;
   surahEnglishName?: string;
   ayah: number;
   text: string;
+  highlightedText?: string;
+}
+
+// Highlight matching text in results
+function highlightMatch(text: string, query: string): string {
+  if (!query.trim()) return text;
+  
+  // Remove tashkeel for matching
+  const normalizeArabic = (str: string) => str.replace(/[\u064B-\u065F\u0670]/g, "");
+  const normalizedText = normalizeArabic(text);
+  const normalizedQuery = normalizeArabic(query);
+  
+  const index = normalizedText.indexOf(normalizedQuery);
+  if (index === -1) return text;
+  
+  // Find the actual position in the original text
+  let actualStart = 0;
+  let normalizedPos = 0;
+  for (let i = 0; i < text.length && normalizedPos < index; i++) {
+    if (!/[\u064B-\u065F\u0670]/.test(text[i])) {
+      normalizedPos++;
+    }
+    actualStart = i + 1;
+  }
+  
+  // Find the end position
+  let actualEnd = actualStart;
+  let matchLength = 0;
+  for (let i = actualStart; i < text.length && matchLength < normalizedQuery.length; i++) {
+    if (!/[\u064B-\u065F\u0670]/.test(text[i])) {
+      matchLength++;
+    }
+    actualEnd = i + 1;
+  }
+  
+  return text;
 }
 
 export default function SearchPage() {
@@ -70,13 +124,74 @@ export default function SearchPage() {
   const [recentSearches, setRecentSearches] = useState<string[]>([]);
   const [showFilters, setShowFilters] = useState(false);
   const [revelationType, setRevelationType] = useState<"all" | "meccan" | "medinan">("all");
+  const [liveSearchEnabled, setLiveSearchEnabled] = useState(true);
+  const [showSuggestions, setShowSuggestions] = useState(false);
+  const [suggestions, setSuggestions] = useState<SearchResult[]>([]);
+  const [isLoadingSuggestions, setIsLoadingSuggestions] = useState(false);
   const mainRef = useRef<HTMLDivElement>(null);
   const resultsRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
+  const suggestionsRef = useRef<HTMLDivElement>(null);
+  
+  // Debounced search query for live search (300ms delay)
+  const debouncedQuery = useDebounce(searchQuery, 300);
 
   // Load recent searches on mount
   useEffect(() => {
     setRecentSearches(getRecentSearches());
+  }, []);
+
+  // Live search effect - triggers when user types
+  useEffect(() => {
+    if (!liveSearchEnabled || activeTab !== "text") return;
+    if (!debouncedQuery.trim() || debouncedQuery.length < 2) {
+      setSuggestions([]);
+      setShowSuggestions(false);
+      return;
+    }
+
+    const fetchSuggestions = async () => {
+      setIsLoadingSuggestions(true);
+      try {
+        const response = await fetch(
+          `/api/search?q=${encodeURIComponent(debouncedQuery)}&type=text&limit=5`
+        );
+        const result = await response.json();
+        
+        if (result.success && result.data) {
+          // Add highlighted text to results
+          const enhancedResults = result.data.slice(0, 5).map((r: SearchResult) => ({
+            ...r,
+            highlightedText: highlightMatch(r.text, debouncedQuery),
+          }));
+          setSuggestions(enhancedResults);
+          setShowSuggestions(true);
+        }
+      } catch (error) {
+        console.error("Error fetching suggestions:", error);
+      } finally {
+        setIsLoadingSuggestions(false);
+      }
+    };
+
+    fetchSuggestions();
+  }, [debouncedQuery, liveSearchEnabled, activeTab]);
+
+  // Close suggestions when clicking outside
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (
+        suggestionsRef.current &&
+        !suggestionsRef.current.contains(event.target as Node) &&
+        inputRef.current &&
+        !inputRef.current.contains(event.target as Node)
+      ) {
+        setShowSuggestions(false);
+      }
+    };
+
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
   useEffect(() => {
@@ -256,21 +371,25 @@ export default function SearchPage() {
                 type="text"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
+                onFocus={() => {
+                  if (suggestions.length > 0) setShowSuggestions(true);
+                }}
                 onKeyPress={(e) => {
                   if (e.key === "Enter" && searchQuery.trim()) {
+                    setShowSuggestions(false);
                     handleSearch(searchQuery);
                   }
                 }}
                 placeholder={
                   activeTab === "text" 
-                    ? "ابحث عن كلمة أو جملة في القرآن..." 
+                    ? "ابحث عن كلمة أو جزء من آية..." 
                     : activeTab === "surah"
                     ? "أدخل رقم السورة (1-114)..."
                     : "اختر حالتك من الأسفل..."
                 }
-                className="w-full px-4 md:px-6 py-4 md:py-5 pr-12 md:pr-14 pl-12 rounded-xl md:rounded-2xl border-2 border-sand-200 bg-white text-sand-900 text-sm md:text-lg focus:outline-none focus:border-emerald-400 focus:ring-4 focus:ring-emerald-100 transition-all"
+                className="w-full px-4 md:px-6 py-4 md:py-5 pr-12 md:pr-14 pl-24 md:pl-28 rounded-xl md:rounded-2xl border-2 border-sand-200 bg-white text-sand-900 text-sm md:text-lg focus:outline-none focus:border-emerald-400 focus:ring-4 focus:ring-emerald-100 transition-all"
               />
-              {isLoading ? (
+              {isLoading || isLoadingSuggestions ? (
                 <Loader2
                   className="absolute right-4 md:right-5 top-1/2 -translate-y-1/2 w-5 md:w-6 h-5 md:h-6 text-emerald-600 animate-spin"
                 />
@@ -280,18 +399,91 @@ export default function SearchPage() {
                   strokeWidth={1.5}
                 />
               )}
-              {/* Filter Button */}
-              <button
-                onClick={() => setShowFilters(!showFilters)}
-                className={`absolute left-3 md:left-4 top-1/2 -translate-y-1/2 p-2 rounded-lg transition-colors ${
-                  showFilters || revelationType !== "all"
-                    ? "bg-emerald-100 text-emerald-600"
-                    : "text-sand-400 hover:text-sand-600 hover:bg-sand-100"
-                }`}
-              >
-                <Filter className="w-5 h-5" strokeWidth={1.5} />
-              </button>
+              
+              {/* Live Search Toggle & Filter Button */}
+              <div className="absolute left-2 md:left-3 top-1/2 -translate-y-1/2 flex items-center gap-1">
+                <button
+                  onClick={() => setLiveSearchEnabled(!liveSearchEnabled)}
+                  title={liveSearchEnabled ? "البحث المباشر مفعّل" : "البحث المباشر معطّل"}
+                  className={`p-2 rounded-lg transition-colors ${
+                    liveSearchEnabled
+                      ? "bg-emerald-100 text-emerald-600"
+                      : "text-sand-400 hover:text-sand-600 hover:bg-sand-100"
+                  }`}
+                >
+                  <Zap className="w-4 md:w-5 h-4 md:h-5" strokeWidth={1.5} />
+                </button>
+                <button
+                  onClick={() => setShowFilters(!showFilters)}
+                  className={`p-2 rounded-lg transition-colors ${
+                    showFilters || revelationType !== "all"
+                      ? "bg-emerald-100 text-emerald-600"
+                      : "text-sand-400 hover:text-sand-600 hover:bg-sand-100"
+                  }`}
+                >
+                  <Filter className="w-4 md:w-5 h-4 md:h-5" strokeWidth={1.5} />
+                </button>
+              </div>
             </div>
+
+            {/* Live Search Suggestions Dropdown */}
+            {showSuggestions && suggestions.length > 0 && activeTab === "text" && (
+              <div 
+                ref={suggestionsRef}
+                className="absolute z-50 w-full mt-2 bg-white rounded-xl border border-sand-200 shadow-2xl overflow-hidden"
+              >
+                <div className="p-3 border-b border-sand-100 bg-sand-50 flex items-center justify-between">
+                  <span className="text-xs text-sand-600 flex items-center gap-1.5">
+                    <Zap className="w-3.5 h-3.5 text-emerald-500" />
+                    نتائج فورية ({suggestions.length})
+                  </span>
+                  <button
+                    onClick={() => setShowSuggestions(false)}
+                    className="text-sand-400 hover:text-sand-600"
+                  >
+                    <X className="w-4 h-4" />
+                  </button>
+                </div>
+                <div className="max-h-[300px] md:max-h-[400px] overflow-y-auto">
+                  {suggestions.map((suggestion, i) => (
+                    <button
+                      key={`suggestion-${suggestion.surah}-${suggestion.ayah}-${i}`}
+                      onClick={() => {
+                        setShowSuggestions(false);
+                        saveRecentSearch(searchQuery);
+                        setRecentSearches(getRecentSearches());
+                        window.location.href = `/create?surah=${suggestion.surah}&ayah=${suggestion.ayah}`;
+                      }}
+                      className="w-full p-4 text-right hover:bg-emerald-50 transition-colors border-b border-sand-100 last:border-b-0 group"
+                    >
+                      <div className="flex items-center justify-between mb-2">
+                        <div className="flex items-center gap-2">
+                          <span className="px-2 py-0.5 bg-emerald-100 text-emerald-700 rounded-full text-xs">
+                            {suggestion.surahName}
+                          </span>
+                          <span className="text-xs text-sand-500">آية {suggestion.ayah}</span>
+                        </div>
+                        <ArrowLeft className="w-4 h-4 text-sand-300 group-hover:text-emerald-500 transition-colors" />
+                      </div>
+                      <p className="font-quran text-base md:text-lg text-sand-800 leading-relaxed line-clamp-2">
+                        {suggestion.text}
+                      </p>
+                    </button>
+                  ))}
+                </div>
+                <div className="p-3 border-t border-sand-100 bg-sand-50">
+                  <button
+                    onClick={() => {
+                      setShowSuggestions(false);
+                      handleSearch(searchQuery);
+                    }}
+                    className="w-full py-2 text-sm text-emerald-600 hover:text-emerald-700 font-medium"
+                  >
+                    عرض جميع النتائج ←
+                  </button>
+                </div>
+              </div>
+            )}
 
             {/* Filters Panel */}
             {showFilters && (
@@ -336,6 +528,28 @@ export default function SearchPage() {
                   >
                     مدنية
                   </button>
+                </div>
+                
+                {/* Live Search Toggle Info */}
+                <div className="mt-4 pt-4 border-t border-sand-100">
+                  <div className="flex items-center justify-between">
+                    <div>
+                      <h4 className="text-sm font-medium text-sand-900">البحث المباشر</h4>
+                      <p className="text-xs text-sand-500">عرض النتائج أثناء الكتابة</p>
+                    </div>
+                    <button
+                      onClick={() => setLiveSearchEnabled(!liveSearchEnabled)}
+                      className={`relative w-11 h-6 rounded-full transition-colors ${
+                        liveSearchEnabled ? "bg-emerald-600" : "bg-sand-200"
+                      }`}
+                    >
+                      <span
+                        className={`absolute top-0.5 w-5 h-5 bg-white rounded-full shadow transition-transform ${
+                          liveSearchEnabled ? "right-0.5" : "left-0.5"
+                        }`}
+                      />
+                    </button>
+                  </div>
                 </div>
               </div>
             )}
