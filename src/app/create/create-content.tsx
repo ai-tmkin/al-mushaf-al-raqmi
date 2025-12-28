@@ -877,7 +877,7 @@ export function CreateContent() {
     return (
       <div className="flex min-h-screen bg-sand-100">
         <Sidebar />
-        <main className="mr-[72px] w-[calc(100%-72px)] flex items-center justify-center">
+        <main className="md:mr-[72px] md:w-[calc(100%-72px)] w-full pt-14 md:pt-0 pb-20 md:pb-0 flex items-center justify-center">
           <div className="text-center">
             <Loader2 className="w-12 h-12 text-emerald-600 animate-spin mx-auto mb-4" />
             <p className="text-sand-600">جاري تحميل التصميم...</p>
@@ -887,14 +887,17 @@ export function CreateContent() {
     );
   }
 
+  // Mobile panel state
+  const [mobilePanel, setMobilePanel] = useState<"verse" | "style" | "colors" | "bg" | null>(null);
+
   return (
     <div className="flex min-h-screen bg-sand-100">
       <Sidebar />
 
       {/* Main Content */}
-      <main className="mr-[72px] w-[calc(100%-72px)] flex">
-        {/* Left Panel - Controls */}
-        <aside className="w-[380px] bg-white border-l border-sand-200 flex flex-col">
+      <main className="md:mr-[72px] md:w-[calc(100%-72px)] w-full pt-14 md:pt-0 pb-20 md:pb-0 flex flex-col md:flex-row">
+        {/* Left Panel - Controls (Desktop only) */}
+        <aside className="hidden md:flex w-[380px] bg-white border-l border-sand-200 flex-col">
           {/* Header */}
           <div className="p-6 border-b border-sand-100">
             <div className="flex items-center justify-between mb-1">
@@ -1445,15 +1448,15 @@ export function CreateContent() {
         </aside>
 
         {/* Right Panel - Preview */}
-        <div className="flex-1 h-screen bg-sand-100 flex flex-col sticky top-0 overflow-hidden">
+        <div className="flex-1 md:h-screen bg-sand-100 flex flex-col md:sticky md:top-0 overflow-hidden min-h-[50vh] md:min-h-0">
           {/* Preview Header */}
-          <div className="p-4 border-b border-sand-200 bg-white/80 backdrop-blur flex items-center justify-between">
-            <div className="flex items-center gap-4">
-              <span className="text-sm text-sand-500">المعاينة</span>
+          <div className="p-3 md:p-4 border-b border-sand-200 bg-white/80 backdrop-blur flex items-center justify-between">
+            <div className="flex items-center gap-2 md:gap-4">
+              <span className="hidden sm:inline text-sm text-sand-500">المعاينة</span>
               <div className="flex gap-1 bg-sand-100 rounded-lg p-1">
                 <button 
                   onClick={() => setPreviewSize("square")}
-                  className={`px-3 py-1.5 text-xs rounded-md transition-all ${
+                  className={`px-2 md:px-3 py-1.5 text-xs rounded-md transition-all ${
                     previewSize === "square" 
                       ? "bg-white shadow-sm text-sand-700" 
                       : "text-sand-500 hover:text-sand-700"
@@ -1463,7 +1466,7 @@ export function CreateContent() {
                 </button>
                 <button 
                   onClick={() => setPreviewSize("story")}
-                  className={`px-3 py-1.5 text-xs rounded-md transition-all ${
+                  className={`px-2 md:px-3 py-1.5 text-xs rounded-md transition-all ${
                     previewSize === "story" 
                       ? "bg-white shadow-sm text-sand-700" 
                       : "text-sand-500 hover:text-sand-700"
@@ -1473,7 +1476,7 @@ export function CreateContent() {
                 </button>
                 <button 
                   onClick={() => setPreviewSize("post")}
-                  className={`px-3 py-1.5 text-xs rounded-md transition-all ${
+                  className={`px-2 md:px-3 py-1.5 text-xs rounded-md transition-all ${
                     previewSize === "post" 
                       ? "bg-white shadow-sm text-sand-700" 
                       : "text-sand-500 hover:text-sand-700"
@@ -1483,34 +1486,34 @@ export function CreateContent() {
                 </button>
               </div>
             </div>
-            <div className="flex items-center gap-2">
+            <div className="flex items-center gap-1 md:gap-2">
               <button 
                 onClick={handleUndo}
                 disabled={historyIndex <= 0}
-                className="p-2 hover:bg-sand-100 rounded-lg transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
+                className="p-1.5 md:p-2 hover:bg-sand-100 rounded-lg transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
                 title="تراجع (Ctrl+Z)"
               >
-                <Undo2 className="w-5 h-5 text-sand-500" strokeWidth={1.5} />
+                <Undo2 className="w-4 md:w-5 h-4 md:h-5 text-sand-500" strokeWidth={1.5} />
               </button>
               <button 
                 onClick={handleRedo}
                 disabled={historyIndex >= history.length - 1}
-                className="p-2 hover:bg-sand-100 rounded-lg transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
+                className="p-1.5 md:p-2 hover:bg-sand-100 rounded-lg transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
                 title="إعادة (Ctrl+Y)"
               >
-                <Redo2 className="w-5 h-5 text-sand-500" strokeWidth={1.5} />
+                <Redo2 className="w-4 md:w-5 h-4 md:h-5 text-sand-500" strokeWidth={1.5} />
               </button>
-              <div className="w-px h-6 bg-sand-200"></div>
+              <div className="hidden md:block w-px h-6 bg-sand-200"></div>
               <button 
                 onClick={handleResetToDefaults}
-                className="p-2 hover:bg-sand-100 rounded-lg transition-colors"
+                className="hidden md:block p-2 hover:bg-sand-100 rounded-lg transition-colors"
                 title="إعادة تعيين للإعدادات الافتراضية"
               >
                 <RotateCcw className="w-5 h-5 text-sand-500" strokeWidth={1.5} />
               </button>
               <button 
                 onClick={handleCopySettings}
-                className="p-2 hover:bg-sand-100 rounded-lg transition-colors relative"
+                className="hidden md:block p-2 hover:bg-sand-100 rounded-lg transition-colors relative"
                 title="نسخ إعدادات التصميم"
               >
                 {copied ? (
@@ -1519,29 +1522,29 @@ export function CreateContent() {
                   <Copy className="w-5 h-5 text-sand-500" strokeWidth={1.5} />
                 )}
               </button>
-              <div className="w-px h-6 bg-sand-200"></div>
+              <div className="hidden md:block w-px h-6 bg-sand-200"></div>
               <button 
                 onClick={() => setZoomLevel(prev => Math.min(prev + 10, 200))}
                 disabled={zoomLevel >= 200}
-                className="p-2 hover:bg-sand-100 rounded-lg transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
+                className="p-1.5 md:p-2 hover:bg-sand-100 rounded-lg transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
                 title="تكبير"
               >
-                <ZoomIn className="w-5 h-5 text-sand-500" strokeWidth={1.5} />
+                <ZoomIn className="w-4 md:w-5 h-4 md:h-5 text-sand-500" strokeWidth={1.5} />
               </button>
-              <span className="text-xs text-sand-500 px-2 flex items-center min-w-[50px] justify-center">
+              <span className="hidden sm:flex text-xs text-sand-500 px-2 items-center min-w-[50px] justify-center">
                 {zoomLevel}%
               </span>
               <button 
                 onClick={() => setZoomLevel(prev => Math.max(prev - 10, 50))}
                 disabled={zoomLevel <= 50}
-                className="p-2 hover:bg-sand-100 rounded-lg transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
+                className="p-1.5 md:p-2 hover:bg-sand-100 rounded-lg transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
                 title="تصغير"
               >
-                <ZoomOut className="w-5 h-5 text-sand-500" strokeWidth={1.5} />
+                <ZoomOut className="w-4 md:w-5 h-4 md:h-5 text-sand-500" strokeWidth={1.5} />
               </button>
               <button 
                 onClick={() => setZoomLevel(100)}
-                className="p-2 hover:bg-sand-100 rounded-lg transition-colors"
+                className="hidden md:block p-2 hover:bg-sand-100 rounded-lg transition-colors"
                 title="حجم طبيعي"
               >
                 <Maximize2 className="w-5 h-5 text-sand-500" strokeWidth={1.5} />
@@ -1550,7 +1553,7 @@ export function CreateContent() {
           </div>
 
           {/* Preview Canvas */}
-          <div className="flex-1 p-8 flex items-center justify-center preview-canvas overflow-auto">
+          <div className="flex-1 p-4 md:p-8 flex items-center justify-center preview-canvas overflow-auto">
             <div
               style={{ 
                 transform: `scale(${zoomLevel / 100})`,
@@ -1669,6 +1672,331 @@ export function CreateContent() {
             </div>
           </div>
         </div>
+
+        {/* Mobile Controls Bar */}
+        <div className="md:hidden fixed bottom-[70px] left-0 right-0 z-30 bg-white border-t border-sand-200 px-4 py-3">
+          <div className="flex items-center justify-between gap-2">
+            {/* Quick Actions */}
+            <div className="flex items-center gap-2">
+              <button
+                onClick={() => setMobilePanel(mobilePanel === "verse" ? null : "verse")}
+                className={`flex items-center gap-1.5 px-3 py-2 rounded-xl text-sm transition-colors ${
+                  mobilePanel === "verse" ? "bg-emerald-100 text-emerald-700" : "bg-sand-100 text-sand-700"
+                }`}
+              >
+                <BookOpen className="w-4 h-4" strokeWidth={1.5} />
+                <span className="hidden xs:inline">الآية</span>
+              </button>
+              <button
+                onClick={() => setMobilePanel(mobilePanel === "style" ? null : "style")}
+                className={`flex items-center gap-1.5 px-3 py-2 rounded-xl text-sm transition-colors ${
+                  mobilePanel === "style" ? "bg-emerald-100 text-emerald-700" : "bg-sand-100 text-sand-700"
+                }`}
+              >
+                <Type className="w-4 h-4" strokeWidth={1.5} />
+                <span className="hidden xs:inline">الخط</span>
+              </button>
+              <button
+                onClick={() => setMobilePanel(mobilePanel === "colors" ? null : "colors")}
+                className={`flex items-center gap-1.5 px-3 py-2 rounded-xl text-sm transition-colors ${
+                  mobilePanel === "colors" ? "bg-emerald-100 text-emerald-700" : "bg-sand-100 text-sand-700"
+                }`}
+              >
+                <Palette className="w-4 h-4" strokeWidth={1.5} />
+                <span className="hidden xs:inline">الألوان</span>
+              </button>
+              <button
+                onClick={() => setMobilePanel(mobilePanel === "bg" ? null : "bg")}
+                className={`flex items-center gap-1.5 px-3 py-2 rounded-xl text-sm transition-colors ${
+                  mobilePanel === "bg" ? "bg-emerald-100 text-emerald-700" : "bg-sand-100 text-sand-700"
+                }`}
+              >
+                <ImageIcon className="w-4 h-4" strokeWidth={1.5} />
+                <span className="hidden xs:inline">الخلفية</span>
+              </button>
+            </div>
+            
+            {/* Main Actions */}
+            <div className="flex items-center gap-2">
+              <button 
+                onClick={handleSave}
+                disabled={isSaving || ayahsLoading}
+                className="p-2.5 bg-emerald-600 text-white rounded-xl disabled:opacity-50"
+              >
+                {isSaving ? (
+                  <Loader2 className="w-5 h-5 animate-spin" strokeWidth={2} />
+                ) : (
+                  <Save className="w-5 h-5" strokeWidth={2} />
+                )}
+              </button>
+              <button 
+                onClick={handleExport}
+                disabled={isExporting || ayahsLoading}
+                className="p-2.5 bg-emerald-800 text-white rounded-xl disabled:opacity-50"
+              >
+                {isExporting ? (
+                  <Loader2 className="w-5 h-5 animate-spin" strokeWidth={2} />
+                ) : (
+                  <Download className="w-5 h-5" strokeWidth={2} />
+                )}
+              </button>
+            </div>
+          </div>
+        </div>
+
+        {/* Mobile Panels */}
+        {mobilePanel && (
+          <div className="md:hidden fixed bottom-[130px] left-0 right-0 z-30 bg-white rounded-t-3xl shadow-2xl max-h-[60vh] overflow-y-auto">
+            <div className="p-4">
+              {/* Panel Handle */}
+              <div className="flex justify-center mb-3">
+                <div className="w-12 h-1 bg-sand-300 rounded-full"></div>
+              </div>
+
+              {/* Verse Selection Panel */}
+              {mobilePanel === "verse" && (
+                <div className="space-y-4">
+                  <h3 className="text-sm font-medium text-sand-700 flex items-center gap-2">
+                    <BookOpen className="w-4 h-4 text-emerald-600" strokeWidth={2} />
+                    اختيار الآية
+                  </h3>
+                  <div>
+                    <label className="text-xs text-sand-500 block mb-1.5">السورة</label>
+                    <select
+                      value={selectedSurah}
+                      onChange={(e) => {
+                        const newSurah = Number(e.target.value);
+                        setSelectedSurah(newSurah);
+                        setAyahStart(1);
+                        setAyahEnd(1);
+                      }}
+                      disabled={surahsLoading}
+                      className="w-full px-4 py-3 rounded-xl border border-sand-200 bg-sand-50 text-sand-900 text-sm focus:outline-none focus:border-emerald-400"
+                    >
+                      {surahsLoading ? (
+                        <option>جاري التحميل...</option>
+                      ) : (
+                        surahs?.map((surah) => (
+                          <option key={surah.number} value={surah.number}>
+                            {surah.number}. {surah.name}
+                          </option>
+                        ))
+                      )}
+                    </select>
+                  </div>
+                  <div className="grid grid-cols-2 gap-3">
+                    <div>
+                      <label className="text-xs text-sand-500 block mb-1.5">من آية</label>
+                      <input
+                        type="number"
+                        value={ayahStart}
+                        onChange={(e) => setAyahStart(Number(e.target.value))}
+                        min={1}
+                        max={selectedSurahData?.numberOfAyahs || 1}
+                        className="w-full px-4 py-3 rounded-xl border border-sand-200 bg-sand-50 text-sand-900 text-sm"
+                      />
+                    </div>
+                    <div>
+                      <label className="text-xs text-sand-500 block mb-1.5">إلى آية</label>
+                      <input
+                        type="number"
+                        value={ayahEnd}
+                        onChange={(e) => setAyahEnd(Number(e.target.value))}
+                        min={ayahStart}
+                        max={selectedSurahData?.numberOfAyahs || 1}
+                        className="w-full px-4 py-3 rounded-xl border border-sand-200 bg-sand-50 text-sand-900 text-sm"
+                      />
+                    </div>
+                  </div>
+                  <p className="text-xs text-sand-400">
+                    السورة {selectedSurah} تحتوي على {selectedSurahData?.numberOfAyahs} آية
+                  </p>
+                </div>
+              )}
+
+              {/* Style Panel */}
+              {mobilePanel === "style" && (
+                <div className="space-y-4">
+                  <h3 className="text-sm font-medium text-sand-700 flex items-center gap-2">
+                    <Type className="w-4 h-4 text-emerald-600" strokeWidth={2} />
+                    الخط والحجم
+                  </h3>
+                  <div className="grid grid-cols-2 gap-2">
+                    {FONT_OPTIONS.map((font) => (
+                      <button
+                        key={font.id}
+                        onClick={() => setSelectedFont(font.id)}
+                        className={`p-3 rounded-xl border-2 text-center transition-all ${
+                          selectedFont === font.id
+                            ? "border-emerald-500 bg-emerald-50"
+                            : "border-sand-200"
+                        }`}
+                      >
+                        <span className={`${font.className} text-lg block mb-1`}>بسم الله</span>
+                        <span className="text-[10px] text-sand-500">{font.name}</span>
+                      </button>
+                    ))}
+                  </div>
+                  <div>
+                    <div className="flex justify-between items-center mb-2">
+                      <label className="text-xs text-sand-500">حجم الخط</label>
+                      <span className="text-xs text-emerald-600 font-medium">{fontSize}px</span>
+                    </div>
+                    <input
+                      type="range"
+                      min={18}
+                      max={72}
+                      value={fontSize}
+                      onChange={(e) => setFontSize(Number(e.target.value))}
+                      className="w-full h-[6px] rounded-full bg-sand-200 appearance-none cursor-pointer [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:w-[18px] [&::-webkit-slider-thumb]:h-[18px] [&::-webkit-slider-thumb]:rounded-full [&::-webkit-slider-thumb]:bg-emerald-800"
+                    />
+                  </div>
+                  <div>
+                    <div className="flex justify-between items-center mb-2">
+                      <label className="text-xs text-sand-500">المسافة بين الأسطر</label>
+                      <span className="text-xs text-emerald-600 font-medium">{lineHeight.toFixed(1)}</span>
+                    </div>
+                    <input
+                      type="range"
+                      min={1}
+                      max={3}
+                      step={0.1}
+                      value={lineHeight}
+                      onChange={(e) => setLineHeight(Number(e.target.value))}
+                      className="w-full h-[6px] rounded-full bg-sand-200 appearance-none cursor-pointer [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:w-[18px] [&::-webkit-slider-thumb]:h-[18px] [&::-webkit-slider-thumb]:rounded-full [&::-webkit-slider-thumb]:bg-emerald-800"
+                    />
+                  </div>
+                </div>
+              )}
+
+              {/* Colors Panel */}
+              {mobilePanel === "colors" && (
+                <div className="space-y-4">
+                  <h3 className="text-sm font-medium text-sand-700 flex items-center gap-2">
+                    <Palette className="w-4 h-4 text-emerald-600" strokeWidth={2} />
+                    الألوان
+                  </h3>
+                  <div className="grid grid-cols-3 gap-2">
+                    {THEME_PALETTES.map((theme, i) => (
+                      <button
+                        key={i}
+                        onClick={() => {
+                          setTextColor(theme.colors.text);
+                          setBgColor(theme.colors.bg);
+                        }}
+                        className={`p-3 rounded-xl border-2 transition-all ${
+                          textColor === theme.colors.text && bgColor === theme.colors.bg
+                            ? "border-emerald-500 bg-emerald-50"
+                            : "border-sand-200"
+                        }`}
+                      >
+                        <span className="text-lg block mb-1">{theme.icon}</span>
+                        <span className="text-[10px] text-sand-600">{theme.name}</span>
+                      </button>
+                    ))}
+                  </div>
+                  <div className="flex gap-4">
+                    <div className="flex-1">
+                      <label className="text-xs text-sand-500 block mb-2">لون النص</label>
+                      <input
+                        type="color"
+                        value={textColor}
+                        onChange={(e) => setTextColor(e.target.value)}
+                        className="w-full h-12 rounded-xl cursor-pointer border-none shadow-sm"
+                      />
+                    </div>
+                    <div className="flex-1">
+                      <label className="text-xs text-sand-500 block mb-2">لون الخلفية</label>
+                      <input
+                        type="color"
+                        value={bgColor}
+                        onChange={(e) => setBgColor(e.target.value)}
+                        className="w-full h-12 rounded-xl cursor-pointer border-none shadow-sm"
+                      />
+                    </div>
+                  </div>
+                </div>
+              )}
+
+              {/* Background Panel */}
+              {mobilePanel === "bg" && (
+                <div className="space-y-4">
+                  <h3 className="text-sm font-medium text-sand-700 flex items-center gap-2">
+                    <ImageIcon className="w-4 h-4 text-emerald-600" strokeWidth={2} />
+                    صورة الخلفية
+                  </h3>
+                  <div className="grid grid-cols-4 gap-2">
+                    <button
+                      onClick={() => setBgImage("")}
+                      className={`aspect-square rounded-xl border-2 flex items-center justify-center ${
+                        bgImage === "" ? "border-emerald-500 bg-white" : "border-sand-200 bg-white"
+                      }`}
+                    >
+                      <X className="w-5 h-5 text-sand-400" strokeWidth={1.5} />
+                    </button>
+                    {[
+                      "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=400&q=80",
+                      "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=400&q=80",
+                      "https://images.unsplash.com/photo-1542816417-0983c9c9ad53?w=400&q=80",
+                      "https://images.unsplash.com/photo-1590073844006-33379778ae09?w=400&q=80",
+                      "https://images.unsplash.com/photo-1609599006353-e629aaabfeae?w=400&q=80",
+                    ].map((img, i) => (
+                      <button
+                        key={i}
+                        onClick={() => setBgImage(img)}
+                        className={`aspect-square rounded-xl border overflow-hidden ${
+                          bgImage === img ? "border-emerald-500 ring-2 ring-emerald-200" : "border-sand-200"
+                        }`}
+                      >
+                        <img src={img} alt="" className="w-full h-full object-cover" />
+                      </button>
+                    ))}
+                  </div>
+                  {bgImage && (
+                    <div className="space-y-3 p-3 bg-sand-50 rounded-xl">
+                      <div>
+                        <div className="flex justify-between items-center mb-1">
+                          <label className="text-xs text-sand-500">الشفافية</label>
+                          <span className="text-xs text-emerald-600 font-medium">{bgOpacity}%</span>
+                        </div>
+                        <input
+                          type="range"
+                          min={0}
+                          max={100}
+                          value={bgOpacity}
+                          onChange={(e) => setBgOpacity(Number(e.target.value))}
+                          className="w-full h-[4px] rounded-full bg-sand-200 appearance-none cursor-pointer [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:w-[14px] [&::-webkit-slider-thumb]:h-[14px] [&::-webkit-slider-thumb]:rounded-full [&::-webkit-slider-thumb]:bg-emerald-700"
+                        />
+                      </div>
+                      <div>
+                        <div className="flex justify-between items-center mb-1">
+                          <label className="text-xs text-sand-500">ضبابية</label>
+                          <span className="text-xs text-emerald-600 font-medium">{bgBlur}px</span>
+                        </div>
+                        <input
+                          type="range"
+                          min={0}
+                          max={20}
+                          value={bgBlur}
+                          onChange={(e) => setBgBlur(Number(e.target.value))}
+                          className="w-full h-[4px] rounded-full bg-sand-200 appearance-none cursor-pointer [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:w-[14px] [&::-webkit-slider-thumb]:h-[14px] [&::-webkit-slider-thumb]:rounded-full [&::-webkit-slider-thumb]:bg-emerald-700"
+                        />
+                      </div>
+                    </div>
+                  )}
+                </div>
+              )}
+
+              {/* Close Panel Button */}
+              <button
+                onClick={() => setMobilePanel(null)}
+                className="w-full mt-4 py-3 text-sand-600 text-sm rounded-xl border border-sand-200 hover:bg-sand-50"
+              >
+                إغلاق
+              </button>
+            </div>
+          </div>
+        )}
       </main>
     </div>
   );

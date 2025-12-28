@@ -171,7 +171,7 @@ export default function ProfilePage() {
     return (
       <div className="flex min-h-screen">
         <Sidebar />
-        <main className="mr-[72px] w-[calc(100%-72px)] bg-sand-50 flex items-center justify-center">
+        <main className="md:mr-[72px] md:w-[calc(100%-72px)] w-full pt-14 md:pt-0 pb-20 md:pb-0 bg-sand-50 flex items-center justify-center">
           <div className="text-center">
             <Loader2 className="w-8 h-8 text-emerald-600 animate-spin mx-auto mb-4" />
             <p className="text-sand-600">جاري تحميل الملف الشخصي...</p>
@@ -185,21 +185,21 @@ export default function ProfilePage() {
     <div className="flex min-h-screen">
       <Sidebar />
 
-      <main className="mr-[72px] w-[calc(100%-72px)] bg-sand-50 p-8 md:p-12">
+      <main className="md:mr-[72px] md:w-[calc(100%-72px)] w-full pt-14 md:pt-0 pb-20 md:pb-0 bg-sand-50 p-4 md:p-8 lg:p-12">
         <div ref={mainRef} className="max-w-4xl mx-auto">
           {/* Profile Card */}
-          <div className="profile-card bg-white rounded-3xl border border-sand-200 overflow-hidden shadow-sm mb-8">
+          <div className="profile-card bg-white rounded-2xl md:rounded-3xl border border-sand-200 overflow-hidden shadow-sm mb-6 md:mb-8">
             {/* Cover */}
-            <div className="h-32 bg-gradient-to-br from-emerald-600 to-emerald-800 relative">
+            <div className="h-24 md:h-32 bg-gradient-to-br from-emerald-600 to-emerald-800 relative">
               <div className="absolute inset-0 opacity-20" style={{ backgroundImage: "url(\"data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.3'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E\")" }}></div>
             </div>
 
             {/* Avatar & Info */}
-            <div className="px-8 pb-8">
-              <div className="flex flex-col md:flex-row md:items-end gap-6 -mt-16">
+            <div className="px-4 md:px-8 pb-6 md:pb-8">
+              <div className="flex flex-col md:flex-row md:items-end gap-4 md:gap-6 -mt-12 md:-mt-16">
                 {/* Avatar */}
-                <div className="relative">
-                  <div className="w-32 h-32 rounded-2xl bg-gradient-to-br from-emerald-500 to-emerald-700 flex items-center justify-center text-white text-4xl font-bold shadow-xl border-4 border-white">
+                <div className="relative mx-auto md:mx-0">
+                  <div className="w-24 md:w-32 h-24 md:h-32 rounded-2xl bg-gradient-to-br from-emerald-500 to-emerald-700 flex items-center justify-center text-white text-3xl md:text-4xl font-bold shadow-xl border-4 border-white">
                     {avatarUrl ? (
                       <img
                         src={avatarUrl}
@@ -218,7 +218,7 @@ export default function ProfilePage() {
                 </div>
 
                 {/* Info */}
-                <div className="flex-1">
+                <div className="flex-1 text-center md:text-right">
                   {isEditing ? (
                     <div className="space-y-3">
                       <input
@@ -226,24 +226,24 @@ export default function ProfilePage() {
                         value={displayName}
                         onChange={(e) => setDisplayName(e.target.value)}
                         placeholder="الاسم المعروض"
-                        className="w-full px-4 py-2 rounded-xl border border-sand-200 focus:outline-none focus:border-emerald-500"
+                        className="w-full px-4 py-2 rounded-xl border border-sand-200 focus:outline-none focus:border-emerald-500 text-sm md:text-base"
                       />
                       <input
                         type="text"
                         value={username}
                         onChange={(e) => setUsername(e.target.value)}
                         placeholder="اسم المستخدم"
-                        className="w-full px-4 py-2 rounded-xl border border-sand-200 focus:outline-none focus:border-emerald-500"
+                        className="w-full px-4 py-2 rounded-xl border border-sand-200 focus:outline-none focus:border-emerald-500 text-sm md:text-base"
                         dir="ltr"
                       />
                     </div>
                   ) : (
                     <>
-                      <h1 className="text-2xl font-medium text-sand-900">
+                      <h1 className="text-xl md:text-2xl font-medium text-sand-900">
                         {displayName || "مستخدم جديد"}
                       </h1>
                       {username && (
-                        <p className="text-sand-500" dir="ltr">
+                        <p className="text-sm md:text-base text-sand-500" dir="ltr">
                           @{username}
                         </p>
                       )}
@@ -252,12 +252,12 @@ export default function ProfilePage() {
                 </div>
 
                 {/* Actions */}
-                <div className="flex gap-2">
+                <div className="flex gap-2 justify-center md:justify-start">
                   {isEditing ? (
                     <>
                       <button
                         onClick={() => setIsEditing(false)}
-                        className="px-4 py-2 rounded-xl border border-sand-200 text-sand-600 hover:bg-sand-50 transition-colors flex items-center gap-2"
+                        className="px-3 md:px-4 py-2 rounded-xl border border-sand-200 text-sand-600 hover:bg-sand-50 transition-colors flex items-center gap-1.5 md:gap-2 text-sm md:text-base"
                       >
                         <X className="w-4 h-4" />
                         إلغاء
@@ -265,7 +265,7 @@ export default function ProfilePage() {
                       <button
                         onClick={handleSave}
                         disabled={isSaving}
-                        className="px-4 py-2 rounded-xl bg-emerald-600 text-white hover:bg-emerald-700 transition-colors flex items-center gap-2 disabled:opacity-50"
+                        className="px-3 md:px-4 py-2 rounded-xl bg-emerald-600 text-white hover:bg-emerald-700 transition-colors flex items-center gap-1.5 md:gap-2 disabled:opacity-50 text-sm md:text-base"
                       >
                         {isSaving ? (
                           <Loader2 className="w-4 h-4 animate-spin" />
@@ -278,7 +278,7 @@ export default function ProfilePage() {
                   ) : (
                     <button
                       onClick={() => setIsEditing(true)}
-                      className="px-4 py-2 rounded-xl border border-sand-200 text-sand-600 hover:bg-sand-50 transition-colors flex items-center gap-2"
+                      className="px-3 md:px-4 py-2 rounded-xl border border-sand-200 text-sand-600 hover:bg-sand-50 transition-colors flex items-center gap-1.5 md:gap-2 text-sm md:text-base"
                     >
                       <Edit3 className="w-4 h-4" />
                       تعديل
@@ -288,29 +288,29 @@ export default function ProfilePage() {
               </div>
 
               {/* Bio */}
-              <div className="mt-6">
+              <div className="mt-4 md:mt-6">
                 {isEditing ? (
                   <textarea
                     value={bio}
                     onChange={(e) => setBio(e.target.value)}
                     placeholder="نبذة عنك..."
                     rows={3}
-                    className="w-full px-4 py-3 rounded-xl border border-sand-200 focus:outline-none focus:border-emerald-500 resize-none"
+                    className="w-full px-4 py-3 rounded-xl border border-sand-200 focus:outline-none focus:border-emerald-500 resize-none text-sm md:text-base"
                   />
                 ) : bio ? (
-                  <p className="text-sand-600">{bio}</p>
+                  <p className="text-sm md:text-base text-sand-600 text-center md:text-right">{bio}</p>
                 ) : (
-                  <p className="text-sand-400 italic">لم تضف نبذة بعد</p>
+                  <p className="text-sm md:text-base text-sand-400 italic text-center md:text-right">لم تضف نبذة بعد</p>
                 )}
               </div>
 
               {/* Meta */}
-              <div className="mt-6 flex flex-wrap gap-4 text-sm text-sand-500">
-                <div className="flex items-center gap-2">
+              <div className="mt-4 md:mt-6 flex flex-col sm:flex-row flex-wrap gap-2 md:gap-4 text-xs md:text-sm text-sand-500 justify-center md:justify-start">
+                <div className="flex items-center gap-2 justify-center md:justify-start">
                   <Mail className="w-4 h-4" />
-                  <span dir="ltr">{user?.email}</span>
+                  <span dir="ltr" className="truncate max-w-[200px]">{user?.email}</span>
                 </div>
-                <div className="flex items-center gap-2">
+                <div className="flex items-center gap-2 justify-center md:justify-start">
                   <Calendar className="w-4 h-4" />
                   <span>
                     انضم في{" "}
@@ -325,54 +325,60 @@ export default function ProfilePage() {
           </div>
 
           {/* Stats Grid */}
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <div className="stat-card bg-white rounded-2xl border border-sand-200 p-6 text-center">
-              <ImageIcon className="w-8 h-8 text-emerald-600 mx-auto mb-2" />
-              <p className="text-3xl font-bold text-sand-900">{stats.designs}</p>
-              <p className="text-sm text-sand-500">تصميم</p>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4 mb-6 md:mb-8">
+            <div className="stat-card bg-white rounded-xl md:rounded-2xl border border-sand-200 p-4 md:p-6 text-center">
+              <ImageIcon className="w-6 md:w-8 h-6 md:h-8 text-emerald-600 mx-auto mb-1.5 md:mb-2" />
+              <p className="text-2xl md:text-3xl font-bold text-sand-900">{stats.designs}</p>
+              <p className="text-xs md:text-sm text-sand-500">تصميم</p>
             </div>
-            <div className="stat-card bg-white rounded-2xl border border-sand-200 p-6 text-center">
-              <FolderHeart className="w-8 h-8 text-gold-600 mx-auto mb-2" />
-              <p className="text-3xl font-bold text-sand-900">{stats.collections}</p>
-              <p className="text-sm text-sand-500">مجموعة</p>
+            <div className="stat-card bg-white rounded-xl md:rounded-2xl border border-sand-200 p-4 md:p-6 text-center">
+              <FolderHeart className="w-6 md:w-8 h-6 md:h-8 text-gold-600 mx-auto mb-1.5 md:mb-2" />
+              <p className="text-2xl md:text-3xl font-bold text-sand-900">{stats.collections}</p>
+              <p className="text-xs md:text-sm text-sand-500">مجموعة</p>
             </div>
-            <div className="stat-card bg-white rounded-2xl border border-sand-200 p-6 text-center">
-              <Heart className="w-8 h-8 text-red-500 mx-auto mb-2" />
-              <p className="text-3xl font-bold text-sand-900">{stats.likes}</p>
-              <p className="text-sm text-sand-500">إعجاب</p>
+            <div className="stat-card bg-white rounded-xl md:rounded-2xl border border-sand-200 p-4 md:p-6 text-center">
+              <Heart className="w-6 md:w-8 h-6 md:h-8 text-red-500 mx-auto mb-1.5 md:mb-2" />
+              <p className="text-2xl md:text-3xl font-bold text-sand-900">{stats.likes}</p>
+              <p className="text-xs md:text-sm text-sand-500">إعجاب</p>
             </div>
-            <div className="stat-card bg-white rounded-2xl border border-sand-200 p-6 text-center">
-              <Flame className="w-8 h-8 text-orange-500 mx-auto mb-2" />
-              <p className="text-3xl font-bold text-sand-900">{stats.streak}</p>
-              <p className="text-sm text-sand-500">يوم متتالي</p>
+            <div className="stat-card bg-white rounded-xl md:rounded-2xl border border-sand-200 p-4 md:p-6 text-center">
+              <Flame className="w-6 md:w-8 h-6 md:h-8 text-orange-500 mx-auto mb-1.5 md:mb-2" />
+              <p className="text-2xl md:text-3xl font-bold text-sand-900">{stats.streak}</p>
+              <p className="text-xs md:text-sm text-sand-500">يوم متتالي</p>
             </div>
           </div>
 
           {/* Quick Links */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 md:gap-4">
             <Link
               href="/collections"
-              className="bg-white rounded-2xl border border-sand-200 p-6 hover:border-emerald-300 hover:shadow-md transition-all group"
+              className="bg-white rounded-xl md:rounded-2xl border border-sand-200 p-4 md:p-6 hover:border-emerald-300 hover:shadow-md transition-all group flex sm:flex-col items-center sm:items-start gap-3 sm:gap-0"
             >
-              <FolderHeart className="w-8 h-8 text-emerald-600 mb-3" />
-              <h3 className="font-medium text-sand-900 mb-1">مجموعاتي</h3>
-              <p className="text-sm text-sand-500">عرض وإدارة مجموعاتك</p>
+              <FolderHeart className="w-6 md:w-8 h-6 md:h-8 text-emerald-600 sm:mb-3" />
+              <div>
+                <h3 className="font-medium text-sand-900 text-sm md:text-base mb-0.5 md:mb-1">مجموعاتي</h3>
+                <p className="text-xs md:text-sm text-sand-500">عرض وإدارة مجموعاتك</p>
+              </div>
             </Link>
             <Link
               href="/create"
-              className="bg-white rounded-2xl border border-sand-200 p-6 hover:border-emerald-300 hover:shadow-md transition-all group"
+              className="bg-white rounded-xl md:rounded-2xl border border-sand-200 p-4 md:p-6 hover:border-emerald-300 hover:shadow-md transition-all group flex sm:flex-col items-center sm:items-start gap-3 sm:gap-0"
             >
-              <Edit3 className="w-8 h-8 text-gold-600 mb-3" />
-              <h3 className="font-medium text-sand-900 mb-1">إنشاء تصميم</h3>
-              <p className="text-sm text-sand-500">ابدأ تصميماً جديداً</p>
+              <Edit3 className="w-6 md:w-8 h-6 md:h-8 text-gold-600 sm:mb-3" />
+              <div>
+                <h3 className="font-medium text-sand-900 text-sm md:text-base mb-0.5 md:mb-1">إنشاء تصميم</h3>
+                <p className="text-xs md:text-sm text-sand-500">ابدأ تصميماً جديداً</p>
+              </div>
             </Link>
             <Link
               href="/settings"
-              className="bg-white rounded-2xl border border-sand-200 p-6 hover:border-emerald-300 hover:shadow-md transition-all group"
+              className="bg-white rounded-xl md:rounded-2xl border border-sand-200 p-4 md:p-6 hover:border-emerald-300 hover:shadow-md transition-all group flex sm:flex-col items-center sm:items-start gap-3 sm:gap-0"
             >
-              <Award className="w-8 h-8 text-purple-600 mb-3" />
-              <h3 className="font-medium text-sand-900 mb-1">الإعدادات</h3>
-              <p className="text-sm text-sand-500">تخصيص حسابك</p>
+              <Award className="w-6 md:w-8 h-6 md:h-8 text-purple-600 sm:mb-3" />
+              <div>
+                <h3 className="font-medium text-sand-900 text-sm md:text-base mb-0.5 md:mb-1">الإعدادات</h3>
+                <p className="text-xs md:text-sm text-sand-500">تخصيص حسابك</p>
+              </div>
             </Link>
           </div>
         </div>

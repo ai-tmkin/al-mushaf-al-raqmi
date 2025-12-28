@@ -236,13 +236,13 @@ export default function GalleryPage() {
     <div className="flex min-h-screen">
       <Sidebar />
 
-      <main className="mr-[72px] w-[calc(100%-72px)] bg-sand-50">
+      <main className="md:mr-[72px] md:w-[calc(100%-72px)] w-full pt-14 md:pt-0 pb-20 md:pb-0 bg-sand-50">
         {/* Header */}
-        <header className="bg-gradient-to-br from-emerald-900 to-emerald-950 text-white py-16 px-6 relative overflow-hidden">
+        <header className="bg-gradient-to-br from-emerald-900 to-emerald-950 text-white py-8 md:py-16 px-4 md:px-6 relative overflow-hidden">
           <div className="absolute inset-0 bg-islamic-pattern opacity-5"></div>
           <div className="max-w-6xl mx-auto relative z-10">
-            <h1 className="text-4xl font-light mb-4">معرض التصاميم</h1>
-            <p className="text-emerald-200 text-lg mb-8 max-w-xl">
+            <h1 className="text-2xl md:text-4xl font-light mb-2 md:mb-4">معرض التصاميم</h1>
+            <p className="text-emerald-200 text-sm md:text-lg mb-4 md:mb-8 max-w-xl">
               اكتشف تصاميم إبداعية من المجتمع، واستلهم أفكاراً جديدة لآياتك.
             </p>
             <div className="relative max-w-lg">
@@ -251,36 +251,36 @@ export default function GalleryPage() {
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 placeholder="ابحث عن تصاميم..."
-                className="w-full px-5 py-4 pr-12 rounded-2xl bg-white/10 backdrop-blur border border-white/20 text-white placeholder-white/50 text-sm focus:outline-none focus:bg-white/20"
+                className="w-full px-4 md:px-5 py-3 md:py-4 pr-10 md:pr-12 rounded-xl md:rounded-2xl bg-white/10 backdrop-blur border border-white/20 text-white placeholder-white/50 text-sm focus:outline-none focus:bg-white/20"
               />
-              <Search className="absolute right-4 top-1/2 -translate-y-1/2 w-5 h-5 text-white/50" strokeWidth={1.5} />
+              <Search className="absolute right-3 md:right-4 top-1/2 -translate-y-1/2 w-5 h-5 text-white/50" strokeWidth={1.5} />
             </div>
           </div>
         </header>
 
         {/* Filters */}
-        <div className="sticky top-0 bg-white border-b border-sand-200 z-10">
-          <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
-            <div className="flex items-center gap-2">
+        <div className="sticky top-14 md:top-0 bg-white border-b border-sand-200 z-10">
+          <div className="max-w-6xl mx-auto px-3 md:px-6 py-3 md:py-4 flex items-center justify-between overflow-x-auto no-scrollbar">
+            <div className="flex items-center gap-1.5 md:gap-2">
               {filters.map((filter) => {
                 const Icon = filter.icon;
                 return (
                   <button
                     key={filter.id}
                     onClick={() => setActiveFilter(filter.id)}
-                    className={`px-4 py-2 rounded-xl text-sm flex items-center gap-2 transition-colors ${
+                    className={`px-3 md:px-4 py-2 rounded-xl text-xs md:text-sm flex items-center gap-1.5 md:gap-2 transition-colors whitespace-nowrap ${
                       activeFilter === filter.id
                         ? "bg-emerald-50 text-emerald-700"
                         : "text-sand-600 hover:bg-sand-100"
                     }`}
                   >
                     <Icon className="w-4 h-4" strokeWidth={1.5} />
-                    {filter.label}
+                    <span className="hidden xs:inline">{filter.label}</span>
                   </button>
                 );
               })}
             </div>
-            <button className="flex items-center gap-2 text-sand-600 text-sm hover:text-sand-800">
+            <button className="hidden md:flex items-center gap-2 text-sand-600 text-sm hover:text-sand-800">
               <Filter className="w-4 h-4" strokeWidth={1.5} />
               تصفية متقدمة
             </button>
@@ -288,7 +288,7 @@ export default function GalleryPage() {
         </div>
 
         {/* Masonry Grid */}
-        <div className="max-w-6xl mx-auto px-6 py-8">
+        <div className="max-w-6xl mx-auto px-3 md:px-6 py-4 md:py-8">
           {isLoading && page === 1 ? (
             <div className="text-center py-20">
               <Loader2 className="w-12 h-12 text-emerald-600 animate-spin mx-auto mb-4" />

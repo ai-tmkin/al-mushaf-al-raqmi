@@ -156,19 +156,19 @@ export default function SearchPage() {
     <div className="flex min-h-screen">
       <Sidebar />
 
-      <main className="mr-[72px] w-[calc(100%-72px)] bg-sand-50 p-12">
+      <main className="md:mr-[72px] md:w-[calc(100%-72px)] w-full pt-14 md:pt-0 pb-20 md:pb-0 bg-sand-50 p-4 md:p-12">
         <div ref={mainRef} className="max-w-4xl mx-auto">
           {/* Header */}
-          <div className="mb-12 animate-in">
-            <h1 className="text-4xl font-light text-sand-900 mb-3">البحث في القرآن</h1>
-            <p className="text-sand-600">ابحث عن آية أو موضوع أو حالة نفسية</p>
+          <div className="mb-6 md:mb-12 animate-in">
+            <h1 className="text-2xl md:text-4xl font-light text-sand-900 mb-2 md:mb-3">البحث في القرآن</h1>
+            <p className="text-sm md:text-base text-sand-600">ابحث عن آية أو موضوع أو حالة نفسية</p>
           </div>
 
           {/* Search Tabs */}
-          <div className="flex gap-2 mb-8 animate-in">
+          <div className="flex gap-1.5 md:gap-2 mb-6 md:mb-8 animate-in overflow-x-auto no-scrollbar">
             <button
               onClick={() => { setActiveTab("text"); clearResults(); }}
-              className={`px-6 py-3 rounded-xl text-sm font-medium transition-colors ${
+              className={`px-4 md:px-6 py-2 md:py-3 rounded-xl text-xs md:text-sm font-medium transition-colors whitespace-nowrap ${
                 activeTab === "text"
                   ? "bg-emerald-100 text-emerald-700"
                   : "bg-sand-100 text-sand-600 hover:bg-sand-200"
@@ -178,7 +178,7 @@ export default function SearchPage() {
             </button>
             <button
               onClick={() => { setActiveTab("emotional"); clearResults(); }}
-              className={`px-6 py-3 rounded-xl text-sm font-medium transition-colors ${
+              className={`px-4 md:px-6 py-2 md:py-3 rounded-xl text-xs md:text-sm font-medium transition-colors whitespace-nowrap ${
                 activeTab === "emotional"
                   ? "bg-emerald-100 text-emerald-700"
                   : "bg-sand-100 text-sand-600 hover:bg-sand-200"
@@ -188,7 +188,7 @@ export default function SearchPage() {
             </button>
             <button
               onClick={() => { setActiveTab("surah"); clearResults(); }}
-              className={`px-6 py-3 rounded-xl text-sm font-medium transition-colors ${
+              className={`px-4 md:px-6 py-2 md:py-3 rounded-xl text-xs md:text-sm font-medium transition-colors whitespace-nowrap ${
                 activeTab === "surah"
                   ? "bg-emerald-100 text-emerald-700"
                   : "bg-sand-100 text-sand-600 hover:bg-sand-200"
@@ -199,7 +199,7 @@ export default function SearchPage() {
           </div>
 
           {/* Search Input */}
-          <div className="relative mb-12 animate-in">
+          <div className="relative mb-6 md:mb-12 animate-in">
             <input
               type="text"
               value={searchQuery}
@@ -221,7 +221,7 @@ export default function SearchPage() {
                   ? "أدخل رقم السورة (1-114)..."
                   : "اختر حالتك من الأسفل..."
               }
-              className="w-full px-6 py-5 pr-14 rounded-2xl border-2 border-sand-200 bg-white text-sand-900 text-lg focus:outline-none focus:border-emerald-400 focus:ring-4 focus:ring-emerald-100 transition-all"
+              className="w-full px-4 md:px-6 py-4 md:py-5 pr-12 md:pr-14 rounded-xl md:rounded-2xl border-2 border-sand-200 bg-white text-sand-900 text-sm md:text-lg focus:outline-none focus:border-emerald-400 focus:ring-4 focus:ring-emerald-100 transition-all"
             />
             {isLoading ? (
               <Loader2

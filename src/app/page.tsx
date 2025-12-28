@@ -15,7 +15,7 @@ export default function HomePage() {
       <Sidebar />
 
       {/* Main Content Area */}
-      <main className="mr-[72px] w-[calc(100%-72px)] relative">
+      <main className="md:mr-[72px] md:w-[calc(100%-72px)] w-full pt-14 md:pt-0 pb-20 md:pb-0 relative">
         {/* Background Pattern */}
         <div className="fixed top-0 w-full h-full -z-10 bg-geometric opacity-50"></div>
 

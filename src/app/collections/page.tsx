@@ -244,7 +244,7 @@ export default function CollectionsPage() {
     return (
       <div className="flex min-h-screen">
         <Sidebar />
-        <main className="mr-[72px] w-[calc(100%-72px)] bg-sand-50 flex items-center justify-center">
+        <main className="md:mr-[72px] md:w-[calc(100%-72px)] w-full pt-14 md:pt-0 pb-20 md:pb-0 bg-sand-50 flex items-center justify-center">
           <div className="text-center">
             <Loader2 className="w-12 h-12 text-emerald-600 animate-spin mx-auto mb-4" />
             <p className="text-sand-600">جاري تحميل المجموعات...</p>
@@ -258,43 +258,43 @@ export default function CollectionsPage() {
     <div className="flex min-h-screen">
       <Sidebar />
 
-      <main ref={mainRef} className="mr-[72px] w-[calc(100%-72px)] bg-sand-50 p-12">
+      <main ref={mainRef} className="md:mr-[72px] md:w-[calc(100%-72px)] w-full pt-14 md:pt-0 pb-20 md:pb-0 bg-sand-50 p-4 md:p-12">
         <div className="max-w-6xl mx-auto">
           {/* Header */}
-          <div className="mb-12 animate-in">
-            <div className="flex items-center gap-3 mb-3">
-              <FolderHeart className="w-8 h-8 text-emerald-700" strokeWidth={1.5} />
-              <h1 className="text-4xl font-light text-sand-900">مجموعاتي</h1>
+          <div className="mb-6 md:mb-12 animate-in">
+            <div className="flex items-center gap-2 md:gap-3 mb-2 md:mb-3">
+              <FolderHeart className="w-6 md:w-8 h-6 md:h-8 text-emerald-700" strokeWidth={1.5} />
+              <h1 className="text-2xl md:text-4xl font-light text-sand-900">مجموعاتي</h1>
             </div>
-            <p className="text-sand-600">جميع تصاميمك المحفوظة في مكان واحد</p>
+            <p className="text-sm md:text-base text-sand-600">جميع تصاميمك المحفوظة في مكان واحد</p>
           </div>
 
           {/* Stats */}
-          <div className="grid grid-cols-3 gap-6 mb-12 animate-in">
-            <div className="bg-white rounded-2xl p-6 border border-sand-200">
-              <p className="text-3xl font-light text-sand-900 mb-1">
+          <div className="grid grid-cols-3 gap-3 md:gap-6 mb-6 md:mb-12 animate-in">
+            <div className="bg-white rounded-xl md:rounded-2xl p-4 md:p-6 border border-sand-200">
+              <p className="text-xl md:text-3xl font-light text-sand-900 mb-1">
                 {designs.length}
               </p>
-              <p className="text-sm text-sand-500">تصميم محفوظ</p>
+              <p className="text-xs md:text-sm text-sand-500">تصميم محفوظ</p>
             </div>
-            <div className="bg-white rounded-2xl p-6 border border-sand-200">
-              <p className="text-3xl font-light text-sand-900 mb-1">{collections.length}</p>
-              <p className="text-sm text-sand-500">مجموعة</p>
+            <div className="bg-white rounded-xl md:rounded-2xl p-4 md:p-6 border border-sand-200">
+              <p className="text-xl md:text-3xl font-light text-sand-900 mb-1">{collections.length}</p>
+              <p className="text-xs md:text-sm text-sand-500">مجموعة</p>
             </div>
-            <div className="bg-white rounded-2xl p-6 border border-sand-200">
-              <div className="flex items-center gap-2 justify-center">
-                <Heart className="w-5 h-5 text-red-500 fill-red-500" strokeWidth={1.5} />
-                <p className="text-3xl font-light text-sand-900">{totalLikes}</p>
+            <div className="bg-white rounded-xl md:rounded-2xl p-4 md:p-6 border border-sand-200">
+              <div className="flex items-center gap-1.5 md:gap-2 justify-center">
+                <Heart className="w-4 md:w-5 h-4 md:h-5 text-red-500 fill-red-500" strokeWidth={1.5} />
+                <p className="text-xl md:text-3xl font-light text-sand-900">{totalLikes}</p>
               </div>
-              <p className="text-sm text-sand-500">إعجاب</p>
+              <p className="text-xs md:text-sm text-sand-500">إعجاب</p>
             </div>
           </div>
 
           {/* Collections Groups */}
           {collections.length > 0 && (
-            <div className="mb-12 animate-in">
-              <h2 className="text-lg font-normal text-sand-800 mb-4">المجموعات</h2>
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div className="mb-6 md:mb-12 animate-in">
+              <h2 className="text-base md:text-lg font-normal text-sand-800 mb-3 md:mb-4">المجموعات</h2>
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 md:gap-6">
                 {collections.map((collection, idx) => {
                   const gradients = [
                     { bg: "from-emerald-100 to-emerald-50", text: "text-emerald-800" },
@@ -336,19 +336,19 @@ export default function CollectionsPage() {
             </div>
 
             {designs.length === 0 ? (
-              <div className="text-center py-12 bg-white rounded-2xl border border-sand-200">
-                <FolderHeart className="w-16 h-16 text-sand-300 mx-auto mb-4" strokeWidth={1} />
-                <p className="text-sand-600 mb-4">لا توجد تصاميم محفوظة بعد</p>
+              <div className="text-center py-8 md:py-12 bg-white rounded-xl md:rounded-2xl border border-sand-200">
+                <FolderHeart className="w-12 md:w-16 h-12 md:h-16 text-sand-300 mx-auto mb-3 md:mb-4" strokeWidth={1} />
+                <p className="text-sm md:text-base text-sand-600 mb-3 md:mb-4">لا توجد تصاميم محفوظة بعد</p>
                 <Link
                   href="/create"
-                  className="inline-flex items-center gap-2 px-6 py-3 bg-emerald-600 text-white rounded-xl hover:bg-emerald-700 transition-colors"
+                  className="inline-flex items-center gap-2 px-4 md:px-6 py-2.5 md:py-3 bg-emerald-600 text-white rounded-xl text-sm md:text-base hover:bg-emerald-700 transition-colors"
                 >
-                  <Plus className="w-5 h-5" strokeWidth={2} />
+                  <Plus className="w-4 md:w-5 h-4 md:h-5" strokeWidth={2} />
                   <span>إنشاء تصميم جديد</span>
                 </Link>
               </div>
             ) : (
-              <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4">
+              <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3 md:gap-4">
                 {designs.map((design) => {
                   const customization = design.customization || {};
                   return (

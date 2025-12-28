@@ -198,7 +198,7 @@ export default function SettingsPage() {
     return (
       <div className="flex min-h-screen">
         <Sidebar />
-        <main className="mr-[72px] w-[calc(100%-72px)] bg-sand-50 flex items-center justify-center">
+        <main className="md:mr-[72px] md:w-[calc(100%-72px)] w-full pt-14 md:pt-0 pb-20 md:pb-0 bg-sand-50 flex items-center justify-center">
           <Loader2 className="w-8 h-8 text-emerald-600 animate-spin" />
         </main>
       </div>
@@ -209,22 +209,22 @@ export default function SettingsPage() {
     <div className="flex min-h-screen">
       <Sidebar />
 
-      <main className="mr-[72px] w-[calc(100%-72px)] bg-sand-50 p-12">
+      <main className="md:mr-[72px] md:w-[calc(100%-72px)] w-full pt-14 md:pt-0 pb-20 md:pb-0 bg-sand-50 p-4 md:p-12">
         <div ref={mainRef} className="max-w-4xl mx-auto">
           {/* Header with Save Button */}
-          <div className="flex items-start justify-between mb-12 animate-in">
+          <div className="flex flex-col sm:flex-row items-start justify-between gap-4 mb-8 md:mb-12 animate-in">
             <div>
-              <div className="flex items-center gap-3 mb-3">
-                <SettingsIcon className="w-8 h-8 text-emerald-700" strokeWidth={1.5} />
-                <h1 className="text-4xl font-light text-sand-900">الإعدادات</h1>
+              <div className="flex items-center gap-2 md:gap-3 mb-2 md:mb-3">
+                <SettingsIcon className="w-6 md:w-8 h-6 md:h-8 text-emerald-700" strokeWidth={1.5} />
+                <h1 className="text-2xl md:text-4xl font-light text-sand-900">الإعدادات</h1>
               </div>
-              <p className="text-sand-600">تخصيص تجربتك في المصحف الرقمي</p>
+              <p className="text-sm md:text-base text-sand-600">تخصيص تجربتك في المصحف الرقمي</p>
             </div>
             
             <button
               onClick={handleSave}
               disabled={isSaving || !hasChanges}
-              className={`flex items-center gap-2 px-6 py-3 rounded-xl font-medium transition-all ${
+              className={`w-full sm:w-auto flex items-center justify-center gap-2 px-4 md:px-6 py-2.5 md:py-3 rounded-xl font-medium text-sm md:text-base transition-all ${
                 saveSuccess
                   ? "bg-emerald-100 text-emerald-700"
                   : hasChanges
@@ -233,11 +233,11 @@ export default function SettingsPage() {
               }`}
             >
               {isSaving ? (
-                <Loader2 className="w-5 h-5 animate-spin" />
+                <Loader2 className="w-4 md:w-5 h-4 md:h-5 animate-spin" />
               ) : saveSuccess ? (
-                <Check className="w-5 h-5" />
+                <Check className="w-4 md:w-5 h-4 md:h-5" />
               ) : (
-                <Save className="w-5 h-5" />
+                <Save className="w-4 md:w-5 h-4 md:h-5" />
               )}
               {isSaving ? "جاري الحفظ..." : saveSuccess ? "تم الحفظ!" : "حفظ التغييرات"}
             </button>
