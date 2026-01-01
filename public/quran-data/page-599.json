@@ -1,0 +1,696 @@
+{
+  "page_number": 599,
+  "mushaf_id": 5,
+  "first_verse": "98:6",
+  "last_verse": "100:5",
+  "surahs_in_page": [
+    98,
+    99,
+    100
+  ],
+  "surah_starts": [
+    99,
+    100
+  ],
+  "verses": [
+    {
+      "surah": 98,
+      "ayah": 6,
+      "verse_key": "98:6",
+      "text": "إِنَّ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ فِي نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآۚ أُوْلَٰٓئِكَ هُمۡ شَرُّ ٱلۡبَرِيَّةِ",
+      "words": [
+        {
+          "id": 705308,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 705309,
+          "text": "ٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705310,
+          "text": "كَفَرُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 705311,
+          "text": "مِنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705312,
+          "text": "أَهۡلِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705313,
+          "text": "ٱلۡكِتَٰبِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705314,
+          "text": "وَٱلۡمُشۡرِكِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705315,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 705316,
+          "text": "نَارِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705317,
+          "text": "جَهَنَّمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705318,
+          "text": "خَٰلِدِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705319,
+          "text": "فِيهَآۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 705321,
+          "text": "أُوْلَٰٓئِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705322,
+          "text": "هُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705323,
+          "text": "شَرُّ",
+          "char_type": "word"
+        },
+        {
+          "id": 705324,
+          "text": "ٱلۡبَرِيَّةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705325,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 98,
+      "ayah": 7,
+      "verse_key": "98:7",
+      "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أُوْلَٰٓئِكَ هُمۡ خَيۡرُ ٱلۡبَرِيَّةِ",
+      "words": [
+        {
+          "id": 705326,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 705327,
+          "text": "ٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705328,
+          "text": "ءَامَنُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 705329,
+          "text": "وَعَمِلُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 705330,
+          "text": "ٱلصَّٰلِحَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705331,
+          "text": "أُوْلَٰٓئِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705332,
+          "text": "هُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705333,
+          "text": "خَيۡرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705334,
+          "text": "ٱلۡبَرِيَّةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705335,
+          "text": "٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 98,
+      "ayah": 8,
+      "verse_key": "98:8",
+      "text": "جَزَآؤُهُمۡ عِندَ رَبِّهِمۡ جَنَّٰتُ عَدۡنٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۖ رَّضِيَ ٱللَّهُ عَنۡهُمۡ وَرَضُواْ عَنۡهُۚ ذَٰلِكَ لِمَنۡ خَشِيَ رَبَّهُۥ",
+      "words": [
+        {
+          "id": 705336,
+          "text": "جَزَآؤُهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705337,
+          "text": "عِندَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705338,
+          "text": "رَبِّهِمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705339,
+          "text": "جَنَّٰتُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705340,
+          "text": "عَدۡنٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705341,
+          "text": "تَجۡرِي",
+          "char_type": "word"
+        },
+        {
+          "id": 705342,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 705343,
+          "text": "تَحۡتِهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705344,
+          "text": "ٱلۡأَنۡهَٰرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705345,
+          "text": "خَٰلِدِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705346,
+          "text": "فِيهَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 705347,
+          "text": "أَبَدٗاۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705349,
+          "text": "رَّضِيَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705350,
+          "text": "ٱللَّهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705351,
+          "text": "عَنۡهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705352,
+          "text": "وَرَضُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 705353,
+          "text": "عَنۡهُۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 705355,
+          "text": "ذَٰلِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705356,
+          "text": "لِمَنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705357,
+          "text": "خَشِيَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705358,
+          "text": "رَبَّهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 705359,
+          "text": "٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 99,
+      "ayah": 1,
+      "verse_key": "99:1",
+      "text": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا",
+      "words": [
+        {
+          "id": 705360,
+          "text": "إِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705361,
+          "text": "زُلۡزِلَتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705362,
+          "text": "ٱلۡأَرۡضُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705363,
+          "text": "زِلۡزَالَهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705364,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 99,
+      "ayah": 2,
+      "verse_key": "99:2",
+      "text": "وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا",
+      "words": [
+        {
+          "id": 705365,
+          "text": "وَأَخۡرَجَتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705366,
+          "text": "ٱلۡأَرۡضُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705367,
+          "text": "أَثۡقَالَهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705368,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 99,
+      "ayah": 3,
+      "verse_key": "99:3",
+      "text": "وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا",
+      "words": [
+        {
+          "id": 705369,
+          "text": "وَقَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705370,
+          "text": "ٱلۡإِنسَٰنُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705371,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705372,
+          "text": "لَهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705373,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 99,
+      "ayah": 4,
+      "verse_key": "99:4",
+      "text": "يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا",
+      "words": [
+        {
+          "id": 705374,
+          "text": "يَوۡمَئِذٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705375,
+          "text": "تُحَدِّثُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705376,
+          "text": "أَخۡبَارَهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705377,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 99,
+      "ayah": 5,
+      "verse_key": "99:5",
+      "text": "بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا",
+      "words": [
+        {
+          "id": 705378,
+          "text": "بِأَنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 705379,
+          "text": "رَبَّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705380,
+          "text": "أَوۡحَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 705381,
+          "text": "لَهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705382,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 99,
+      "ayah": 6,
+      "verse_key": "99:6",
+      "text": "يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمۡ",
+      "words": [
+        {
+          "id": 705383,
+          "text": "يَوۡمَئِذٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705384,
+          "text": "يَصۡدُرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705385,
+          "text": "ٱلنَّاسُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705386,
+          "text": "أَشۡتَاتٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 705387,
+          "text": "لِّيُرَوۡاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 705388,
+          "text": "أَعۡمَٰلَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705389,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 99,
+      "ayah": 7,
+      "verse_key": "99:7",
+      "text": "فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ",
+      "words": [
+        {
+          "id": 705390,
+          "text": "فَمَن",
+          "char_type": "word"
+        },
+        {
+          "id": 705391,
+          "text": "يَعۡمَلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705392,
+          "text": "مِثۡقَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705393,
+          "text": "ذَرَّةٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 705394,
+          "text": "خَيۡرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 705395,
+          "text": "يَرَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 705396,
+          "text": "٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 99,
+      "ayah": 8,
+      "verse_key": "99:8",
+      "text": "وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ",
+      "words": [
+        {
+          "id": 705397,
+          "text": "وَمَن",
+          "char_type": "word"
+        },
+        {
+          "id": 705398,
+          "text": "يَعۡمَلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705399,
+          "text": "مِثۡقَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705400,
+          "text": "ذَرَّةٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705401,
+          "text": "شَرّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 705402,
+          "text": "يَرَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 705403,
+          "text": "٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 100,
+      "ayah": 1,
+      "verse_key": "100:1",
+      "text": "وَٱلۡعَٰدِيَٰتِ ضَبۡحٗا",
+      "words": [
+        {
+          "id": 705404,
+          "text": "وَٱلۡعَٰدِيَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705405,
+          "text": "ضَبۡحٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 705406,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 100,
+      "ayah": 2,
+      "verse_key": "100:2",
+      "text": "فَٱلۡمُورِيَٰتِ قَدۡحٗا",
+      "words": [
+        {
+          "id": 705407,
+          "text": "فَٱلۡمُورِيَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705408,
+          "text": "قَدۡحٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 705409,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 100,
+      "ayah": 3,
+      "verse_key": "100:3",
+      "text": "فَٱلۡمُغِيرَٰتِ صُبۡحٗا",
+      "words": [
+        {
+          "id": 705410,
+          "text": "فَٱلۡمُغِيرَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705411,
+          "text": "صُبۡحٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 705412,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 100,
+      "ayah": 4,
+      "verse_key": "100:4",
+      "text": "فَأَثَرۡنَ بِهِۦ نَقۡعٗا",
+      "words": [
+        {
+          "id": 705413,
+          "text": "فَأَثَرۡنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705414,
+          "text": "بِهِۦ",
+          "char_type": "word"
+        },
+        {
+          "id": 705415,
+          "text": "نَقۡعٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 705416,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 100,
+      "ayah": 5,
+      "verse_key": "100:5",
+      "text": "فَوَسَطۡنَ بِهِۦ جَمۡعًا",
+      "words": [
+        {
+          "id": 705417,
+          "text": "فَوَسَطۡنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705418,
+          "text": "بِهِۦ",
+          "char_type": "word"
+        },
+        {
+          "id": 705419,
+          "text": "جَمۡعًا",
+          "char_type": "word"
+        },
+        {
+          "id": 705420,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 110
+}

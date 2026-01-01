@@ -1,0 +1,969 @@
+{
+  "page_number": 586,
+  "mushaf_id": 5,
+  "first_verse": "80:41",
+  "last_verse": "81:29",
+  "surahs_in_page": [
+    80,
+    81
+  ],
+  "surah_starts": [
+    81
+  ],
+  "verses": [
+    {
+      "surah": 80,
+      "ayah": 41,
+      "verse_key": "80:41",
+      "text": "تَرۡهَقُهَا قَتَرَةٌ",
+      "words": [
+        {
+          "id": 703564,
+          "text": "تَرۡهَقُهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703565,
+          "text": "قَتَرَةٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 703566,
+          "text": "٤١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 80,
+      "ayah": 42,
+      "verse_key": "80:42",
+      "text": "أُوْلَٰٓئِكَ هُمُ ٱلۡكَفَرَةُ ٱلۡفَجَرَةُ",
+      "words": [
+        {
+          "id": 703567,
+          "text": "أُوْلَٰٓئِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703568,
+          "text": "هُمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703569,
+          "text": "ٱلۡكَفَرَةُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703570,
+          "text": "ٱلۡفَجَرَةُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703571,
+          "text": "٤٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 1,
+      "verse_key": "81:1",
+      "text": "إِذَا ٱلشَّمۡسُ كُوِّرَتۡ",
+      "words": [
+        {
+          "id": 703572,
+          "text": "إِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703573,
+          "text": "ٱلشَّمۡسُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703574,
+          "text": "كُوِّرَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703575,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 2,
+      "verse_key": "81:2",
+      "text": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتۡ",
+      "words": [
+        {
+          "id": 703576,
+          "text": "وَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703577,
+          "text": "ٱلنُّجُومُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703578,
+          "text": "ٱنكَدَرَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703579,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 3,
+      "verse_key": "81:3",
+      "text": "وَإِذَا ٱلۡجِبَالُ سُيِّرَتۡ",
+      "words": [
+        {
+          "id": 703580,
+          "text": "وَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703581,
+          "text": "ٱلۡجِبَالُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703582,
+          "text": "سُيِّرَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703583,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 4,
+      "verse_key": "81:4",
+      "text": "وَإِذَا ٱلۡعِشَارُ عُطِّلَتۡ",
+      "words": [
+        {
+          "id": 703584,
+          "text": "وَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703585,
+          "text": "ٱلۡعِشَارُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703586,
+          "text": "عُطِّلَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703587,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 5,
+      "verse_key": "81:5",
+      "text": "وَإِذَا ٱلۡوُحُوشُ حُشِرَتۡ",
+      "words": [
+        {
+          "id": 703588,
+          "text": "وَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703589,
+          "text": "ٱلۡوُحُوشُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703590,
+          "text": "حُشِرَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703591,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 6,
+      "verse_key": "81:6",
+      "text": "وَإِذَا ٱلۡبِحَارُ سُجِّرَتۡ",
+      "words": [
+        {
+          "id": 703592,
+          "text": "وَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703593,
+          "text": "ٱلۡبِحَارُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703594,
+          "text": "سُجِّرَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703595,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 7,
+      "verse_key": "81:7",
+      "text": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتۡ",
+      "words": [
+        {
+          "id": 703596,
+          "text": "وَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703597,
+          "text": "ٱلنُّفُوسُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703598,
+          "text": "زُوِّجَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703599,
+          "text": "٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 8,
+      "verse_key": "81:8",
+      "text": "وَإِذَا ٱلۡمَوۡءُۥدَةُ سُئِلَتۡ",
+      "words": [
+        {
+          "id": 703600,
+          "text": "وَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703601,
+          "text": "ٱلۡمَوۡءُۥدَةُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703602,
+          "text": "سُئِلَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703603,
+          "text": "٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 9,
+      "verse_key": "81:9",
+      "text": "بِأَيِّ ذَنۢبٖ قُتِلَتۡ",
+      "words": [
+        {
+          "id": 703604,
+          "text": "بِأَيِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 703605,
+          "text": "ذَنۢبٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 703606,
+          "text": "قُتِلَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703607,
+          "text": "٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 10,
+      "verse_key": "81:10",
+      "text": "وَإِذَا ٱلصُّحُفُ نُشِرَتۡ",
+      "words": [
+        {
+          "id": 703608,
+          "text": "وَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703609,
+          "text": "ٱلصُّحُفُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703610,
+          "text": "نُشِرَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703611,
+          "text": "١٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 11,
+      "verse_key": "81:11",
+      "text": "وَإِذَا ٱلسَّمَآءُ كُشِطَتۡ",
+      "words": [
+        {
+          "id": 703612,
+          "text": "وَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703613,
+          "text": "ٱلسَّمَآءُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703614,
+          "text": "كُشِطَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703615,
+          "text": "١١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 12,
+      "verse_key": "81:12",
+      "text": "وَإِذَا ٱلۡجَحِيمُ سُعِّرَتۡ",
+      "words": [
+        {
+          "id": 703616,
+          "text": "وَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703617,
+          "text": "ٱلۡجَحِيمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703618,
+          "text": "سُعِّرَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703619,
+          "text": "١٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 13,
+      "verse_key": "81:13",
+      "text": "وَإِذَا ٱلۡجَنَّةُ أُزۡلِفَتۡ",
+      "words": [
+        {
+          "id": 703620,
+          "text": "وَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703621,
+          "text": "ٱلۡجَنَّةُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703622,
+          "text": "أُزۡلِفَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703623,
+          "text": "١٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 14,
+      "verse_key": "81:14",
+      "text": "عَلِمَتۡ نَفۡسٞ مَّآ أَحۡضَرَتۡ",
+      "words": [
+        {
+          "id": 703624,
+          "text": "عَلِمَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703625,
+          "text": "نَفۡسٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 703626,
+          "text": "مَّآ",
+          "char_type": "word"
+        },
+        {
+          "id": 703627,
+          "text": "أَحۡضَرَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703628,
+          "text": "١٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 15,
+      "verse_key": "81:15",
+      "text": "فَلَآ أُقۡسِمُ بِٱلۡخُنَّسِ",
+      "words": [
+        {
+          "id": 703629,
+          "text": "فَلَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 703630,
+          "text": "أُقۡسِمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703631,
+          "text": "بِٱلۡخُنَّسِ",
+          "char_type": "word"
+        },
+        {
+          "id": 703632,
+          "text": "١٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 16,
+      "verse_key": "81:16",
+      "text": "ٱلۡجَوَارِ ٱلۡكُنَّسِ",
+      "words": [
+        {
+          "id": 703633,
+          "text": "ٱلۡجَوَارِ",
+          "char_type": "word"
+        },
+        {
+          "id": 703634,
+          "text": "ٱلۡكُنَّسِ",
+          "char_type": "word"
+        },
+        {
+          "id": 703635,
+          "text": "١٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 17,
+      "verse_key": "81:17",
+      "text": "وَٱلَّيۡلِ إِذَا عَسۡعَسَ",
+      "words": [
+        {
+          "id": 703636,
+          "text": "وَٱلَّيۡلِ",
+          "char_type": "word"
+        },
+        {
+          "id": 703637,
+          "text": "إِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703638,
+          "text": "عَسۡعَسَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703639,
+          "text": "١٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 18,
+      "verse_key": "81:18",
+      "text": "وَٱلصُّبۡحِ إِذَا تَنَفَّسَ",
+      "words": [
+        {
+          "id": 703640,
+          "text": "وَٱلصُّبۡحِ",
+          "char_type": "word"
+        },
+        {
+          "id": 703641,
+          "text": "إِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703642,
+          "text": "تَنَفَّسَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703643,
+          "text": "١٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 19,
+      "verse_key": "81:19",
+      "text": "إِنَّهُۥ لَقَوۡلُ رَسُولٖ كَرِيمٖ",
+      "words": [
+        {
+          "id": 703644,
+          "text": "إِنَّهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 703645,
+          "text": "لَقَوۡلُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703646,
+          "text": "رَسُولٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 703647,
+          "text": "كَرِيمٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 703648,
+          "text": "١٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 20,
+      "verse_key": "81:20",
+      "text": "ذِي قُوَّةٍ عِندَ ذِي ٱلۡعَرۡشِ مَكِينٖ",
+      "words": [
+        {
+          "id": 703649,
+          "text": "ذِي",
+          "char_type": "word"
+        },
+        {
+          "id": 703650,
+          "text": "قُوَّةٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 703651,
+          "text": "عِندَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703652,
+          "text": "ذِي",
+          "char_type": "word"
+        },
+        {
+          "id": 703653,
+          "text": "ٱلۡعَرۡشِ",
+          "char_type": "word"
+        },
+        {
+          "id": 703654,
+          "text": "مَكِينٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 703655,
+          "text": "٢٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 21,
+      "verse_key": "81:21",
+      "text": "مُّطَاعٖ ثَمَّ أَمِينٖ",
+      "words": [
+        {
+          "id": 703656,
+          "text": "مُّطَاعٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 703657,
+          "text": "ثَمَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 703658,
+          "text": "أَمِينٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 703659,
+          "text": "٢١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 22,
+      "verse_key": "81:22",
+      "text": "وَمَا صَاحِبُكُم بِمَجۡنُونٖ",
+      "words": [
+        {
+          "id": 703660,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703661,
+          "text": "صَاحِبُكُم",
+          "char_type": "word"
+        },
+        {
+          "id": 703662,
+          "text": "بِمَجۡنُونٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 703663,
+          "text": "٢٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 23,
+      "verse_key": "81:23",
+      "text": "وَلَقَدۡ رَءَاهُ بِٱلۡأُفُقِ ٱلۡمُبِينِ",
+      "words": [
+        {
+          "id": 703664,
+          "text": "وَلَقَدۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703665,
+          "text": "رَءَاهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703666,
+          "text": "بِٱلۡأُفُقِ",
+          "char_type": "word"
+        },
+        {
+          "id": 703667,
+          "text": "ٱلۡمُبِينِ",
+          "char_type": "word"
+        },
+        {
+          "id": 703668,
+          "text": "٢٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 24,
+      "verse_key": "81:24",
+      "text": "وَمَا هُوَ عَلَى ٱلۡغَيۡبِ بِضَنِينٖ",
+      "words": [
+        {
+          "id": 703669,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703670,
+          "text": "هُوَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703671,
+          "text": "عَلَى",
+          "char_type": "word"
+        },
+        {
+          "id": 703672,
+          "text": "ٱلۡغَيۡبِ",
+          "char_type": "word"
+        },
+        {
+          "id": 703673,
+          "text": "بِضَنِينٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 703674,
+          "text": "٢٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 25,
+      "verse_key": "81:25",
+      "text": "وَمَا هُوَ بِقَوۡلِ شَيۡطَٰنٖ رَّجِيمٖ",
+      "words": [
+        {
+          "id": 703675,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703676,
+          "text": "هُوَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703677,
+          "text": "بِقَوۡلِ",
+          "char_type": "word"
+        },
+        {
+          "id": 703678,
+          "text": "شَيۡطَٰنٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 703679,
+          "text": "رَّجِيمٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 703680,
+          "text": "٢٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 26,
+      "verse_key": "81:26",
+      "text": "فَأَيۡنَ تَذۡهَبُونَ",
+      "words": [
+        {
+          "id": 703681,
+          "text": "فَأَيۡنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703682,
+          "text": "تَذۡهَبُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703683,
+          "text": "٢٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 27,
+      "verse_key": "81:27",
+      "text": "إِنۡ هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ",
+      "words": [
+        {
+          "id": 703684,
+          "text": "إِنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703685,
+          "text": "هُوَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703686,
+          "text": "إِلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 703687,
+          "text": "ذِكۡرٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 703688,
+          "text": "لِّلۡعَٰلَمِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703689,
+          "text": "٢٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 28,
+      "verse_key": "81:28",
+      "text": "لِمَن شَآءَ مِنكُمۡ أَن يَسۡتَقِيمَ",
+      "words": [
+        {
+          "id": 703690,
+          "text": "لِمَن",
+          "char_type": "word"
+        },
+        {
+          "id": 703691,
+          "text": "شَآءَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703692,
+          "text": "مِنكُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703693,
+          "text": "أَن",
+          "char_type": "word"
+        },
+        {
+          "id": 703694,
+          "text": "يَسۡتَقِيمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703695,
+          "text": "٢٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "ayah": 29,
+      "verse_key": "81:29",
+      "text": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلۡعَٰلَمِينَ",
+      "words": [
+        {
+          "id": 703696,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703697,
+          "text": "تَشَآءُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703698,
+          "text": "إِلَّآ",
+          "char_type": "word"
+        },
+        {
+          "id": 703699,
+          "text": "أَن",
+          "char_type": "word"
+        },
+        {
+          "id": 703700,
+          "text": "يَشَآءَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703701,
+          "text": "ٱللَّهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703702,
+          "text": "رَبُّ",
+          "char_type": "word"
+        },
+        {
+          "id": 703703,
+          "text": "ٱلۡعَٰلَمِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703704,
+          "text": "٢٩",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 141
+}

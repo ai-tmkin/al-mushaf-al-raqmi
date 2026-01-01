@@ -1,0 +1,1048 @@
+{
+  "page_number": 581,
+  "mushaf_id": 5,
+  "first_verse": "77:20",
+  "last_verse": "77:50",
+  "surahs_in_page": [
+    77
+  ],
+  "surah_starts": [],
+  "verses": [
+    {
+      "surah": 77,
+      "ayah": 20,
+      "verse_key": "77:20",
+      "text": "أَلَمۡ نَخۡلُقكُّم مِّن مَّآءٖ مَّهِينٖ",
+      "words": [
+        {
+          "id": 702795,
+          "text": "أَلَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702796,
+          "text": "نَخۡلُقكُّم",
+          "char_type": "word"
+        },
+        {
+          "id": 702797,
+          "text": "مِّن",
+          "char_type": "word"
+        },
+        {
+          "id": 702798,
+          "text": "مَّآءٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702799,
+          "text": "مَّهِينٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702800,
+          "text": "٢٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 21,
+      "verse_key": "77:21",
+      "text": "فَجَعَلۡنَٰهُ فِي قَرَارٖ مَّكِينٍ",
+      "words": [
+        {
+          "id": 702801,
+          "text": "فَجَعَلۡنَٰهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702802,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 702803,
+          "text": "قَرَارٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702804,
+          "text": "مَّكِينٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 702805,
+          "text": "٢١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 22,
+      "verse_key": "77:22",
+      "text": "إِلَىٰ قَدَرٖ مَّعۡلُومٖ",
+      "words": [
+        {
+          "id": 702806,
+          "text": "إِلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 702807,
+          "text": "قَدَرٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702808,
+          "text": "مَّعۡلُومٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702809,
+          "text": "٢٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 23,
+      "verse_key": "77:23",
+      "text": "فَقَدَرۡنَا فَنِعۡمَ ٱلۡقَٰدِرُونَ",
+      "words": [
+        {
+          "id": 702810,
+          "text": "فَقَدَرۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702811,
+          "text": "فَنِعۡمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702812,
+          "text": "ٱلۡقَٰدِرُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702813,
+          "text": "٢٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 24,
+      "verse_key": "77:24",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "words": [
+        {
+          "id": 702814,
+          "text": "وَيۡلٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 702815,
+          "text": "يَوۡمَئِذٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702816,
+          "text": "لِّلۡمُكَذِّبِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702817,
+          "text": "٢٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 25,
+      "verse_key": "77:25",
+      "text": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ كِفَاتًا",
+      "words": [
+        {
+          "id": 702818,
+          "text": "أَلَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702819,
+          "text": "نَجۡعَلِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702820,
+          "text": "ٱلۡأَرۡضَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702821,
+          "text": "كِفَاتًا",
+          "char_type": "word"
+        },
+        {
+          "id": 702822,
+          "text": "٢٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 26,
+      "verse_key": "77:26",
+      "text": "أَحۡيَآءٗ وَأَمۡوَٰتٗا",
+      "words": [
+        {
+          "id": 702823,
+          "text": "أَحۡيَآءٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 702824,
+          "text": "وَأَمۡوَٰتٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 702825,
+          "text": "٢٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 27,
+      "verse_key": "77:27",
+      "text": "وَجَعَلۡنَا فِيهَا رَوَٰسِيَ شَٰمِخَٰتٖ وَأَسۡقَيۡنَٰكُم مَّآءٗ فُرَاتٗا",
+      "words": [
+        {
+          "id": 702826,
+          "text": "وَجَعَلۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702827,
+          "text": "فِيهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702828,
+          "text": "رَوَٰسِيَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702829,
+          "text": "شَٰمِخَٰتٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702830,
+          "text": "وَأَسۡقَيۡنَٰكُم",
+          "char_type": "word"
+        },
+        {
+          "id": 702831,
+          "text": "مَّآءٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 702832,
+          "text": "فُرَاتٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 702833,
+          "text": "٢٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 28,
+      "verse_key": "77:28",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "words": [
+        {
+          "id": 702834,
+          "text": "وَيۡلٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 702835,
+          "text": "يَوۡمَئِذٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702836,
+          "text": "لِّلۡمُكَذِّبِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702837,
+          "text": "٢٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 29,
+      "verse_key": "77:29",
+      "text": "ٱنطَلِقُوٓاْ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "words": [
+        {
+          "id": 702838,
+          "text": "ٱنطَلِقُوٓاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 702839,
+          "text": "إِلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 702840,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702841,
+          "text": "كُنتُم",
+          "char_type": "word"
+        },
+        {
+          "id": 702842,
+          "text": "بِهِۦ",
+          "char_type": "word"
+        },
+        {
+          "id": 702843,
+          "text": "تُكَذِّبُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702844,
+          "text": "٢٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 30,
+      "verse_key": "77:30",
+      "text": "ٱنطَلِقُوٓاْ إِلَىٰ ظِلّٖ ذِي ثَلَٰثِ شُعَبٖ",
+      "words": [
+        {
+          "id": 702845,
+          "text": "ٱنطَلِقُوٓاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 702846,
+          "text": "إِلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 702847,
+          "text": "ظِلّٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702848,
+          "text": "ذِي",
+          "char_type": "word"
+        },
+        {
+          "id": 702849,
+          "text": "ثَلَٰثِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702850,
+          "text": "شُعَبٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702851,
+          "text": "٣٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 31,
+      "verse_key": "77:31",
+      "text": "لَّا ظَلِيلٖ وَلَا يُغۡنِي مِنَ ٱللَّهَبِ",
+      "words": [
+        {
+          "id": 702852,
+          "text": "لَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 702853,
+          "text": "ظَلِيلٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702854,
+          "text": "وَلَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702855,
+          "text": "يُغۡنِي",
+          "char_type": "word"
+        },
+        {
+          "id": 702856,
+          "text": "مِنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702857,
+          "text": "ٱللَّهَبِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702858,
+          "text": "٣١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 32,
+      "verse_key": "77:32",
+      "text": "إِنَّهَا تَرۡمِي بِشَرَرٖ كَٱلۡقَصۡرِ",
+      "words": [
+        {
+          "id": 702859,
+          "text": "إِنَّهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702860,
+          "text": "تَرۡمِي",
+          "char_type": "word"
+        },
+        {
+          "id": 702861,
+          "text": "بِشَرَرٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702862,
+          "text": "كَٱلۡقَصۡرِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702863,
+          "text": "٣٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 33,
+      "verse_key": "77:33",
+      "text": "كَأَنَّهُۥ جِمَٰلَتٞ صُفۡرٞ ٣ٱ وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "words": [
+        {
+          "id": 702864,
+          "text": "كَأَنَّهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 702865,
+          "text": "جِمَٰلَتٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 702866,
+          "text": "صُفۡرٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 702867,
+          "text": "٣ٱ",
+          "char_type": "word"
+        },
+        {
+          "id": 702868,
+          "text": "وَيۡلٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 702869,
+          "text": "يَوۡمَئِذٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702870,
+          "text": "لِّلۡمُكَذِّبِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702871,
+          "text": "٣٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 34,
+      "verse_key": "77:34",
+      "text": "هَٰذَا يَوۡمُ لَا يَنطِقُونَ",
+      "words": [
+        {
+          "id": 702872,
+          "text": "هَٰذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702873,
+          "text": "يَوۡمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702874,
+          "text": "لَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702875,
+          "text": "يَنطِقُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702876,
+          "text": "٣٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 35,
+      "verse_key": "77:35",
+      "text": "وَلَا يُؤۡذَنُ لَهُمۡ فَيَعۡتَذِرُونَ",
+      "words": [
+        {
+          "id": 702877,
+          "text": "وَلَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702878,
+          "text": "يُؤۡذَنُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702879,
+          "text": "لَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702880,
+          "text": "فَيَعۡتَذِرُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702881,
+          "text": "٣٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 36,
+      "verse_key": "77:36",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "words": [
+        {
+          "id": 702882,
+          "text": "وَيۡلٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 702883,
+          "text": "يَوۡمَئِذٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702884,
+          "text": "لِّلۡمُكَذِّبِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702885,
+          "text": "٣٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 37,
+      "verse_key": "77:37",
+      "text": "هَٰذَا يَوۡمُ ٱلۡفَصۡلِۖ جَمَعۡنَٰكُمۡ وَٱلۡأَوَّلِينَ",
+      "words": [
+        {
+          "id": 702886,
+          "text": "هَٰذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702887,
+          "text": "يَوۡمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702888,
+          "text": "ٱلۡفَصۡلِۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702890,
+          "text": "جَمَعۡنَٰكُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702891,
+          "text": "وَٱلۡأَوَّلِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702892,
+          "text": "٣٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 38,
+      "verse_key": "77:38",
+      "text": "فَإِن كَانَ لَكُمۡ كَيۡدٞ فَكِيدُونِ",
+      "words": [
+        {
+          "id": 702893,
+          "text": "فَإِن",
+          "char_type": "word"
+        },
+        {
+          "id": 702894,
+          "text": "كَانَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702895,
+          "text": "لَكُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702896,
+          "text": "كَيۡدٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 702897,
+          "text": "فَكِيدُونِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702898,
+          "text": "٣٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 39,
+      "verse_key": "77:39",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "words": [
+        {
+          "id": 702899,
+          "text": "وَيۡلٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 702900,
+          "text": "يَوۡمَئِذٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702901,
+          "text": "لِّلۡمُكَذِّبِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702902,
+          "text": "٤٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 40,
+      "verse_key": "77:40",
+      "text": "إِنَّ ٱلۡمُتَّقِينَ فِي ظِلَٰلٖ وَعُيُونٖ",
+      "words": [
+        {
+          "id": 702903,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 702904,
+          "text": "ٱلۡمُتَّقِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702905,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 702906,
+          "text": "ظِلَٰلٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702907,
+          "text": "وَعُيُونٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702908,
+          "text": "٤١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 41,
+      "verse_key": "77:41",
+      "text": "وَفَوَٰكِهَ مِمَّا يَشۡتَهُونَ",
+      "words": [
+        {
+          "id": 702909,
+          "text": "وَفَوَٰكِهَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702910,
+          "text": "مِمَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 702911,
+          "text": "يَشۡتَهُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702912,
+          "text": "٤٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 42,
+      "verse_key": "77:42",
+      "text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ",
+      "words": [
+        {
+          "id": 702913,
+          "text": "كُلُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 702914,
+          "text": "وَٱشۡرَبُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 702915,
+          "text": "هَنِيٓـَٔۢا",
+          "char_type": "word"
+        },
+        {
+          "id": 702916,
+          "text": "بِمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702917,
+          "text": "كُنتُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702918,
+          "text": "تَعۡمَلُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702919,
+          "text": "٤٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 43,
+      "verse_key": "77:43",
+      "text": "إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
+      "words": [
+        {
+          "id": 702920,
+          "text": "إِنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 702921,
+          "text": "كَذَٰلِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702922,
+          "text": "نَجۡزِي",
+          "char_type": "word"
+        },
+        {
+          "id": 702923,
+          "text": "ٱلۡمُحۡسِنِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702924,
+          "text": "٤٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 44,
+      "verse_key": "77:44",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "words": [
+        {
+          "id": 702925,
+          "text": "وَيۡلٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 702926,
+          "text": "يَوۡمَئِذٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702927,
+          "text": "لِّلۡمُكَذِّبِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702928,
+          "text": "٤٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 45,
+      "verse_key": "77:45",
+      "text": "كُلُواْ وَتَمَتَّعُواْ قَلِيلًا إِنَّكُم مُّجۡرِمُونَ",
+      "words": [
+        {
+          "id": 702929,
+          "text": "كُلُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 702930,
+          "text": "وَتَمَتَّعُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 702931,
+          "text": "قَلِيلًا",
+          "char_type": "word"
+        },
+        {
+          "id": 702932,
+          "text": "إِنَّكُم",
+          "char_type": "word"
+        },
+        {
+          "id": 702933,
+          "text": "مُّجۡرِمُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702934,
+          "text": "٤٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 46,
+      "verse_key": "77:46",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "words": [
+        {
+          "id": 702935,
+          "text": "وَيۡلٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 702936,
+          "text": "يَوۡمَئِذٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702937,
+          "text": "لِّلۡمُكَذِّبِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702938,
+          "text": "٤٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 47,
+      "verse_key": "77:47",
+      "text": "وَإِذَا قِيلَ لَهُمُ ٱرۡكَعُواْ لَا يَرۡكَعُونَ",
+      "words": [
+        {
+          "id": 702939,
+          "text": "وَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702940,
+          "text": "قِيلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702941,
+          "text": "لَهُمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702942,
+          "text": "ٱرۡكَعُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 702943,
+          "text": "لَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702944,
+          "text": "يَرۡكَعُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702945,
+          "text": "٤٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 48,
+      "verse_key": "77:48",
+      "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "words": [
+        {
+          "id": 702946,
+          "text": "وَيۡلٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 702947,
+          "text": "يَوۡمَئِذٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702948,
+          "text": "لِّلۡمُكَذِّبِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702949,
+          "text": "٤٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 77,
+      "ayah": 49,
+      "verse_key": "77:49",
+      "text": "فَبِأَيِّ حَدِيثِۭ بَعۡدَهُۥ يُؤۡمِنُونَ",
+      "words": [
+        {
+          "id": 702950,
+          "text": "فَبِأَيِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 702951,
+          "text": "حَدِيثِۭ",
+          "char_type": "word"
+        },
+        {
+          "id": 702952,
+          "text": "بَعۡدَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 702953,
+          "text": "يُؤۡمِنُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702954,
+          "text": "٥٠",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 159
+}

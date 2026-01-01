@@ -68,30 +68,27 @@ export function getPageFontUrl(pageNumber: number): string {
 }
 
 /**
- * عنوان API المحلي لبيانات QUL
- * يجب تشغيل: node scripts/serve-local-api.js
- */
-const LOCAL_QUL_API = 'http://localhost:3001';
-
-/**
- * Fetch page layout from Local QUL API (الأولوية) or Quran.com API (fallback)
- * يستخدم بيانات QUL المحلية التي تتطابق مع المصحف المطبوع
+ * Fetch page layout from static QUL data files or Quran.com API (fallback)
+ * يستخدم بيانات QUL الثابتة التي تتطابق مع المصحف المطبوع
  */
 export async function fetchPageLayout(pageNumber: number): Promise<MushafPage | null> {
-  // محاولة جلب البيانات من API المحلي أولاً
+  // محاولة جلب البيانات من الملفات الثابتة أولاً
   try {
-    const localResponse = await fetch(
-      `${LOCAL_QUL_API}/api/v4/verses/by_page/${pageNumber}`,
-      { signal: AbortSignal.timeout(3000) } // timeout 3 ثواني
+    // في بيئة المتصفح، نستخدم الملفات من public folder
+    const staticResponse = await fetch(
+      `/quran-data/page-${pageNumber}.json`,
+      { signal: AbortSignal.timeout(5000) }
     );
     
-    if (localResponse.ok) {
-      const data = await localResponse.json();
-      console.log(`✅ Using local QUL API for page ${pageNumber}`);
-      return transformApiResponse(pageNumber, data);
+    if (staticResponse.ok) {
+      const rawData = await staticResponse.json();
+      // تحويل البيانات الخام إلى تنسيق API
+      const apiData = convertRawQulToApiFormat(pageNumber, rawData);
+      console.log(`✅ Using static QUL data for page ${pageNumber}`);
+      return transformApiResponse(pageNumber, apiData);
     }
   } catch (error) {
-    console.log(`⚠️ Local QUL API not available, falling back to Quran.com`);
+    console.log(`⚠️ Static QUL data not available, falling back to Quran.com`);
   }
   
   // Fallback to Quran.com API
@@ -113,6 +110,60 @@ export async function fetchPageLayout(pageNumber: number): Promise<MushafPage | 
     console.error(`Error fetching page layout for page ${pageNumber}:`, error);
     return null;
   }
+}
+
+/**
+ * تحويل بيانات QUL الخام إلى تنسيق API
+ */
+function convertRawQulToApiFormat(pageNumber: number, rawData: any): any {
+  const verses: any[] = [];
+  const verseMap = new Map<string, any>();
+  
+  // تجميع الكلمات حسب الآية
+  for (const word of rawData.words || []) {
+    const verseKey = `${word.surah_number}:${word.ayah_number}`;
+    
+    if (!verseMap.has(verseKey)) {
+      verseMap.set(verseKey, {
+        id: word.verse_id,
+        verse_key: verseKey,
+        verse_number: word.ayah_number,
+        words: [],
+      });
+    }
+    
+    verseMap.get(verseKey).words.push({
+      id: word.id,
+      position: word.position,
+      text_uthmani: word.text_uthmani,
+      char_type_name: word.char_type,
+      line_number: word.line_number,
+      page_number: word.page_number,
+    });
+  }
+  
+  // ترتيب الآيات
+  for (const [, verse] of verseMap) {
+    verse.words.sort((a: any, b: any) => a.position - b.position);
+    verses.push(verse);
+  }
+  
+  verses.sort((a, b) => {
+    const [surahA, ayahA] = a.verse_key.split(':').map(Number);
+    const [surahB, ayahB] = b.verse_key.split(':').map(Number);
+    if (surahA !== surahB) return surahA - surahB;
+    return ayahA - ayahB;
+  });
+  
+  return {
+    verses,
+    meta: {
+      surah_starts: rawData.surah_starts || [],
+      surahs_in_page: rawData.surahs_in_page || [],
+      juz_number: rawData.juz_number,
+      hizb_number: rawData.hizb_number,
+    }
+  };
 }
 
 /**

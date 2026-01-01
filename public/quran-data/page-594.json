@@ -1,0 +1,894 @@
+{
+  "page_number": 594,
+  "mushaf_id": 5,
+  "first_verse": "89:23",
+  "last_verse": "90:18",
+  "surahs_in_page": [
+    89,
+    90
+  ],
+  "surah_starts": [
+    90
+  ],
+  "verses": [
+    {
+      "surah": 89,
+      "ayah": 23,
+      "verse_key": "89:23",
+      "text": "وَجِاْيٓءَ يَوۡمَئِذِۭ بِجَهَنَّمَۚ يَوۡمَئِذٖ يَتَذَكَّرُ ٱلۡإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكۡرَىٰ",
+      "words": [
+        {
+          "id": 704692,
+          "text": "وَجِاْيٓءَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704693,
+          "text": "يَوۡمَئِذِۭ",
+          "char_type": "word"
+        },
+        {
+          "id": 704694,
+          "text": "بِجَهَنَّمَۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 704696,
+          "text": "يَوۡمَئِذٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 704697,
+          "text": "يَتَذَكَّرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704698,
+          "text": "ٱلۡإِنسَٰنُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704699,
+          "text": "وَأَنَّىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 704700,
+          "text": "لَهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704701,
+          "text": "ٱلذِّكۡرَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 704702,
+          "text": "٢٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 24,
+      "verse_key": "89:24",
+      "text": "يَقُولُ يَٰلَيۡتَنِي قَدَّمۡتُ لِحَيَاتِي",
+      "words": [
+        {
+          "id": 704703,
+          "text": "يَقُولُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704704,
+          "text": "يَٰلَيۡتَنِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704705,
+          "text": "قَدَّمۡتُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704706,
+          "text": "لِحَيَاتِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704707,
+          "text": "٢٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 25,
+      "verse_key": "89:25",
+      "text": "فَيَوۡمَئِذٖ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٞ",
+      "words": [
+        {
+          "id": 704708,
+          "text": "فَيَوۡمَئِذٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 704709,
+          "text": "لَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 704710,
+          "text": "يُعَذِّبُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704711,
+          "text": "عَذَابَهُۥٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 704712,
+          "text": "أَحَدٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 704713,
+          "text": "٢٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 26,
+      "verse_key": "89:26",
+      "text": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٞ",
+      "words": [
+        {
+          "id": 704714,
+          "text": "وَلَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704715,
+          "text": "يُوثِقُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704716,
+          "text": "وَثَاقَهُۥٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 704717,
+          "text": "أَحَدٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 704718,
+          "text": "٢٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 27,
+      "verse_key": "89:27",
+      "text": "يَٰٓأَيَّتُهَا ٱلنَّفۡسُ ٱلۡمُطۡمَئِنَّةُ",
+      "words": [
+        {
+          "id": 704719,
+          "text": "يَٰٓأَيَّتُهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704720,
+          "text": "ٱلنَّفۡسُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704721,
+          "text": "ٱلۡمُطۡمَئِنَّةُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704722,
+          "text": "٢٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 28,
+      "verse_key": "89:28",
+      "text": "ٱرۡجِعِيٓ إِلَىٰ رَبِّكِ رَاضِيَةٗ مَّرۡضِيَّةٗ",
+      "words": [
+        {
+          "id": 704723,
+          "text": "ٱرۡجِعِيٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 704724,
+          "text": "إِلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 704725,
+          "text": "رَبِّكِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704726,
+          "text": "رَاضِيَةٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 704727,
+          "text": "مَّرۡضِيَّةٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 704728,
+          "text": "٢٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 29,
+      "verse_key": "89:29",
+      "text": "فَٱدۡخُلِي فِي عِبَٰدِي",
+      "words": [
+        {
+          "id": 704729,
+          "text": "فَٱدۡخُلِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704730,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704731,
+          "text": "عِبَٰدِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704732,
+          "text": "٢٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 30,
+      "verse_key": "89:30",
+      "text": "وَٱدۡخُلِي جَنَّتِي",
+      "words": [
+        {
+          "id": 704733,
+          "text": "وَٱدۡخُلِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704734,
+          "text": "جَنَّتِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704735,
+          "text": "٣٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 1,
+      "verse_key": "90:1",
+      "text": "لَآ أُقۡسِمُ بِهَٰذَا ٱلۡبَلَدِ",
+      "words": [
+        {
+          "id": 704736,
+          "text": "لَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 704737,
+          "text": "أُقۡسِمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704738,
+          "text": "بِهَٰذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704739,
+          "text": "ٱلۡبَلَدِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704740,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 2,
+      "verse_key": "90:2",
+      "text": "وَأَنتَ حِلُّۢ بِهَٰذَا ٱلۡبَلَدِ",
+      "words": [
+        {
+          "id": 704741,
+          "text": "وَأَنتَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704742,
+          "text": "حِلُّۢ",
+          "char_type": "word"
+        },
+        {
+          "id": 704743,
+          "text": "بِهَٰذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704744,
+          "text": "ٱلۡبَلَدِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704745,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 3,
+      "verse_key": "90:3",
+      "text": "وَوَالِدٖ وَمَا وَلَدَ",
+      "words": [
+        {
+          "id": 704746,
+          "text": "وَوَالِدٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 704747,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704748,
+          "text": "وَلَدَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704749,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 4,
+      "verse_key": "90:4",
+      "text": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِي كَبَدٍ",
+      "words": [
+        {
+          "id": 704750,
+          "text": "لَقَدۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704751,
+          "text": "خَلَقۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704752,
+          "text": "ٱلۡإِنسَٰنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704753,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704754,
+          "text": "كَبَدٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 704755,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 5,
+      "verse_key": "90:5",
+      "text": "أَيَحۡسَبُ أَن لَّن يَقۡدِرَ عَلَيۡهِ أَحَدٞ",
+      "words": [
+        {
+          "id": 704756,
+          "text": "أَيَحۡسَبُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704757,
+          "text": "أَن",
+          "char_type": "word"
+        },
+        {
+          "id": 704758,
+          "text": "لَّن",
+          "char_type": "word"
+        },
+        {
+          "id": 704759,
+          "text": "يَقۡدِرَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704760,
+          "text": "عَلَيۡهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704761,
+          "text": "أَحَدٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 704762,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 6,
+      "verse_key": "90:6",
+      "text": "يَقُولُ أَهۡلَكۡتُ مَالٗا لُّبَدًا",
+      "words": [
+        {
+          "id": 704763,
+          "text": "يَقُولُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704764,
+          "text": "أَهۡلَكۡتُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704765,
+          "text": "مَالٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 704766,
+          "text": "لُّبَدًا",
+          "char_type": "word"
+        },
+        {
+          "id": 704767,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 7,
+      "verse_key": "90:7",
+      "text": "أَيَحۡسَبُ أَن لَّمۡ يَرَهُۥٓ أَحَدٌ",
+      "words": [
+        {
+          "id": 704768,
+          "text": "أَيَحۡسَبُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704769,
+          "text": "أَن",
+          "char_type": "word"
+        },
+        {
+          "id": 704770,
+          "text": "لَّمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704771,
+          "text": "يَرَهُۥٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 704772,
+          "text": "أَحَدٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 704773,
+          "text": "٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 8,
+      "verse_key": "90:8",
+      "text": "أَلَمۡ نَجۡعَل لَّهُۥ عَيۡنَيۡنِ",
+      "words": [
+        {
+          "id": 704774,
+          "text": "أَلَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704775,
+          "text": "نَجۡعَل",
+          "char_type": "word"
+        },
+        {
+          "id": 704776,
+          "text": "لَّهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 704777,
+          "text": "عَيۡنَيۡنِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704778,
+          "text": "٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 9,
+      "verse_key": "90:9",
+      "text": "وَلِسَانٗا وَشَفَتَيۡنِ",
+      "words": [
+        {
+          "id": 704779,
+          "text": "وَلِسَانٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 704780,
+          "text": "وَشَفَتَيۡنِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704781,
+          "text": "٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 10,
+      "verse_key": "90:10",
+      "text": "وَهَدَيۡنَٰهُ ٱلنَّجۡدَيۡنِ",
+      "words": [
+        {
+          "id": 704782,
+          "text": "وَهَدَيۡنَٰهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704783,
+          "text": "ٱلنَّجۡدَيۡنِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704784,
+          "text": "١٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 11,
+      "verse_key": "90:11",
+      "text": "فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ",
+      "words": [
+        {
+          "id": 704785,
+          "text": "فَلَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704786,
+          "text": "ٱقۡتَحَمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704787,
+          "text": "ٱلۡعَقَبَةَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704788,
+          "text": "١١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 12,
+      "verse_key": "90:12",
+      "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡعَقَبَةُ",
+      "words": [
+        {
+          "id": 704789,
+          "text": "وَمَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 704790,
+          "text": "أَدۡرَىٰكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704791,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704792,
+          "text": "ٱلۡعَقَبَةُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704793,
+          "text": "١٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 13,
+      "verse_key": "90:13",
+      "text": "فَكُّ رَقَبَةٍ",
+      "words": [
+        {
+          "id": 704794,
+          "text": "فَكُّ",
+          "char_type": "word"
+        },
+        {
+          "id": 704795,
+          "text": "رَقَبَةٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 704796,
+          "text": "١٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 14,
+      "verse_key": "90:14",
+      "text": "أَوۡ إِطۡعَٰمٞ فِي يَوۡمٖ ذِي مَسۡغَبَةٖ",
+      "words": [
+        {
+          "id": 704797,
+          "text": "أَوۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704798,
+          "text": "إِطۡعَٰمٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 704799,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704800,
+          "text": "يَوۡمٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 704801,
+          "text": "ذِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704802,
+          "text": "مَسۡغَبَةٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 704803,
+          "text": "١٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 15,
+      "verse_key": "90:15",
+      "text": "يَتِيمٗا ذَا مَقۡرَبَةٍ",
+      "words": [
+        {
+          "id": 704804,
+          "text": "يَتِيمٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 704805,
+          "text": "ذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704806,
+          "text": "مَقۡرَبَةٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 704807,
+          "text": "١٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 16,
+      "verse_key": "90:16",
+      "text": "أَوۡ مِسۡكِينٗا ذَا مَتۡرَبَةٖ",
+      "words": [
+        {
+          "id": 704808,
+          "text": "أَوۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704809,
+          "text": "مِسۡكِينٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 704810,
+          "text": "ذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704811,
+          "text": "مَتۡرَبَةٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 704812,
+          "text": "١٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 17,
+      "verse_key": "90:17",
+      "text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُواْ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ وَتَوَاصَوۡاْ بِٱلۡمَرۡحَمَةِ",
+      "words": [
+        {
+          "id": 704813,
+          "text": "ثُمَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 704814,
+          "text": "كَانَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704815,
+          "text": "مِنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704816,
+          "text": "ٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704817,
+          "text": "ءَامَنُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 704818,
+          "text": "وَتَوَاصَوۡاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 704819,
+          "text": "بِٱلصَّبۡرِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704820,
+          "text": "وَتَوَاصَوۡاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 704821,
+          "text": "بِٱلۡمَرۡحَمَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704822,
+          "text": "١٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "ayah": 18,
+      "verse_key": "90:18",
+      "text": "أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+      "words": [
+        {
+          "id": 704823,
+          "text": "أُوْلَٰٓئِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704824,
+          "text": "أَصۡحَٰبُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704825,
+          "text": "ٱلۡمَيۡمَنَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704826,
+          "text": "١٨",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 134
+}

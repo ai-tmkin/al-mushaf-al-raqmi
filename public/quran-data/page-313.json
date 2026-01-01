@@ -1,0 +1,1008 @@
+{
+  "page_number": 313,
+  "mushaf_id": 5,
+  "first_verse": "20:13",
+  "last_verse": "20:37",
+  "surahs_in_page": [
+    20
+  ],
+  "surah_starts": [],
+  "verses": [
+    {
+      "surah": 20,
+      "ayah": 13,
+      "verse_key": "20:13",
+      "text": "وَأَنَا ٱخۡتَرۡتُكَ فَٱسۡتَمِعۡ لِمَا يُوحَىٰٓ",
+      "words": [
+        {
+          "id": 662857,
+          "text": "وَأَنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662858,
+          "text": "ٱخۡتَرۡتُكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662859,
+          "text": "فَٱسۡتَمِعۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 662860,
+          "text": "لِمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662861,
+          "text": "يُوحَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 662862,
+          "text": "١٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 14,
+      "verse_key": "20:14",
+      "text": "إِنَّنِيٓ أَنَا ٱللَّهُ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعۡبُدۡنِي وَأَقِمِ ٱلصَّلَوٰةَ لِذِكۡرِيٓ",
+      "words": [
+        {
+          "id": 662863,
+          "text": "إِنَّنِيٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 662864,
+          "text": "أَنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662865,
+          "text": "ٱللَّهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 662866,
+          "text": "لَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 662867,
+          "text": "إِلَٰهَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662868,
+          "text": "إِلَّآ",
+          "char_type": "word"
+        },
+        {
+          "id": 662869,
+          "text": "أَنَا۠",
+          "char_type": "word"
+        },
+        {
+          "id": 662870,
+          "text": "فَٱعۡبُدۡنِي",
+          "char_type": "word"
+        },
+        {
+          "id": 662871,
+          "text": "وَأَقِمِ",
+          "char_type": "word"
+        },
+        {
+          "id": 662872,
+          "text": "ٱلصَّلَوٰةَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662873,
+          "text": "لِذِكۡرِيٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 662874,
+          "text": "١٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 15,
+      "verse_key": "20:15",
+      "text": "إِنَّ ٱلسَّاعَةَ ءَاتِيَةٌ أَكَادُ أُخۡفِيهَا لِتُجۡزَىٰ كُلُّ نَفۡسِۭ بِمَا تَسۡعَىٰ",
+      "words": [
+        {
+          "id": 662875,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 662876,
+          "text": "ٱلسَّاعَةَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662877,
+          "text": "ءَاتِيَةٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 662878,
+          "text": "أَكَادُ",
+          "char_type": "word"
+        },
+        {
+          "id": 662879,
+          "text": "أُخۡفِيهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662880,
+          "text": "لِتُجۡزَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 662881,
+          "text": "كُلُّ",
+          "char_type": "word"
+        },
+        {
+          "id": 662882,
+          "text": "نَفۡسِۭ",
+          "char_type": "word"
+        },
+        {
+          "id": 662883,
+          "text": "بِمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662884,
+          "text": "تَسۡعَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 662885,
+          "text": "١٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 16,
+      "verse_key": "20:16",
+      "text": "فَلَا يَصُدَّنَّكَ عَنۡهَا مَن لَّا يُؤۡمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ فَتَرۡدَىٰ",
+      "words": [
+        {
+          "id": 662886,
+          "text": "فَلَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662887,
+          "text": "يَصُدَّنَّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662888,
+          "text": "عَنۡهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662889,
+          "text": "مَن",
+          "char_type": "word"
+        },
+        {
+          "id": 662890,
+          "text": "لَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 662891,
+          "text": "يُؤۡمِنُ",
+          "char_type": "word"
+        },
+        {
+          "id": 662892,
+          "text": "بِهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662893,
+          "text": "وَٱتَّبَعَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662894,
+          "text": "هَوَىٰهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 662895,
+          "text": "فَتَرۡدَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 662896,
+          "text": "١٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 17,
+      "verse_key": "20:17",
+      "text": "وَمَا تِلۡكَ بِيَمِينِكَ يَٰمُوسَىٰ",
+      "words": [
+        {
+          "id": 662897,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662898,
+          "text": "تِلۡكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662899,
+          "text": "بِيَمِينِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662900,
+          "text": "يَٰمُوسَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 662901,
+          "text": "١٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 18,
+      "verse_key": "20:18",
+      "text": "قَالَ هِيَ عَصَايَ أَتَوَكَّؤُاْ عَلَيۡهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِي وَلِيَ فِيهَا مَـَٔارِبُ أُخۡرَىٰ",
+      "words": [
+        {
+          "id": 662902,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662903,
+          "text": "هِيَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662904,
+          "text": "عَصَايَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662905,
+          "text": "أَتَوَكَّؤُاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 662906,
+          "text": "عَلَيۡهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662907,
+          "text": "وَأَهُشُّ",
+          "char_type": "word"
+        },
+        {
+          "id": 662908,
+          "text": "بِهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662909,
+          "text": "عَلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 662910,
+          "text": "غَنَمِي",
+          "char_type": "word"
+        },
+        {
+          "id": 662911,
+          "text": "وَلِيَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662912,
+          "text": "فِيهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662913,
+          "text": "مَـَٔارِبُ",
+          "char_type": "word"
+        },
+        {
+          "id": 662914,
+          "text": "أُخۡرَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 662915,
+          "text": "١٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 19,
+      "verse_key": "20:19",
+      "text": "قَالَ أَلۡقِهَا يَٰمُوسَىٰ",
+      "words": [
+        {
+          "id": 662916,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662917,
+          "text": "أَلۡقِهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662918,
+          "text": "يَٰمُوسَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 662919,
+          "text": "١٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 20,
+      "verse_key": "20:20",
+      "text": "فَأَلۡقَىٰهَا فَإِذَا هِيَ حَيَّةٞ تَسۡعَىٰ",
+      "words": [
+        {
+          "id": 662920,
+          "text": "فَأَلۡقَىٰهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662921,
+          "text": "فَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662922,
+          "text": "هِيَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662923,
+          "text": "حَيَّةٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 662924,
+          "text": "تَسۡعَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 662925,
+          "text": "٢٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 21,
+      "verse_key": "20:21",
+      "text": "قَالَ خُذۡهَا وَلَا تَخَفۡۖ سَنُعِيدُهَا سِيرَتَهَا ٱلۡأُولَىٰ",
+      "words": [
+        {
+          "id": 662926,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662927,
+          "text": "خُذۡهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662928,
+          "text": "وَلَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662929,
+          "text": "تَخَفۡۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 662931,
+          "text": "سَنُعِيدُهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662932,
+          "text": "سِيرَتَهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662933,
+          "text": "ٱلۡأُولَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 662934,
+          "text": "٢١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 22,
+      "verse_key": "20:22",
+      "text": "وَٱضۡمُمۡ يَدَكَ إِلَىٰ جَنَاحِكَ تَخۡرُجۡ بَيۡضَآءَ مِنۡ غَيۡرِ سُوٓءٍ ءَايَةً أُخۡرَىٰ",
+      "words": [
+        {
+          "id": 662935,
+          "text": "وَٱضۡمُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 662936,
+          "text": "يَدَكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662937,
+          "text": "إِلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 662938,
+          "text": "جَنَاحِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662939,
+          "text": "تَخۡرُجۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 662940,
+          "text": "بَيۡضَآءَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662941,
+          "text": "مِنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 662942,
+          "text": "غَيۡرِ",
+          "char_type": "word"
+        },
+        {
+          "id": 662943,
+          "text": "سُوٓءٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 662944,
+          "text": "ءَايَةً",
+          "char_type": "word"
+        },
+        {
+          "id": 662945,
+          "text": "أُخۡرَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 662946,
+          "text": "٢٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 23,
+      "verse_key": "20:23",
+      "text": "لِنُرِيَكَ مِنۡ ءَايَٰتِنَا ٱلۡكُبۡرَى",
+      "words": [
+        {
+          "id": 662947,
+          "text": "لِنُرِيَكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662948,
+          "text": "مِنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 662949,
+          "text": "ءَايَٰتِنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 662950,
+          "text": "ٱلۡكُبۡرَى",
+          "char_type": "word"
+        },
+        {
+          "id": 662951,
+          "text": "٢٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 24,
+      "verse_key": "20:24",
+      "text": "ٱذۡهَبۡ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ",
+      "words": [
+        {
+          "id": 662952,
+          "text": "ٱذۡهَبۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 662953,
+          "text": "إِلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 662954,
+          "text": "فِرۡعَوۡنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662955,
+          "text": "إِنَّهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 662956,
+          "text": "طَغَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 662957,
+          "text": "٢٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 25,
+      "verse_key": "20:25",
+      "text": "قَالَ رَبِّ ٱشۡرَحۡ لِي صَدۡرِي",
+      "words": [
+        {
+          "id": 662958,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662959,
+          "text": "رَبِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 662960,
+          "text": "ٱشۡرَحۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 662961,
+          "text": "لِي",
+          "char_type": "word"
+        },
+        {
+          "id": 662962,
+          "text": "صَدۡرِي",
+          "char_type": "word"
+        },
+        {
+          "id": 662963,
+          "text": "٢٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 26,
+      "verse_key": "20:26",
+      "text": "وَيَسِّرۡ لِيٓ أَمۡرِي",
+      "words": [
+        {
+          "id": 662964,
+          "text": "وَيَسِّرۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 662965,
+          "text": "لِيٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 662966,
+          "text": "أَمۡرِي",
+          "char_type": "word"
+        },
+        {
+          "id": 662967,
+          "text": "٢٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 27,
+      "verse_key": "20:27",
+      "text": "وَٱحۡلُلۡ عُقۡدَةٗ مِّن لِّسَانِي",
+      "words": [
+        {
+          "id": 662968,
+          "text": "وَٱحۡلُلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 662969,
+          "text": "عُقۡدَةٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 662970,
+          "text": "مِّن",
+          "char_type": "word"
+        },
+        {
+          "id": 662971,
+          "text": "لِّسَانِي",
+          "char_type": "word"
+        },
+        {
+          "id": 662972,
+          "text": "٢٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 28,
+      "verse_key": "20:28",
+      "text": "يَفۡقَهُواْ قَوۡلِي",
+      "words": [
+        {
+          "id": 662973,
+          "text": "يَفۡقَهُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 662974,
+          "text": "قَوۡلِي",
+          "char_type": "word"
+        },
+        {
+          "id": 662975,
+          "text": "٢٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 29,
+      "verse_key": "20:29",
+      "text": "وَٱجۡعَل لِّي وَزِيرٗا مِّنۡ أَهۡلِي",
+      "words": [
+        {
+          "id": 662976,
+          "text": "وَٱجۡعَل",
+          "char_type": "word"
+        },
+        {
+          "id": 662977,
+          "text": "لِّي",
+          "char_type": "word"
+        },
+        {
+          "id": 662978,
+          "text": "وَزِيرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 662979,
+          "text": "مِّنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 662980,
+          "text": "أَهۡلِي",
+          "char_type": "word"
+        },
+        {
+          "id": 662981,
+          "text": "٢٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 30,
+      "verse_key": "20:30",
+      "text": "هَٰرُونَ أَخِي",
+      "words": [
+        {
+          "id": 662982,
+          "text": "هَٰرُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662983,
+          "text": "أَخِي",
+          "char_type": "word"
+        },
+        {
+          "id": 662984,
+          "text": "٣٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 31,
+      "verse_key": "20:31",
+      "text": "ٱشۡدُدۡ بِهِۦٓ أَزۡرِي",
+      "words": [
+        {
+          "id": 662985,
+          "text": "ٱشۡدُدۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 662986,
+          "text": "بِهِۦٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 662987,
+          "text": "أَزۡرِي",
+          "char_type": "word"
+        },
+        {
+          "id": 662988,
+          "text": "٣١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 32,
+      "verse_key": "20:32",
+      "text": "وٱأَشۡرِكۡهُ فِيٓ أَمۡرِي",
+      "words": [
+        {
+          "id": 662989,
+          "text": "وٱأَشۡرِكۡهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 662990,
+          "text": "فِيٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 662991,
+          "text": "أَمۡرِي",
+          "char_type": "word"
+        },
+        {
+          "id": 662992,
+          "text": "٣٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 33,
+      "verse_key": "20:33",
+      "text": "كَيۡ نُسَبِّحَكَ كَثِيرٗا",
+      "words": [
+        {
+          "id": 662993,
+          "text": "كَيۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 662994,
+          "text": "نُسَبِّحَكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662995,
+          "text": "كَثِيرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 662996,
+          "text": "٣٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 34,
+      "verse_key": "20:34",
+      "text": "وَنَذۡكُرَكَ كَثِيرًا",
+      "words": [
+        {
+          "id": 662997,
+          "text": "وَنَذۡكُرَكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 662998,
+          "text": "كَثِيرًا",
+          "char_type": "word"
+        },
+        {
+          "id": 662999,
+          "text": "٣٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 35,
+      "verse_key": "20:35",
+      "text": "إِنَّكَ كُنتَ بِنَا بَصِيرٗا",
+      "words": [
+        {
+          "id": 663000,
+          "text": "إِنَّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 663001,
+          "text": "كُنتَ",
+          "char_type": "word"
+        },
+        {
+          "id": 663002,
+          "text": "بِنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 663003,
+          "text": "بَصِيرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 663004,
+          "text": "٣٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 36,
+      "verse_key": "20:36",
+      "text": "قَالَ قَدۡ أُوتِيتَ سُؤۡلَكَ يَٰمُوسَىٰ",
+      "words": [
+        {
+          "id": 663005,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 663006,
+          "text": "قَدۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 663007,
+          "text": "أُوتِيتَ",
+          "char_type": "word"
+        },
+        {
+          "id": 663008,
+          "text": "سُؤۡلَكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 663009,
+          "text": "يَٰمُوسَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 663010,
+          "text": "٣٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 20,
+      "ayah": 37,
+      "verse_key": "20:37",
+      "text": "وَلَقَدۡ مَنَنَّا عَلَيۡكَ مَرَّةً أُخۡرَىٰٓ",
+      "words": [
+        {
+          "id": 663011,
+          "text": "وَلَقَدۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 663012,
+          "text": "مَنَنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 663013,
+          "text": "عَلَيۡكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 663014,
+          "text": "مَرَّةً",
+          "char_type": "word"
+        },
+        {
+          "id": 663015,
+          "text": "أُخۡرَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 663016,
+          "text": "٣٧",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 159
+}

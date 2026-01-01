@@ -1,0 +1,794 @@
+{
+  "page_number": 520,
+  "mushaf_id": 5,
+  "first_verse": "50:36",
+  "last_verse": "51:6",
+  "surahs_in_page": [
+    50,
+    51
+  ],
+  "surah_starts": [
+    51
+  ],
+  "verses": [
+    {
+      "surah": 50,
+      "ayah": 36,
+      "verse_key": "50:36",
+      "text": "وَكَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّن قَرۡنٍ هُمۡ أَشَدُّ مِنۡهُم بَطۡشٗا فَنَقَّبُواْ فِي ٱلۡبِلَٰدِ هَلۡ مِن مَّحِيصٍ",
+      "words": [
+        {
+          "id": 693532,
+          "text": "وَكَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 693533,
+          "text": "أَهۡلَكۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 693534,
+          "text": "قَبۡلَهُم",
+          "char_type": "word"
+        },
+        {
+          "id": 693535,
+          "text": "مِّن",
+          "char_type": "word"
+        },
+        {
+          "id": 693536,
+          "text": "قَرۡنٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 693537,
+          "text": "هُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 693538,
+          "text": "أَشَدُّ",
+          "char_type": "word"
+        },
+        {
+          "id": 693539,
+          "text": "مِنۡهُم",
+          "char_type": "word"
+        },
+        {
+          "id": 693540,
+          "text": "بَطۡشٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 693541,
+          "text": "فَنَقَّبُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 693542,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 693543,
+          "text": "ٱلۡبِلَٰدِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693544,
+          "text": "هَلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 693545,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 693546,
+          "text": "مَّحِيصٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 693547,
+          "text": "٣٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 50,
+      "ayah": 37,
+      "verse_key": "50:37",
+      "text": "إِنَّ فِي ذَٰلِكَ لَذِكۡرَىٰ لِمَن كَانَ لَهُۥ قَلۡبٌ أَوۡ أَلۡقَى ٱلسَّمۡعَ وَهُوَ شَهِيدٞ",
+      "words": [
+        {
+          "id": 693548,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 693549,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 693550,
+          "text": "ذَٰلِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693551,
+          "text": "لَذِكۡرَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 693552,
+          "text": "لِمَن",
+          "char_type": "word"
+        },
+        {
+          "id": 693553,
+          "text": "كَانَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693554,
+          "text": "لَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 693555,
+          "text": "قَلۡبٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 693556,
+          "text": "أَوۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 693557,
+          "text": "أَلۡقَى",
+          "char_type": "word"
+        },
+        {
+          "id": 693558,
+          "text": "ٱلسَّمۡعَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693559,
+          "text": "وَهُوَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693560,
+          "text": "شَهِيدٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 693561,
+          "text": "٣٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 50,
+      "ayah": 38,
+      "verse_key": "50:38",
+      "text": "وَلَقَدۡ خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا فِي سِتَّةِ أَيَّامٖ وَمَا مَسَّنَا مِن لُّغُوبٖ",
+      "words": [
+        {
+          "id": 693562,
+          "text": "وَلَقَدۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 693563,
+          "text": "خَلَقۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 693564,
+          "text": "ٱلسَّمَٰوَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693565,
+          "text": "وَٱلۡأَرۡضَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693566,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 693567,
+          "text": "بَيۡنَهُمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 693568,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 693569,
+          "text": "سِتَّةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693570,
+          "text": "أَيَّامٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 693571,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 693572,
+          "text": "مَسَّنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 693573,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 693574,
+          "text": "لُّغُوبٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 693575,
+          "text": "٣٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 50,
+      "ayah": 39,
+      "verse_key": "50:39",
+      "text": "فَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ قَبۡلَ طُلُوعِ ٱلشَّمۡسِ وَقَبۡلَ ٱلۡغُرُوبِ",
+      "words": [
+        {
+          "id": 693576,
+          "text": "فَٱصۡبِرۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 693577,
+          "text": "عَلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 693578,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 693579,
+          "text": "يَقُولُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693580,
+          "text": "وَسَبِّحۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 693581,
+          "text": "بِحَمۡدِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693582,
+          "text": "رَبِّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693583,
+          "text": "قَبۡلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693584,
+          "text": "طُلُوعِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693585,
+          "text": "ٱلشَّمۡسِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693586,
+          "text": "وَقَبۡلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693587,
+          "text": "ٱلۡغُرُوبِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693588,
+          "text": "٣٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 50,
+      "ayah": 40,
+      "verse_key": "50:40",
+      "text": "وَمِنَ ٱلَّيۡلِ فَسَبِّحۡهُ وَأَدۡبَٰرَ ٱلسُّجُودِ",
+      "words": [
+        {
+          "id": 693589,
+          "text": "وَمِنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693590,
+          "text": "ٱلَّيۡلِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693591,
+          "text": "فَسَبِّحۡهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 693592,
+          "text": "وَأَدۡبَٰرَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693593,
+          "text": "ٱلسُّجُودِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693594,
+          "text": "٤٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 50,
+      "ayah": 41,
+      "verse_key": "50:41",
+      "text": "وَٱسۡتَمِعۡ يَوۡمَ يُنَادِ ٱلۡمُنَادِ مِن مَّكَانٖ قَرِيبٖ",
+      "words": [
+        {
+          "id": 693595,
+          "text": "وَٱسۡتَمِعۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 693596,
+          "text": "يَوۡمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693597,
+          "text": "يُنَادِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693598,
+          "text": "ٱلۡمُنَادِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693599,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 693600,
+          "text": "مَّكَانٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 693601,
+          "text": "قَرِيبٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 693602,
+          "text": "٤١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 50,
+      "ayah": 42,
+      "verse_key": "50:42",
+      "text": "يَوۡمَ يَسۡمَعُونَ ٱلصَّيۡحَةَ بِٱلۡحَقِّۚ ذَٰلِكَ يَوۡمُ ٱلۡخُرُوجِ",
+      "words": [
+        {
+          "id": 693603,
+          "text": "يَوۡمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693604,
+          "text": "يَسۡمَعُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693605,
+          "text": "ٱلصَّيۡحَةَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693606,
+          "text": "بِٱلۡحَقِّۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 693608,
+          "text": "ذَٰلِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693609,
+          "text": "يَوۡمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 693610,
+          "text": "ٱلۡخُرُوجِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693611,
+          "text": "٤٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 50,
+      "ayah": 43,
+      "verse_key": "50:43",
+      "text": "إِنَّا نَحۡنُ نُحۡيِۦ وَنُمِيتُ وَإِلَيۡنَا ٱلۡمَصِيرُ",
+      "words": [
+        {
+          "id": 693612,
+          "text": "إِنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 693613,
+          "text": "نَحۡنُ",
+          "char_type": "word"
+        },
+        {
+          "id": 693614,
+          "text": "نُحۡيِۦ",
+          "char_type": "word"
+        },
+        {
+          "id": 693615,
+          "text": "وَنُمِيتُ",
+          "char_type": "word"
+        },
+        {
+          "id": 693616,
+          "text": "وَإِلَيۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 693617,
+          "text": "ٱلۡمَصِيرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 693618,
+          "text": "٤٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 50,
+      "ayah": 44,
+      "verse_key": "50:44",
+      "text": "يَوۡمَ تَشَقَّقُ ٱلۡأَرۡضُ عَنۡهُمۡ سِرَاعٗاۚ ذَٰلِكَ حَشۡرٌ عَلَيۡنَا يَسِيرٞ",
+      "words": [
+        {
+          "id": 693619,
+          "text": "يَوۡمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693620,
+          "text": "تَشَقَّقُ",
+          "char_type": "word"
+        },
+        {
+          "id": 693621,
+          "text": "ٱلۡأَرۡضُ",
+          "char_type": "word"
+        },
+        {
+          "id": 693622,
+          "text": "عَنۡهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 693623,
+          "text": "سِرَاعٗاۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 693625,
+          "text": "ذَٰلِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693626,
+          "text": "حَشۡرٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 693627,
+          "text": "عَلَيۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 693628,
+          "text": "يَسِيرٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 693629,
+          "text": "٤٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 50,
+      "ayah": 45,
+      "verse_key": "50:45",
+      "text": "نَّحۡنُ أَعۡلَمُ بِمَا يَقُولُونَۖ وَمَآ أَنتَ عَلَيۡهِم بِجَبَّارٖۖ فَذَكِّرۡ بِٱلۡقُرۡءَانِ مَن يَخَافُ وَعِيدِ",
+      "words": [
+        {
+          "id": 693630,
+          "text": "نَّحۡنُ",
+          "char_type": "word"
+        },
+        {
+          "id": 693631,
+          "text": "أَعۡلَمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 693632,
+          "text": "بِمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 693633,
+          "text": "يَقُولُونَۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 693635,
+          "text": "وَمَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 693636,
+          "text": "أَنتَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693637,
+          "text": "عَلَيۡهِم",
+          "char_type": "word"
+        },
+        {
+          "id": 693638,
+          "text": "بِجَبَّارٖۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 693640,
+          "text": "فَذَكِّرۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 693641,
+          "text": "بِٱلۡقُرۡءَانِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693642,
+          "text": "مَن",
+          "char_type": "word"
+        },
+        {
+          "id": 693643,
+          "text": "يَخَافُ",
+          "char_type": "word"
+        },
+        {
+          "id": 693644,
+          "text": "وَعِيدِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693645,
+          "text": "٤٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 51,
+      "ayah": 1,
+      "verse_key": "51:1",
+      "text": "وَٱلذَّٰرِيَٰتِ ذَرۡوٗا",
+      "words": [
+        {
+          "id": 693646,
+          "text": "وَٱلذَّٰرِيَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693647,
+          "text": "ذَرۡوٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 693648,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 51,
+      "ayah": 2,
+      "verse_key": "51:2",
+      "text": "فَٱلۡحَٰمِلَٰتِ وِقۡرٗا",
+      "words": [
+        {
+          "id": 693649,
+          "text": "فَٱلۡحَٰمِلَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693650,
+          "text": "وِقۡرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 693651,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 51,
+      "ayah": 3,
+      "verse_key": "51:3",
+      "text": "فَٱلۡجَٰرِيَٰتِ يُسۡرٗا",
+      "words": [
+        {
+          "id": 693652,
+          "text": "فَٱلۡجَٰرِيَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693653,
+          "text": "يُسۡرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 693654,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 51,
+      "ayah": 4,
+      "verse_key": "51:4",
+      "text": "فَٱلۡمُقَسِّمَٰتِ أَمۡرًا",
+      "words": [
+        {
+          "id": 693655,
+          "text": "فَٱلۡمُقَسِّمَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 693656,
+          "text": "أَمۡرًا",
+          "char_type": "word"
+        },
+        {
+          "id": 693657,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 51,
+      "ayah": 5,
+      "verse_key": "51:5",
+      "text": "إِنَّمَا تُوعَدُونَ لَصَادِقٞ",
+      "words": [
+        {
+          "id": 693658,
+          "text": "إِنَّمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 693659,
+          "text": "تُوعَدُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693660,
+          "text": "لَصَادِقٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 693661,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 51,
+      "ayah": 6,
+      "verse_key": "51:6",
+      "text": "وَإِنَّ ٱلدِّينَ لَوَٰقِعٞ",
+      "words": [
+        {
+          "id": 693662,
+          "text": "وَإِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 693663,
+          "text": "ٱلدِّينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 693664,
+          "text": "لَوَٰقِعٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 693665,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 130
+}

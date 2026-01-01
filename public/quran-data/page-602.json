@@ -1,0 +1,461 @@
+{
+  "page_number": 602,
+  "mushaf_id": 5,
+  "first_verse": "106:1",
+  "last_verse": "108:3",
+  "surahs_in_page": [
+    106,
+    107,
+    108
+  ],
+  "surah_starts": [
+    106,
+    107,
+    108
+  ],
+  "verses": [
+    {
+      "surah": 106,
+      "ayah": 1,
+      "verse_key": "106:1",
+      "text": "لِإِيلَٰفِ قُرَيۡشٍ",
+      "words": [
+        {
+          "id": 705627,
+          "text": "لِإِيلَٰفِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705628,
+          "text": "قُرَيۡشٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 705629,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 106,
+      "ayah": 2,
+      "verse_key": "106:2",
+      "text": "إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ",
+      "words": [
+        {
+          "id": 705630,
+          "text": "إِۦلَٰفِهِمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705631,
+          "text": "رِحۡلَةَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705632,
+          "text": "ٱلشِّتَآءِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705633,
+          "text": "وَٱلصَّيۡفِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705634,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 106,
+      "ayah": 3,
+      "verse_key": "106:3",
+      "text": "فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ",
+      "words": [
+        {
+          "id": 705635,
+          "text": "فَلۡيَعۡبُدُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 705636,
+          "text": "رَبَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 705637,
+          "text": "هَٰذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705638,
+          "text": "ٱلۡبَيۡتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705639,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 106,
+      "ayah": 4,
+      "verse_key": "106:4",
+      "text": "ٱلَّذِيٓ أَطۡعَمَهُم مِّن جُوعٖ وَءَامَنَهُم مِّنۡ خَوۡفِۭ",
+      "words": [
+        {
+          "id": 705640,
+          "text": "ٱلَّذِيٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 705641,
+          "text": "أَطۡعَمَهُم",
+          "char_type": "word"
+        },
+        {
+          "id": 705642,
+          "text": "مِّن",
+          "char_type": "word"
+        },
+        {
+          "id": 705643,
+          "text": "جُوعٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705644,
+          "text": "وَءَامَنَهُم",
+          "char_type": "word"
+        },
+        {
+          "id": 705645,
+          "text": "مِّنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705646,
+          "text": "خَوۡفِۭ",
+          "char_type": "word"
+        },
+        {
+          "id": 705647,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 107,
+      "ayah": 1,
+      "verse_key": "107:1",
+      "text": "أَرَءَيۡتَ ٱلَّذِي يُكَذِّبُ بِٱلدِّينِ",
+      "words": [
+        {
+          "id": 705648,
+          "text": "أَرَءَيۡتَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705649,
+          "text": "ٱلَّذِي",
+          "char_type": "word"
+        },
+        {
+          "id": 705650,
+          "text": "يُكَذِّبُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705651,
+          "text": "بِٱلدِّينِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705652,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 107,
+      "ayah": 2,
+      "verse_key": "107:2",
+      "text": "فَذَٰلِكَ ٱلَّذِي يَدُعُّ ٱلۡيَتِيمَ",
+      "words": [
+        {
+          "id": 705653,
+          "text": "فَذَٰلِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705654,
+          "text": "ٱلَّذِي",
+          "char_type": "word"
+        },
+        {
+          "id": 705655,
+          "text": "يَدُعُّ",
+          "char_type": "word"
+        },
+        {
+          "id": 705656,
+          "text": "ٱلۡيَتِيمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705657,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 107,
+      "ayah": 3,
+      "verse_key": "107:3",
+      "text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+      "words": [
+        {
+          "id": 705658,
+          "text": "وَلَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705659,
+          "text": "يَحُضُّ",
+          "char_type": "word"
+        },
+        {
+          "id": 705660,
+          "text": "عَلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 705661,
+          "text": "طَعَامِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705662,
+          "text": "ٱلۡمِسۡكِينِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705663,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 107,
+      "ayah": 4,
+      "verse_key": "107:4",
+      "text": "فَوَيۡلٞ لِّلۡمُصَلِّينَ",
+      "words": [
+        {
+          "id": 705664,
+          "text": "فَوَيۡلٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 705665,
+          "text": "لِّلۡمُصَلِّينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705666,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 107,
+      "ayah": 5,
+      "verse_key": "107:5",
+      "text": "ٱلَّذِينَ هُمۡ عَن صَلَاتِهِمۡ سَاهُونَ",
+      "words": [
+        {
+          "id": 705667,
+          "text": "ٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705668,
+          "text": "هُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705669,
+          "text": "عَن",
+          "char_type": "word"
+        },
+        {
+          "id": 705670,
+          "text": "صَلَاتِهِمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705671,
+          "text": "سَاهُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705672,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 107,
+      "ayah": 6,
+      "verse_key": "107:6",
+      "text": "ٱلَّذِينَ هُمۡ يُرَآءُونَ",
+      "words": [
+        {
+          "id": 705673,
+          "text": "ٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705674,
+          "text": "هُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705675,
+          "text": "يُرَآءُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705676,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 107,
+      "ayah": 7,
+      "verse_key": "107:7",
+      "text": "وَيَمۡنَعُونَ ٱلۡمَاعُونَ",
+      "words": [
+        {
+          "id": 705677,
+          "text": "وَيَمۡنَعُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705678,
+          "text": "ٱلۡمَاعُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705679,
+          "text": "٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 108,
+      "ayah": 1,
+      "verse_key": "108:1",
+      "text": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
+      "words": [
+        {
+          "id": 705680,
+          "text": "إِنَّآ",
+          "char_type": "word"
+        },
+        {
+          "id": 705681,
+          "text": "أَعۡطَيۡنَٰكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705682,
+          "text": "ٱلۡكَوۡثَرَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705683,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 108,
+      "ayah": 2,
+      "verse_key": "108:2",
+      "text": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ",
+      "words": [
+        {
+          "id": 705684,
+          "text": "فَصَلِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 705685,
+          "text": "لِرَبِّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705686,
+          "text": "وَٱنۡحَرۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705687,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 108,
+      "ayah": 3,
+      "verse_key": "108:3",
+      "text": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
+      "words": [
+        {
+          "id": 705688,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 705689,
+          "text": "شَانِئَكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705690,
+          "text": "هُوَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705691,
+          "text": "ٱلۡأَبۡتَرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705692,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 66
+}

@@ -1,0 +1,930 @@
+{
+  "page_number": 582,
+  "mushaf_id": 5,
+  "first_verse": "78:1",
+  "last_verse": "78:30",
+  "surahs_in_page": [
+    78
+  ],
+  "surah_starts": [
+    78
+  ],
+  "verses": [
+    {
+      "surah": 78,
+      "ayah": 1,
+      "verse_key": "78:1",
+      "text": "عَمَّ يَتَسَآءَلُونَ",
+      "words": [
+        {
+          "id": 702955,
+          "text": "عَمَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 702956,
+          "text": "يَتَسَآءَلُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702957,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 2,
+      "verse_key": "78:2",
+      "text": "عَنِ ٱلنَّبَإِ ٱلۡعَظِيمِ",
+      "words": [
+        {
+          "id": 702958,
+          "text": "عَنِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702959,
+          "text": "ٱلنَّبَإِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702960,
+          "text": "ٱلۡعَظِيمِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702961,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 3,
+      "verse_key": "78:3",
+      "text": "ٱلَّذِي هُمۡ فِيهِ مُخۡتَلِفُونَ",
+      "words": [
+        {
+          "id": 702962,
+          "text": "ٱلَّذِي",
+          "char_type": "word"
+        },
+        {
+          "id": 702963,
+          "text": "هُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702964,
+          "text": "فِيهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702965,
+          "text": "مُخۡتَلِفُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702966,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 4,
+      "verse_key": "78:4",
+      "text": "كـَلَّا سَيَعۡلَمُونَ",
+      "words": [
+        {
+          "id": 702967,
+          "text": "كـَلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 702968,
+          "text": "سَيَعۡلَمُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702969,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 5,
+      "verse_key": "78:5",
+      "text": "ثُمَّ كـَلَّا سَيَعۡلَمُونَ",
+      "words": [
+        {
+          "id": 702970,
+          "text": "ثُمَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 702971,
+          "text": "كـَلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 702972,
+          "text": "سَيَعۡلَمُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702973,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 6,
+      "verse_key": "78:6",
+      "text": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ مِهَٰدٗا",
+      "words": [
+        {
+          "id": 702974,
+          "text": "أَلَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702975,
+          "text": "نَجۡعَلِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702976,
+          "text": "ٱلۡأَرۡضَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702977,
+          "text": "مِهَٰدٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 702978,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 7,
+      "verse_key": "78:7",
+      "text": "وَٱلۡجِبَالَ أَوۡتَادٗا",
+      "words": [
+        {
+          "id": 702979,
+          "text": "وَٱلۡجِبَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702980,
+          "text": "أَوۡتَادٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 702981,
+          "text": "٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 8,
+      "verse_key": "78:8",
+      "text": "وَخَلَقۡنَٰكُمۡ أَزۡوَٰجٗا",
+      "words": [
+        {
+          "id": 702982,
+          "text": "وَخَلَقۡنَٰكُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702983,
+          "text": "أَزۡوَٰجٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 702984,
+          "text": "٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 9,
+      "verse_key": "78:9",
+      "text": "وَجَعَلۡنَا نَوۡمَكُمۡ سُبَاتٗا",
+      "words": [
+        {
+          "id": 702985,
+          "text": "وَجَعَلۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702986,
+          "text": "نَوۡمَكُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702987,
+          "text": "سُبَاتٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 702988,
+          "text": "٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 10,
+      "verse_key": "78:10",
+      "text": "وَجَعَلۡنَا ٱلَّيۡلَ لِبَاسٗا",
+      "words": [
+        {
+          "id": 702989,
+          "text": "وَجَعَلۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702990,
+          "text": "ٱلَّيۡلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702991,
+          "text": "لِبَاسٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 702992,
+          "text": "١٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 11,
+      "verse_key": "78:11",
+      "text": "وَجَعَلۡنَا ٱلنَّهَارَ مَعَاشٗا",
+      "words": [
+        {
+          "id": 702993,
+          "text": "وَجَعَلۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702994,
+          "text": "ٱلنَّهَارَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702995,
+          "text": "مَعَاشٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 702996,
+          "text": "١١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 12,
+      "verse_key": "78:12",
+      "text": "وَبَنَيۡنَا فَوۡقَكُمۡ سَبۡعٗا شِدَادٗا",
+      "words": [
+        {
+          "id": 702997,
+          "text": "وَبَنَيۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702998,
+          "text": "فَوۡقَكُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702999,
+          "text": "سَبۡعٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703000,
+          "text": "شِدَادٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703001,
+          "text": "١٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 13,
+      "verse_key": "78:13",
+      "text": "وَجَعَلۡنَا سِرَاجٗا وَهَّاجٗا",
+      "words": [
+        {
+          "id": 703002,
+          "text": "وَجَعَلۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703003,
+          "text": "سِرَاجٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703004,
+          "text": "وَهَّاجٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703005,
+          "text": "١٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 14,
+      "verse_key": "78:14",
+      "text": "وَأَنزَلۡنَا مِنَ ٱلۡمُعۡصِرَٰتِ مَآءٗ ثَجَّاجٗا",
+      "words": [
+        {
+          "id": 703006,
+          "text": "وَأَنزَلۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703007,
+          "text": "مِنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703008,
+          "text": "ٱلۡمُعۡصِرَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 703009,
+          "text": "مَآءٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 703010,
+          "text": "ثَجَّاجٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703011,
+          "text": "١٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 15,
+      "verse_key": "78:15",
+      "text": "لِّنُخۡرِجَ بِهِۦ حَبّٗا وَنَبَاتٗا",
+      "words": [
+        {
+          "id": 703012,
+          "text": "لِّنُخۡرِجَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703013,
+          "text": "بِهِۦ",
+          "char_type": "word"
+        },
+        {
+          "id": 703014,
+          "text": "حَبّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703015,
+          "text": "وَنَبَاتٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703016,
+          "text": "١٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 16,
+      "verse_key": "78:16",
+      "text": "وَجَنَّٰتٍ أَلۡفَافًا",
+      "words": [
+        {
+          "id": 703017,
+          "text": "وَجَنَّٰتٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 703018,
+          "text": "أَلۡفَافًا",
+          "char_type": "word"
+        },
+        {
+          "id": 703019,
+          "text": "١٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 17,
+      "verse_key": "78:17",
+      "text": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ كَانَ مِيقَٰتٗا",
+      "words": [
+        {
+          "id": 703020,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 703021,
+          "text": "يَوۡمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703022,
+          "text": "ٱلۡفَصۡلِ",
+          "char_type": "word"
+        },
+        {
+          "id": 703023,
+          "text": "كَانَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703024,
+          "text": "مِيقَٰتٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703025,
+          "text": "١٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 18,
+      "verse_key": "78:18",
+      "text": "يَوۡمَ يُنفَخُ فِي ٱلصُّورِ فَتَأۡتُونَ أَفۡوَاجٗا",
+      "words": [
+        {
+          "id": 703026,
+          "text": "يَوۡمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703027,
+          "text": "يُنفَخُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703028,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 703029,
+          "text": "ٱلصُّورِ",
+          "char_type": "word"
+        },
+        {
+          "id": 703030,
+          "text": "فَتَأۡتُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703031,
+          "text": "أَفۡوَاجٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703032,
+          "text": "١٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 19,
+      "verse_key": "78:19",
+      "text": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتۡ أَبۡوَٰبٗا",
+      "words": [
+        {
+          "id": 703033,
+          "text": "وَفُتِحَتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 703034,
+          "text": "ٱلسَّمَآءُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703035,
+          "text": "فَكَانَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703036,
+          "text": "أَبۡوَٰبٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703037,
+          "text": "١٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 20,
+      "verse_key": "78:20",
+      "text": "وَسُيِّرَتِ ٱلۡجِبَالُ فَكَانَتۡ سَرَابًا",
+      "words": [
+        {
+          "id": 703038,
+          "text": "وَسُيِّرَتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 703039,
+          "text": "ٱلۡجِبَالُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703040,
+          "text": "فَكَانَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703041,
+          "text": "سَرَابًا",
+          "char_type": "word"
+        },
+        {
+          "id": 703042,
+          "text": "٢٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 21,
+      "verse_key": "78:21",
+      "text": "إِنَّ جَهَنَّمَ كَانَتۡ مِرۡصَادٗا",
+      "words": [
+        {
+          "id": 703043,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 703044,
+          "text": "جَهَنَّمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703045,
+          "text": "كَانَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703046,
+          "text": "مِرۡصَادٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703047,
+          "text": "٢١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 22,
+      "verse_key": "78:22",
+      "text": "لِّلطَّٰغِينَ مَـَٔابٗا",
+      "words": [
+        {
+          "id": 703048,
+          "text": "لِّلطَّٰغِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703049,
+          "text": "مَـَٔابٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703050,
+          "text": "٢٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 23,
+      "verse_key": "78:23",
+      "text": "لَّٰبِثِينَ فِيهَآ أَحۡقَابٗا",
+      "words": [
+        {
+          "id": 703051,
+          "text": "لَّٰبِثِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703052,
+          "text": "فِيهَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 703053,
+          "text": "أَحۡقَابٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703054,
+          "text": "٢٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 24,
+      "verse_key": "78:24",
+      "text": "لَّا يَذُوقُونَ فِيهَا بَرۡدٗا وَلَا شَرَابًا",
+      "words": [
+        {
+          "id": 703055,
+          "text": "لَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 703056,
+          "text": "يَذُوقُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703057,
+          "text": "فِيهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703058,
+          "text": "بَرۡدٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703059,
+          "text": "وَلَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703060,
+          "text": "شَرَابًا",
+          "char_type": "word"
+        },
+        {
+          "id": 703061,
+          "text": "٢٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 25,
+      "verse_key": "78:25",
+      "text": "إِلَّا حَمِيمٗا وَغَسَّاقٗا",
+      "words": [
+        {
+          "id": 703062,
+          "text": "إِلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 703063,
+          "text": "حَمِيمٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703064,
+          "text": "وَغَسَّاقٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703065,
+          "text": "٢٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 26,
+      "verse_key": "78:26",
+      "text": "جَزَآءٗ وِفَاقًا",
+      "words": [
+        {
+          "id": 703066,
+          "text": "جَزَآءٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 703067,
+          "text": "وِفَاقًا",
+          "char_type": "word"
+        },
+        {
+          "id": 703068,
+          "text": "٢٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 27,
+      "verse_key": "78:27",
+      "text": "إِنَّهُمۡ كَانُواْ لَا يَرۡجُونَ حِسَابٗا",
+      "words": [
+        {
+          "id": 703069,
+          "text": "إِنَّهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703070,
+          "text": "كَانُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 703071,
+          "text": "لَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703072,
+          "text": "يَرۡجُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 703073,
+          "text": "حِسَابٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703074,
+          "text": "٢٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 28,
+      "verse_key": "78:28",
+      "text": "وَكَذَّبُواْ بِـَٔايَٰتِنَا كِذَّابٗا",
+      "words": [
+        {
+          "id": 703075,
+          "text": "وَكَذَّبُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 703076,
+          "text": "بِـَٔايَٰتِنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 703077,
+          "text": "كِذَّابٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703078,
+          "text": "٢٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 29,
+      "verse_key": "78:29",
+      "text": "وَكُلَّ شَيۡءٍ أَحۡصَيۡنَٰهُ كِتَٰبٗا",
+      "words": [
+        {
+          "id": 703079,
+          "text": "وَكُلَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 703080,
+          "text": "شَيۡءٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 703081,
+          "text": "أَحۡصَيۡنَٰهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 703082,
+          "text": "كِتَٰبٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 703083,
+          "text": "٢٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 78,
+      "ayah": 30,
+      "verse_key": "78:30",
+      "text": "فَذُوقُواْ فَلَن نَّزِيدَكُمۡ إِلَّا عَذَابًا",
+      "words": [
+        {
+          "id": 703084,
+          "text": "فَذُوقُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 703085,
+          "text": "فَلَن",
+          "char_type": "word"
+        },
+        {
+          "id": 703086,
+          "text": "نَّزِيدَكُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 703087,
+          "text": "إِلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 703088,
+          "text": "عَذَابًا",
+          "char_type": "word"
+        },
+        {
+          "id": 703089,
+          "text": "٣٠",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 135
+}

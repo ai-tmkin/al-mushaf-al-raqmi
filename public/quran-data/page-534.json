@@ -1,0 +1,796 @@
+{
+  "page_number": 534,
+  "mushaf_id": 5,
+  "first_verse": "55:70",
+  "last_verse": "56:16",
+  "surahs_in_page": [
+    55,
+    56
+  ],
+  "surah_starts": [
+    56
+  ],
+  "verses": [
+    {
+      "surah": 55,
+      "ayah": 70,
+      "verse_key": "55:70",
+      "text": "فِيهِنَّ خَيۡرَٰتٌ حِسَانٞ",
+      "words": [
+        {
+          "id": 695671,
+          "text": "فِيهِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 695672,
+          "text": "خَيۡرَٰتٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 695673,
+          "text": "حِسَانٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 695674,
+          "text": "٧٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 55,
+      "ayah": 71,
+      "verse_key": "55:71",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "words": [
+        {
+          "id": 695675,
+          "text": "فَبِأَيِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 695676,
+          "text": "ءَالَآءِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695677,
+          "text": "رَبِّكُمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 695678,
+          "text": "تُكَذِّبَانِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695679,
+          "text": "٧١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 55,
+      "ayah": 72,
+      "verse_key": "55:72",
+      "text": "حُورٞ مَّقۡصُورَٰتٞ فِي ٱلۡخِيَامِ",
+      "words": [
+        {
+          "id": 695680,
+          "text": "حُورٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 695681,
+          "text": "مَّقۡصُورَٰتٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 695682,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 695683,
+          "text": "ٱلۡخِيَامِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695684,
+          "text": "٧٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 55,
+      "ayah": 73,
+      "verse_key": "55:73",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "words": [
+        {
+          "id": 695685,
+          "text": "فَبِأَيِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 695686,
+          "text": "ءَالَآءِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695687,
+          "text": "رَبِّكُمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 695688,
+          "text": "تُكَذِّبَانِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695689,
+          "text": "٧٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 55,
+      "ayah": 74,
+      "verse_key": "55:74",
+      "text": "لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ",
+      "words": [
+        {
+          "id": 695690,
+          "text": "لَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 695691,
+          "text": "يَطۡمِثۡهُنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 695692,
+          "text": "إِنسٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 695693,
+          "text": "قَبۡلَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 695694,
+          "text": "وَلَا",
+          "char_type": "word"
+        },
+        {
+          "id": 695695,
+          "text": "جَآنّٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 695696,
+          "text": "٧٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 55,
+      "ayah": 75,
+      "verse_key": "55:75",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "words": [
+        {
+          "id": 695697,
+          "text": "فَبِأَيِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 695698,
+          "text": "ءَالَآءِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695699,
+          "text": "رَبِّكُمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 695700,
+          "text": "تُكَذِّبَانِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695701,
+          "text": "٧٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 55,
+      "ayah": 76,
+      "verse_key": "55:76",
+      "text": "مُتَّكِـِٔينَ عَلَىٰ رَفۡرَفٍ خُضۡرٖ وَعَبۡقَرِيٍّ حِسَانٖ",
+      "words": [
+        {
+          "id": 695702,
+          "text": "مُتَّكِـِٔينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 695703,
+          "text": "عَلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 695704,
+          "text": "رَفۡرَفٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 695705,
+          "text": "خُضۡرٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 695706,
+          "text": "وَعَبۡقَرِيٍّ",
+          "char_type": "word"
+        },
+        {
+          "id": 695707,
+          "text": "حِسَانٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 695708,
+          "text": "٧٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 55,
+      "ayah": 77,
+      "verse_key": "55:77",
+      "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "words": [
+        {
+          "id": 695709,
+          "text": "فَبِأَيِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 695710,
+          "text": "ءَالَآءِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695711,
+          "text": "رَبِّكُمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 695712,
+          "text": "تُكَذِّبَانِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695713,
+          "text": "٧٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 55,
+      "ayah": 78,
+      "verse_key": "55:78",
+      "text": "تَبَٰرَكَ ٱسۡمُ رَبِّكَ ذِي ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ",
+      "words": [
+        {
+          "id": 695714,
+          "text": "تَبَٰرَكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 695715,
+          "text": "ٱسۡمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 695716,
+          "text": "رَبِّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 695717,
+          "text": "ذِي",
+          "char_type": "word"
+        },
+        {
+          "id": 695718,
+          "text": "ٱلۡجَلَٰلِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695719,
+          "text": "وَٱلۡإِكۡرَامِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695720,
+          "text": "٧٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 56,
+      "ayah": 1,
+      "verse_key": "56:1",
+      "text": "إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ",
+      "words": [
+        {
+          "id": 695721,
+          "text": "إِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 695722,
+          "text": "وَقَعَتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695723,
+          "text": "ٱلۡوَاقِعَةُ",
+          "char_type": "word"
+        },
+        {
+          "id": 695724,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 56,
+      "ayah": 2,
+      "verse_key": "56:2",
+      "text": "لَيۡسَ لِوَقۡعَتِهَا كَاذِبَةٌ",
+      "words": [
+        {
+          "id": 695725,
+          "text": "لَيۡسَ",
+          "char_type": "word"
+        },
+        {
+          "id": 695726,
+          "text": "لِوَقۡعَتِهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 695727,
+          "text": "كَاذِبَةٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 695728,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 56,
+      "ayah": 3,
+      "verse_key": "56:3",
+      "text": "خَافِضَةٞ رَّافِعَةٌ",
+      "words": [
+        {
+          "id": 695729,
+          "text": "خَافِضَةٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 695730,
+          "text": "رَّافِعَةٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 695731,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 56,
+      "ayah": 4,
+      "verse_key": "56:4",
+      "text": "إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجّٗا",
+      "words": [
+        {
+          "id": 695732,
+          "text": "إِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 695733,
+          "text": "رُجَّتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695734,
+          "text": "ٱلۡأَرۡضُ",
+          "char_type": "word"
+        },
+        {
+          "id": 695735,
+          "text": "رَجّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 695736,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 56,
+      "ayah": 5,
+      "verse_key": "56:5",
+      "text": "وَبُسَّتِ ٱلۡجِبَالُ بَسّٗا",
+      "words": [
+        {
+          "id": 695737,
+          "text": "وَبُسَّتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695738,
+          "text": "ٱلۡجِبَالُ",
+          "char_type": "word"
+        },
+        {
+          "id": 695739,
+          "text": "بَسّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 695740,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 56,
+      "ayah": 6,
+      "verse_key": "56:6",
+      "text": "فَكَانَتۡ هَبَآءٗ مُّنۢبَثّٗا",
+      "words": [
+        {
+          "id": 695741,
+          "text": "فَكَانَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 695742,
+          "text": "هَبَآءٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 695743,
+          "text": "مُّنۢبَثّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 695744,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 56,
+      "ayah": 7,
+      "verse_key": "56:7",
+      "text": "وَكُنتُمۡ أَزۡوَٰجٗا ثَلَٰثَةٗ",
+      "words": [
+        {
+          "id": 695745,
+          "text": "وَكُنتُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 695746,
+          "text": "أَزۡوَٰجٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 695747,
+          "text": "ثَلَٰثَةٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 695748,
+          "text": "٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 56,
+      "ayah": 8,
+      "verse_key": "56:8",
+      "text": "فَأَصۡحَٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+      "words": [
+        {
+          "id": 695749,
+          "text": "فَأَصۡحَٰبُ",
+          "char_type": "word"
+        },
+        {
+          "id": 695750,
+          "text": "ٱلۡمَيۡمَنَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695751,
+          "text": "مَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 695752,
+          "text": "أَصۡحَٰبُ",
+          "char_type": "word"
+        },
+        {
+          "id": 695753,
+          "text": "ٱلۡمَيۡمَنَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695754,
+          "text": "٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 56,
+      "ayah": 9,
+      "verse_key": "56:9",
+      "text": "وَأَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ مَآ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+      "words": [
+        {
+          "id": 695755,
+          "text": "وَأَصۡحَٰبُ",
+          "char_type": "word"
+        },
+        {
+          "id": 695756,
+          "text": "ٱلۡمَشۡـَٔمَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695757,
+          "text": "مَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 695758,
+          "text": "أَصۡحَٰبُ",
+          "char_type": "word"
+        },
+        {
+          "id": 695759,
+          "text": "ٱلۡمَشۡـَٔمَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695760,
+          "text": "٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 56,
+      "ayah": 10,
+      "verse_key": "56:10",
+      "text": "وَٱلسَّٰبِقُونَ ٱلسَّٰبِقُونَ",
+      "words": [
+        {
+          "id": 695761,
+          "text": "وَٱلسَّٰبِقُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 695762,
+          "text": "ٱلسَّٰبِقُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 695763,
+          "text": "١٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 56,
+      "ayah": 11,
+      "verse_key": "56:11",
+      "text": "أُوْلَٰٓئِكَ ٱلۡمُقَرَّبُونَ",
+      "words": [
+        {
+          "id": 695764,
+          "text": "أُوْلَٰٓئِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 695765,
+          "text": "ٱلۡمُقَرَّبُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 695766,
+          "text": "١١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 56,
+      "ayah": 12,
+      "verse_key": "56:12",
+      "text": "فِي جَنَّٰتِ ٱلنَّعِيمِ",
+      "words": [
+        {
+          "id": 695767,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 695768,
+          "text": "جَنَّٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695769,
+          "text": "ٱلنَّعِيمِ",
+          "char_type": "word"
+        },
+        {
+          "id": 695770,
+          "text": "١٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 56,
+      "ayah": 13,
+      "verse_key": "56:13",
+      "text": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+      "words": [
+        {
+          "id": 695771,
+          "text": "ثُلَّةٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 695772,
+          "text": "مِّنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 695773,
+          "text": "ٱلۡأَوَّلِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 695774,
+          "text": "١٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 56,
+      "ayah": 14,
+      "verse_key": "56:14",
+      "text": "وَقَلِيلٞ مِّنَ ٱلۡأٓخِرِينَ",
+      "words": [
+        {
+          "id": 695775,
+          "text": "وَقَلِيلٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 695776,
+          "text": "مِّنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 695777,
+          "text": "ٱلۡأٓخِرِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 695778,
+          "text": "١٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 56,
+      "ayah": 15,
+      "verse_key": "56:15",
+      "text": "عَلَىٰ سُرُرٖ مَّوۡضُونَةٖ",
+      "words": [
+        {
+          "id": 695779,
+          "text": "عَلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 695780,
+          "text": "سُرُرٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 695781,
+          "text": "مَّوۡضُونَةٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 695782,
+          "text": "١٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 56,
+      "ayah": 16,
+      "verse_key": "56:16",
+      "text": "مُّتَّكِـِٔينَ عَلَيۡهَا مُتَقَٰبِلِينَ",
+      "words": [
+        {
+          "id": 695783,
+          "text": "مُّتَّكِـِٔينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 695784,
+          "text": "عَلَيۡهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 695785,
+          "text": "مُتَقَٰبِلِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 695786,
+          "text": "١٦",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 116
+}

@@ -1,0 +1,952 @@
+{
+  "page_number": 446,
+  "mushaf_id": 5,
+  "first_verse": "37:1",
+  "last_verse": "37:24",
+  "surahs_in_page": [
+    37
+  ],
+  "surah_starts": [
+    37
+  ],
+  "verses": [
+    {
+      "surah": 37,
+      "ayah": 1,
+      "verse_key": "37:1",
+      "text": "وَٱلصَّٰٓفَّٰتِ صَفّٗا",
+      "words": [
+        {
+          "id": 682451,
+          "text": "وَٱلصَّٰٓفَّٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682452,
+          "text": "صَفّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 682453,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 2,
+      "verse_key": "37:2",
+      "text": "فَٱلزَّٰجِرَٰتِ زَجۡرٗا",
+      "words": [
+        {
+          "id": 682454,
+          "text": "فَٱلزَّٰجِرَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682455,
+          "text": "زَجۡرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 682456,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 3,
+      "verse_key": "37:3",
+      "text": "فَٱلتَّٰلِيَٰتِ ذِكۡرًا",
+      "words": [
+        {
+          "id": 682457,
+          "text": "فَٱلتَّٰلِيَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682458,
+          "text": "ذِكۡرًا",
+          "char_type": "word"
+        },
+        {
+          "id": 682459,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 4,
+      "verse_key": "37:4",
+      "text": "إِنَّ إِلَٰهَكُمۡ لَوَٰحِدٞ",
+      "words": [
+        {
+          "id": 682460,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 682461,
+          "text": "إِلَٰهَكُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682462,
+          "text": "لَوَٰحِدٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 682463,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 5,
+      "verse_key": "37:5",
+      "text": "رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا وَرَبُّ ٱلۡمَشَٰرِقِ",
+      "words": [
+        {
+          "id": 682464,
+          "text": "رَّبُّ",
+          "char_type": "word"
+        },
+        {
+          "id": 682465,
+          "text": "ٱلسَّمَٰوَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682466,
+          "text": "وَٱلۡأَرۡضِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682467,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682468,
+          "text": "بَيۡنَهُمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682469,
+          "text": "وَرَبُّ",
+          "char_type": "word"
+        },
+        {
+          "id": 682470,
+          "text": "ٱلۡمَشَٰرِقِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682471,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 6,
+      "verse_key": "37:6",
+      "text": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِزِينَةٍ ٱلۡكَوَاكِبِ",
+      "words": [
+        {
+          "id": 682472,
+          "text": "إِنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 682473,
+          "text": "زَيَّنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 682474,
+          "text": "ٱلسَّمَآءَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682475,
+          "text": "ٱلدُّنۡيَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682476,
+          "text": "بِزِينَةٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 682477,
+          "text": "ٱلۡكَوَاكِبِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682478,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 7,
+      "verse_key": "37:7",
+      "text": "وَحِفۡظٗا مِّن كُلِّ شَيۡطَٰنٖ مَّارِدٖ",
+      "words": [
+        {
+          "id": 682479,
+          "text": "وَحِفۡظٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 682480,
+          "text": "مِّن",
+          "char_type": "word"
+        },
+        {
+          "id": 682481,
+          "text": "كُلِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 682482,
+          "text": "شَيۡطَٰنٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 682483,
+          "text": "مَّارِدٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 682484,
+          "text": "٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 8,
+      "verse_key": "37:8",
+      "text": "لَّا يَسَّمَّعُونَ إِلَى ٱلۡمَلَإِ ٱلۡأَعۡلَىٰ وَيُقۡذَفُونَ مِن كُلِّ جَانِبٖ",
+      "words": [
+        {
+          "id": 682485,
+          "text": "لَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 682486,
+          "text": "يَسَّمَّعُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682487,
+          "text": "إِلَى",
+          "char_type": "word"
+        },
+        {
+          "id": 682488,
+          "text": "ٱلۡمَلَإِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682489,
+          "text": "ٱلۡأَعۡلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 682490,
+          "text": "وَيُقۡذَفُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682491,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 682492,
+          "text": "كُلِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 682493,
+          "text": "جَانِبٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 682494,
+          "text": "٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 9,
+      "verse_key": "37:9",
+      "text": "دُحُورٗاۖ وَلَهُمۡ عَذَابٞ وَاصِبٌ",
+      "words": [
+        {
+          "id": 682495,
+          "text": "دُحُورٗاۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 682497,
+          "text": "وَلَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682498,
+          "text": "عَذَابٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 682499,
+          "text": "وَاصِبٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 682500,
+          "text": "٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 10,
+      "verse_key": "37:10",
+      "text": "إِلَّا مَنۡ خَطِفَ ٱلۡخَطۡفَةَ فَأَتۡبَعَهُۥ شِهَابٞ ثَاقِبٞ",
+      "words": [
+        {
+          "id": 682501,
+          "text": "إِلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 682502,
+          "text": "مَنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682503,
+          "text": "خَطِفَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682504,
+          "text": "ٱلۡخَطۡفَةَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682505,
+          "text": "فَأَتۡبَعَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 682506,
+          "text": "شِهَابٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 682507,
+          "text": "ثَاقِبٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 682508,
+          "text": "١٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 11,
+      "verse_key": "37:11",
+      "text": "فَٱسۡتَفۡتِهِمۡ أَهُمۡ أَشَدُّ خَلۡقًا أَم مَّنۡ خَلَقۡنَآۚ إِنَّا خَلَقۡنَٰهُم مِّن طِينٖ لَّازِبِۭ",
+      "words": [
+        {
+          "id": 682509,
+          "text": "فَٱسۡتَفۡتِهِمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682510,
+          "text": "أَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682511,
+          "text": "أَشَدُّ",
+          "char_type": "word"
+        },
+        {
+          "id": 682512,
+          "text": "خَلۡقًا",
+          "char_type": "word"
+        },
+        {
+          "id": 682513,
+          "text": "أَم",
+          "char_type": "word"
+        },
+        {
+          "id": 682514,
+          "text": "مَّنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682515,
+          "text": "خَلَقۡنَآۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 682517,
+          "text": "إِنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 682518,
+          "text": "خَلَقۡنَٰهُم",
+          "char_type": "word"
+        },
+        {
+          "id": 682519,
+          "text": "مِّن",
+          "char_type": "word"
+        },
+        {
+          "id": 682520,
+          "text": "طِينٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 682521,
+          "text": "لَّازِبِۭ",
+          "char_type": "word"
+        },
+        {
+          "id": 682522,
+          "text": "١١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 12,
+      "verse_key": "37:12",
+      "text": "بَلۡ عَجِبۡتَ وَيَسۡخَرُونَ",
+      "words": [
+        {
+          "id": 682523,
+          "text": "بَلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682524,
+          "text": "عَجِبۡتَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682525,
+          "text": "وَيَسۡخَرُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682526,
+          "text": "١٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 13,
+      "verse_key": "37:13",
+      "text": "وَإِذَا ذُكِّرُواْ لَا يَذۡكُرُونَ",
+      "words": [
+        {
+          "id": 682527,
+          "text": "وَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682528,
+          "text": "ذُكِّرُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 682529,
+          "text": "لَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682530,
+          "text": "يَذۡكُرُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682531,
+          "text": "١٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 14,
+      "verse_key": "37:14",
+      "text": "وَإِذَا رَأَوۡاْ ءَايَةٗ يَسۡتَسۡخِرُونَ",
+      "words": [
+        {
+          "id": 682532,
+          "text": "وَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682533,
+          "text": "رَأَوۡاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 682534,
+          "text": "ءَايَةٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 682535,
+          "text": "يَسۡتَسۡخِرُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682536,
+          "text": "١٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 15,
+      "verse_key": "37:15",
+      "text": "وَقَالُوٓاْ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ مُّبِينٌ",
+      "words": [
+        {
+          "id": 682537,
+          "text": "وَقَالُوٓاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 682538,
+          "text": "إِنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682539,
+          "text": "هَٰذَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 682540,
+          "text": "إِلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 682541,
+          "text": "سِحۡرٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 682542,
+          "text": "مُّبِينٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 682543,
+          "text": "١٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 16,
+      "verse_key": "37:16",
+      "text": "أَءِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ",
+      "words": [
+        {
+          "id": 682544,
+          "text": "أَءِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682545,
+          "text": "مِتۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682546,
+          "text": "وَكُنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 682547,
+          "text": "تُرَابٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 682548,
+          "text": "وَعِظَٰمًا",
+          "char_type": "word"
+        },
+        {
+          "id": 682549,
+          "text": "أَءِنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 682550,
+          "text": "لَمَبۡعُوثُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682551,
+          "text": "١٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 17,
+      "verse_key": "37:17",
+      "text": "أَوَءَابَآؤُنَا ٱلۡأَوَّلُونَ",
+      "words": [
+        {
+          "id": 682552,
+          "text": "أَوَءَابَآؤُنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682553,
+          "text": "ٱلۡأَوَّلُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682554,
+          "text": "١٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 18,
+      "verse_key": "37:18",
+      "text": "قُلۡ نَعَمۡ وَأَنتُمۡ دَٰخِرُونَ",
+      "words": [
+        {
+          "id": 682555,
+          "text": "قُلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682556,
+          "text": "نَعَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682557,
+          "text": "وَأَنتُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682558,
+          "text": "دَٰخِرُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682559,
+          "text": "١٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 19,
+      "verse_key": "37:19",
+      "text": "فَإِنَّمَا هِيَ زَجۡرَةٞ وَٰحِدَةٞ فَإِذَا هُمۡ يَنظُرُونَ",
+      "words": [
+        {
+          "id": 682560,
+          "text": "فَإِنَّمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682561,
+          "text": "هِيَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682562,
+          "text": "زَجۡرَةٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 682563,
+          "text": "وَٰحِدَةٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 682564,
+          "text": "فَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682565,
+          "text": "هُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682566,
+          "text": "يَنظُرُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682567,
+          "text": "١٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 20,
+      "verse_key": "37:20",
+      "text": "وَقَالُواْ يَٰوَيۡلَنَا هَٰذَا يَوۡمُ ٱلدِّينِ",
+      "words": [
+        {
+          "id": 682568,
+          "text": "وَقَالُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 682569,
+          "text": "يَٰوَيۡلَنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682570,
+          "text": "هَٰذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682571,
+          "text": "يَوۡمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 682572,
+          "text": "ٱلدِّينِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682573,
+          "text": "٢٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 21,
+      "verse_key": "37:21",
+      "text": "هَٰذَا يَوۡمُ ٱلۡفَصۡلِ ٱلَّذِي كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "words": [
+        {
+          "id": 682574,
+          "text": "هَٰذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682575,
+          "text": "يَوۡمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 682576,
+          "text": "ٱلۡفَصۡلِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682577,
+          "text": "ٱلَّذِي",
+          "char_type": "word"
+        },
+        {
+          "id": 682578,
+          "text": "كُنتُم",
+          "char_type": "word"
+        },
+        {
+          "id": 682579,
+          "text": "بِهِۦ",
+          "char_type": "word"
+        },
+        {
+          "id": 682580,
+          "text": "تُكَذِّبُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682581,
+          "text": "٢١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 22,
+      "verse_key": "37:22",
+      "text": "۞ ٱحۡشُرُواْ ٱلَّذِينَ ظَلَمُواْ وَأَزۡوَٰجَهُمۡ وَمَا كَانُواْ يَعۡبُدُونَ",
+      "words": [
+        {
+          "id": 682583,
+          "text": "۞ ٱحۡشُرُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 682584,
+          "text": "ٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682585,
+          "text": "ظَلَمُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 682586,
+          "text": "وَأَزۡوَٰجَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682587,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682588,
+          "text": "كَانُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 682589,
+          "text": "يَعۡبُدُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682590,
+          "text": "٢٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 23,
+      "verse_key": "37:23",
+      "text": "مِن دُونِ ٱللَّهِ فَٱهۡدُوهُمۡ إِلَىٰ صِرَٰطِ ٱلۡجَحِيمِ",
+      "words": [
+        {
+          "id": 682591,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 682592,
+          "text": "دُونِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682593,
+          "text": "ٱللَّهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682594,
+          "text": "فَٱهۡدُوهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682595,
+          "text": "إِلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 682596,
+          "text": "صِرَٰطِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682597,
+          "text": "ٱلۡجَحِيمِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682598,
+          "text": "٢٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 24,
+      "verse_key": "37:24",
+      "text": "وَقِفُوهُمۡۖ إِنَّهُم مَّسۡـُٔولُونَ",
+      "words": [
+        {
+          "id": 682599,
+          "text": "وَقِفُوهُمۡۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 682601,
+          "text": "إِنَّهُم",
+          "char_type": "word"
+        },
+        {
+          "id": 682602,
+          "text": "مَّسۡـُٔولُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682603,
+          "text": "٢٤",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 149
+}

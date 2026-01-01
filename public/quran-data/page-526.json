@@ -1,0 +1,1043 @@
+{
+  "page_number": 526,
+  "mushaf_id": 5,
+  "first_verse": "53:1",
+  "last_verse": "53:26",
+  "surahs_in_page": [
+    53
+  ],
+  "surah_starts": [
+    53
+  ],
+  "verses": [
+    {
+      "surah": 53,
+      "ayah": 1,
+      "verse_key": "53:1",
+      "text": "وَٱلنَّجۡمِ إِذَا هَوَىٰ",
+      "words": [
+        {
+          "id": 694450,
+          "text": "وَٱلنَّجۡمِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694451,
+          "text": "إِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694452,
+          "text": "هَوَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694453,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 2,
+      "verse_key": "53:2",
+      "text": "مَا ضَلَّ صَاحِبُكُمۡ وَمَا غَوَىٰ",
+      "words": [
+        {
+          "id": 694454,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694455,
+          "text": "ضَلَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 694456,
+          "text": "صَاحِبُكُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694457,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694458,
+          "text": "غَوَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694459,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 3,
+      "verse_key": "53:3",
+      "text": "وَمَا يَنطِقُ عَنِ ٱلۡهَوَىٰٓ",
+      "words": [
+        {
+          "id": 694460,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694461,
+          "text": "يَنطِقُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694462,
+          "text": "عَنِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694463,
+          "text": "ٱلۡهَوَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 694464,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 4,
+      "verse_key": "53:4",
+      "text": "إِنۡ هُوَ إِلَّا وَحۡيٞ يُوحَىٰ",
+      "words": [
+        {
+          "id": 694465,
+          "text": "إِنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694466,
+          "text": "هُوَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694467,
+          "text": "إِلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 694468,
+          "text": "وَحۡيٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 694469,
+          "text": "يُوحَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694470,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 5,
+      "verse_key": "53:5",
+      "text": "عَلَّمَهُۥ شَدِيدُ ٱلۡقُوَىٰ",
+      "words": [
+        {
+          "id": 694471,
+          "text": "عَلَّمَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 694472,
+          "text": "شَدِيدُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694473,
+          "text": "ٱلۡقُوَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694474,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 6,
+      "verse_key": "53:6",
+      "text": "ذُو مِرَّةٖ فَٱسۡتَوَىٰ",
+      "words": [
+        {
+          "id": 694475,
+          "text": "ذُو",
+          "char_type": "word"
+        },
+        {
+          "id": 694476,
+          "text": "مِرَّةٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 694477,
+          "text": "فَٱسۡتَوَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694478,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 7,
+      "verse_key": "53:7",
+      "text": "وَهُوَ بِٱلۡأُفُقِ ٱلۡأَعۡلَىٰ",
+      "words": [
+        {
+          "id": 694479,
+          "text": "وَهُوَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694480,
+          "text": "بِٱلۡأُفُقِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694481,
+          "text": "ٱلۡأَعۡلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694482,
+          "text": "٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 8,
+      "verse_key": "53:8",
+      "text": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+      "words": [
+        {
+          "id": 694483,
+          "text": "ثُمَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 694484,
+          "text": "دَنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694485,
+          "text": "فَتَدَلَّىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694486,
+          "text": "٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 9,
+      "verse_key": "53:9",
+      "text": "فَكَانَ قَابَ قَوۡسَيۡنِ أَوۡ أَدۡنَىٰ",
+      "words": [
+        {
+          "id": 694487,
+          "text": "فَكَانَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694488,
+          "text": "قَابَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694489,
+          "text": "قَوۡسَيۡنِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694490,
+          "text": "أَوۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694491,
+          "text": "أَدۡنَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694492,
+          "text": "٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 10,
+      "verse_key": "53:10",
+      "text": "فَأَوۡحَىٰٓ إِلَىٰ عَبۡدِهِۦ مَآ أَوۡحَىٰ",
+      "words": [
+        {
+          "id": 694493,
+          "text": "فَأَوۡحَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 694494,
+          "text": "إِلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694495,
+          "text": "عَبۡدِهِۦ",
+          "char_type": "word"
+        },
+        {
+          "id": 694496,
+          "text": "مَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 694497,
+          "text": "أَوۡحَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694498,
+          "text": "١٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 11,
+      "verse_key": "53:11",
+      "text": "مَا كَذَبَ ٱلۡفُؤَادُ مَا رَأَىٰٓ",
+      "words": [
+        {
+          "id": 694499,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694500,
+          "text": "كَذَبَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694501,
+          "text": "ٱلۡفُؤَادُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694502,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694503,
+          "text": "رَأَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 694504,
+          "text": "١١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 12,
+      "verse_key": "53:12",
+      "text": "أَفَتُمَٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+      "words": [
+        {
+          "id": 694505,
+          "text": "أَفَتُمَٰرُونَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 694506,
+          "text": "عَلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694507,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694508,
+          "text": "يَرَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694509,
+          "text": "١٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 13,
+      "verse_key": "53:13",
+      "text": "وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ",
+      "words": [
+        {
+          "id": 694510,
+          "text": "وَلَقَدۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694511,
+          "text": "رَءَاهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694512,
+          "text": "نَزۡلَةً",
+          "char_type": "word"
+        },
+        {
+          "id": 694513,
+          "text": "أُخۡرَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694514,
+          "text": "١٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 14,
+      "verse_key": "53:14",
+      "text": "عِندَ سِدۡرَةِ ٱلۡمُنتَهَىٰ",
+      "words": [
+        {
+          "id": 694515,
+          "text": "عِندَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694516,
+          "text": "سِدۡرَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694517,
+          "text": "ٱلۡمُنتَهَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694518,
+          "text": "١٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 15,
+      "verse_key": "53:15",
+      "text": "عِندَهَا جَنَّةُ ٱلۡمَأۡوَىٰٓ",
+      "words": [
+        {
+          "id": 694519,
+          "text": "عِندَهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694520,
+          "text": "جَنَّةُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694521,
+          "text": "ٱلۡمَأۡوَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 694522,
+          "text": "١٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 16,
+      "verse_key": "53:16",
+      "text": "إِذۡ يَغۡشَى ٱلسِّدۡرَةَ مَا يَغۡشَىٰ",
+      "words": [
+        {
+          "id": 694523,
+          "text": "إِذۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694524,
+          "text": "يَغۡشَى",
+          "char_type": "word"
+        },
+        {
+          "id": 694525,
+          "text": "ٱلسِّدۡرَةَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694526,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694527,
+          "text": "يَغۡشَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694528,
+          "text": "١٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 17,
+      "verse_key": "53:17",
+      "text": "مَا زَاغَ ٱلۡبَصَرُ وَمَا طَغَىٰ",
+      "words": [
+        {
+          "id": 694529,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694530,
+          "text": "زَاغَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694531,
+          "text": "ٱلۡبَصَرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694532,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694533,
+          "text": "طَغَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694534,
+          "text": "١٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 18,
+      "verse_key": "53:18",
+      "text": "لَقَدۡ رَأَىٰ مِنۡ ءَايَٰتِ رَبِّهِ ٱلۡكُبۡرَىٰٓ",
+      "words": [
+        {
+          "id": 694535,
+          "text": "لَقَدۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694536,
+          "text": "رَأَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694537,
+          "text": "مِنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694538,
+          "text": "ءَايَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694539,
+          "text": "رَبِّهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694540,
+          "text": "ٱلۡكُبۡرَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 694541,
+          "text": "١٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 19,
+      "verse_key": "53:19",
+      "text": "أَفَرَءَيۡتُمُ ٱللَّٰتَ وَٱلۡعُزَّىٰ",
+      "words": [
+        {
+          "id": 694542,
+          "text": "أَفَرَءَيۡتُمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694543,
+          "text": "ٱللَّٰتَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694544,
+          "text": "وَٱلۡعُزَّىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694545,
+          "text": "١٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 20,
+      "verse_key": "53:20",
+      "text": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلۡأُخۡرَىٰٓ",
+      "words": [
+        {
+          "id": 694546,
+          "text": "وَمَنَوٰةَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694547,
+          "text": "ٱلثَّالِثَةَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694548,
+          "text": "ٱلۡأُخۡرَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 694549,
+          "text": "٢٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 21,
+      "verse_key": "53:21",
+      "text": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلۡأُنثَىٰ",
+      "words": [
+        {
+          "id": 694550,
+          "text": "أَلَكُمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694551,
+          "text": "ٱلذَّكَرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694552,
+          "text": "وَلَهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694553,
+          "text": "ٱلۡأُنثَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694554,
+          "text": "٢١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 22,
+      "verse_key": "53:22",
+      "text": "تِلۡكَ إِذٗا قِسۡمَةٞ ضِيزَىٰٓ",
+      "words": [
+        {
+          "id": 694555,
+          "text": "تِلۡكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694556,
+          "text": "إِذٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 694557,
+          "text": "قِسۡمَةٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 694558,
+          "text": "ضِيزَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 694559,
+          "text": "٢٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 23,
+      "verse_key": "53:23",
+      "text": "إِنۡ هِيَ إِلَّآ أَسۡمَآءٞ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَٰنٍۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهۡوَى ٱلۡأَنفُسُۖ وَلَقَدۡ جَآءَهُم مِّن رَّبِّهِمُ ٱلۡهُدَىٰٓ",
+      "words": [
+        {
+          "id": 694560,
+          "text": "إِنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694561,
+          "text": "هِيَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694562,
+          "text": "إِلَّآ",
+          "char_type": "word"
+        },
+        {
+          "id": 694563,
+          "text": "أَسۡمَآءٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 694564,
+          "text": "سَمَّيۡتُمُوهَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 694565,
+          "text": "أَنتُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694566,
+          "text": "وَءَابَآؤُكُم",
+          "char_type": "word"
+        },
+        {
+          "id": 694567,
+          "text": "مَّآ",
+          "char_type": "word"
+        },
+        {
+          "id": 694568,
+          "text": "أَنزَلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694569,
+          "text": "ٱللَّهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694570,
+          "text": "بِهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694571,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 694572,
+          "text": "سُلۡطَٰنٍۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 694574,
+          "text": "إِن",
+          "char_type": "word"
+        },
+        {
+          "id": 694575,
+          "text": "يَتَّبِعُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694576,
+          "text": "إِلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 694577,
+          "text": "ٱلظَّنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 694578,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694579,
+          "text": "تَهۡوَى",
+          "char_type": "word"
+        },
+        {
+          "id": 694580,
+          "text": "ٱلۡأَنفُسُۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 694582,
+          "text": "وَلَقَدۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694583,
+          "text": "جَآءَهُم",
+          "char_type": "word"
+        },
+        {
+          "id": 694584,
+          "text": "مِّن",
+          "char_type": "word"
+        },
+        {
+          "id": 694585,
+          "text": "رَّبِّهِمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694586,
+          "text": "ٱلۡهُدَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 694587,
+          "text": "٢٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 24,
+      "verse_key": "53:24",
+      "text": "أَمۡ لِلۡإِنسَٰنِ مَا تَمَنَّىٰ",
+      "words": [
+        {
+          "id": 694588,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694589,
+          "text": "لِلۡإِنسَٰنِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694590,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694591,
+          "text": "تَمَنَّىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694592,
+          "text": "٢٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 25,
+      "verse_key": "53:25",
+      "text": "فَلِلَّهِ ٱلۡأٓخِرَةُ وَٱلۡأُولَىٰ",
+      "words": [
+        {
+          "id": 694593,
+          "text": "فَلِلَّهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694594,
+          "text": "ٱلۡأٓخِرَةُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694595,
+          "text": "وَٱلۡأُولَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694596,
+          "text": "٢٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 53,
+      "ayah": 26,
+      "verse_key": "53:26",
+      "text": "۞ وَكَم مِّن مَّلَكٖ فِي ٱلسَّمَٰوَٰتِ لَا تُغۡنِي شَفَٰعَتُهُمۡ شَيۡـًٔا إِلَّا مِنۢ بَعۡدِ أَن يَأۡذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرۡضَىٰٓ",
+      "words": [
+        {
+          "id": 694598,
+          "text": "۞ وَكَم",
+          "char_type": "word"
+        },
+        {
+          "id": 694599,
+          "text": "مِّن",
+          "char_type": "word"
+        },
+        {
+          "id": 694600,
+          "text": "مَّلَكٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 694601,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 694602,
+          "text": "ٱلسَّمَٰوَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694603,
+          "text": "لَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694604,
+          "text": "تُغۡنِي",
+          "char_type": "word"
+        },
+        {
+          "id": 694605,
+          "text": "شَفَٰعَتُهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694606,
+          "text": "شَيۡـًٔا",
+          "char_type": "word"
+        },
+        {
+          "id": 694607,
+          "text": "إِلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 694608,
+          "text": "مِنۢ",
+          "char_type": "word"
+        },
+        {
+          "id": 694609,
+          "text": "بَعۡدِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694610,
+          "text": "أَن",
+          "char_type": "word"
+        },
+        {
+          "id": 694611,
+          "text": "يَأۡذَنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694612,
+          "text": "ٱللَّهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694613,
+          "text": "لِمَن",
+          "char_type": "word"
+        },
+        {
+          "id": 694614,
+          "text": "يَشَآءُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694615,
+          "text": "وَيَرۡضَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 694616,
+          "text": "٢٦",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 164
+}

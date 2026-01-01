@@ -1,0 +1,864 @@
+{
+  "page_number": 572,
+  "mushaf_id": 5,
+  "first_verse": "72:1",
+  "last_verse": "72:13",
+  "surahs_in_page": [
+    72
+  ],
+  "surah_starts": [
+    72
+  ],
+  "verses": [
+    {
+      "surah": 72,
+      "ayah": 1,
+      "verse_key": "72:1",
+      "text": "قُلۡ أُوحِيَ إِلَيَّ أَنَّهُ ٱسۡتَمَعَ نَفَرٞ مِّنَ ٱلۡجِنِّ فَقَالُوٓاْ إِنَّا سَمِعۡنَا قُرۡءَانًا عَجَبٗا",
+      "words": [
+        {
+          "id": 701364,
+          "text": "قُلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 701365,
+          "text": "أُوحِيَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701366,
+          "text": "إِلَيَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 701367,
+          "text": "أَنَّهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 701368,
+          "text": "ٱسۡتَمَعَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701369,
+          "text": "نَفَرٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 701370,
+          "text": "مِّنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701371,
+          "text": "ٱلۡجِنِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 701372,
+          "text": "فَقَالُوٓاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 701373,
+          "text": "إِنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 701374,
+          "text": "سَمِعۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 701375,
+          "text": "قُرۡءَانًا",
+          "char_type": "word"
+        },
+        {
+          "id": 701376,
+          "text": "عَجَبٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 701377,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 72,
+      "ayah": 2,
+      "verse_key": "72:2",
+      "text": "يَهۡدِيٓ إِلَى ٱلرُّشۡدِ فَـَٔامَنَّا بِهِۦۖ وَلَن نُّشۡرِكَ بِرَبِّنَآ أَحَدٗا",
+      "words": [
+        {
+          "id": 701378,
+          "text": "يَهۡدِيٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 701379,
+          "text": "إِلَى",
+          "char_type": "word"
+        },
+        {
+          "id": 701380,
+          "text": "ٱلرُّشۡدِ",
+          "char_type": "word"
+        },
+        {
+          "id": 701381,
+          "text": "فَـَٔامَنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 701382,
+          "text": "بِهِۦۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 701384,
+          "text": "وَلَن",
+          "char_type": "word"
+        },
+        {
+          "id": 701385,
+          "text": "نُّشۡرِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701386,
+          "text": "بِرَبِّنَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 701387,
+          "text": "أَحَدٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 701388,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 72,
+      "ayah": 3,
+      "verse_key": "72:3",
+      "text": "وَأَنَّهُۥ تَعَٰلَىٰ جَدُّ رَبِّنَا مَا ٱتَّخَذَ صَٰحِبَةٗ وَلَا وَلَدٗا",
+      "words": [
+        {
+          "id": 701389,
+          "text": "وَأَنَّهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 701390,
+          "text": "تَعَٰلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 701391,
+          "text": "جَدُّ",
+          "char_type": "word"
+        },
+        {
+          "id": 701392,
+          "text": "رَبِّنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 701393,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 701394,
+          "text": "ٱتَّخَذَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701395,
+          "text": "صَٰحِبَةٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 701396,
+          "text": "وَلَا",
+          "char_type": "word"
+        },
+        {
+          "id": 701397,
+          "text": "وَلَدٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 701398,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 72,
+      "ayah": 4,
+      "verse_key": "72:4",
+      "text": "وَأَنَّهُۥ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطٗا",
+      "words": [
+        {
+          "id": 701399,
+          "text": "وَأَنَّهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 701400,
+          "text": "كَانَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701401,
+          "text": "يَقُولُ",
+          "char_type": "word"
+        },
+        {
+          "id": 701402,
+          "text": "سَفِيهُنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 701403,
+          "text": "عَلَى",
+          "char_type": "word"
+        },
+        {
+          "id": 701404,
+          "text": "ٱللَّهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 701405,
+          "text": "شَطَطٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 701406,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 72,
+      "ayah": 5,
+      "verse_key": "72:5",
+      "text": "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلۡإِنسُ وَٱلۡجِنُّ عَلَى ٱللَّهِ كَذِبٗا",
+      "words": [
+        {
+          "id": 701407,
+          "text": "وَأَنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 701408,
+          "text": "ظَنَنَّآ",
+          "char_type": "word"
+        },
+        {
+          "id": 701409,
+          "text": "أَن",
+          "char_type": "word"
+        },
+        {
+          "id": 701410,
+          "text": "لَّن",
+          "char_type": "word"
+        },
+        {
+          "id": 701411,
+          "text": "تَقُولَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701412,
+          "text": "ٱلۡإِنسُ",
+          "char_type": "word"
+        },
+        {
+          "id": 701413,
+          "text": "وَٱلۡجِنُّ",
+          "char_type": "word"
+        },
+        {
+          "id": 701414,
+          "text": "عَلَى",
+          "char_type": "word"
+        },
+        {
+          "id": 701415,
+          "text": "ٱللَّهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 701416,
+          "text": "كَذِبٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 701417,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 72,
+      "ayah": 6,
+      "verse_key": "72:6",
+      "text": "وَأَنَّهُۥ كَانَ رِجَالٞ مِّنَ ٱلۡإِنسِ يَعُوذُونَ بِرِجَالٖ مِّنَ ٱلۡجِنِّ فَزَادُوهُمۡ رَهَقٗا",
+      "words": [
+        {
+          "id": 701418,
+          "text": "وَأَنَّهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 701419,
+          "text": "كَانَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701420,
+          "text": "رِجَالٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 701421,
+          "text": "مِّنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701422,
+          "text": "ٱلۡإِنسِ",
+          "char_type": "word"
+        },
+        {
+          "id": 701423,
+          "text": "يَعُوذُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701424,
+          "text": "بِرِجَالٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 701425,
+          "text": "مِّنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701426,
+          "text": "ٱلۡجِنِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 701427,
+          "text": "فَزَادُوهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 701428,
+          "text": "رَهَقٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 701429,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 72,
+      "ayah": 7,
+      "verse_key": "72:7",
+      "text": "وَأَنَّهُمۡ ظَنُّواْ كَمَا ظَنَنتُمۡ أَن لَّن يَبۡعَثَ ٱللَّهُ أَحَدٗا",
+      "words": [
+        {
+          "id": 701430,
+          "text": "وَأَنَّهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 701431,
+          "text": "ظَنُّواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 701432,
+          "text": "كَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 701433,
+          "text": "ظَنَنتُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 701434,
+          "text": "أَن",
+          "char_type": "word"
+        },
+        {
+          "id": 701435,
+          "text": "لَّن",
+          "char_type": "word"
+        },
+        {
+          "id": 701436,
+          "text": "يَبۡعَثَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701437,
+          "text": "ٱللَّهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 701438,
+          "text": "أَحَدٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 701439,
+          "text": "٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 72,
+      "ayah": 8,
+      "verse_key": "72:8",
+      "text": "وَأَنَّا لَمَسۡنَا ٱلسَّمَآءَ فَوَجَدۡنَٰهَا مُلِئَتۡ حَرَسٗا شَدِيدٗا وَشُهُبٗا",
+      "words": [
+        {
+          "id": 701440,
+          "text": "وَأَنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 701441,
+          "text": "لَمَسۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 701442,
+          "text": "ٱلسَّمَآءَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701443,
+          "text": "فَوَجَدۡنَٰهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 701444,
+          "text": "مُلِئَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 701445,
+          "text": "حَرَسٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 701446,
+          "text": "شَدِيدٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 701447,
+          "text": "وَشُهُبٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 701448,
+          "text": "٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 72,
+      "ayah": 9,
+      "verse_key": "72:9",
+      "text": "وَأَنَّا كُنَّا نَقۡعُدُ مِنۡهَا مَقَٰعِدَ لِلسَّمۡعِۖ فَمَن يَسۡتَمِعِ ٱلۡأٓنَ يَجِدۡ لَهُۥ شِهَابٗا رَّصَدٗا",
+      "words": [
+        {
+          "id": 701449,
+          "text": "وَأَنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 701450,
+          "text": "كُنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 701451,
+          "text": "نَقۡعُدُ",
+          "char_type": "word"
+        },
+        {
+          "id": 701452,
+          "text": "مِنۡهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 701453,
+          "text": "مَقَٰعِدَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701454,
+          "text": "لِلسَّمۡعِۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 701456,
+          "text": "فَمَن",
+          "char_type": "word"
+        },
+        {
+          "id": 701457,
+          "text": "يَسۡتَمِعِ",
+          "char_type": "word"
+        },
+        {
+          "id": 701458,
+          "text": "ٱلۡأٓنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701459,
+          "text": "يَجِدۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 701460,
+          "text": "لَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 701461,
+          "text": "شِهَابٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 701462,
+          "text": "رَّصَدٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 701463,
+          "text": "٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 72,
+      "ayah": 10,
+      "verse_key": "72:10",
+      "text": "وَأَنَّا لَا نَدۡرِيٓ أَشَرٌّ أُرِيدَ بِمَن فِي ٱلۡأَرۡضِ أَمۡ أَرَادَ بِهِمۡ رَبُّهُمۡ رَشَدٗا",
+      "words": [
+        {
+          "id": 701464,
+          "text": "وَأَنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 701465,
+          "text": "لَا",
+          "char_type": "word"
+        },
+        {
+          "id": 701466,
+          "text": "نَدۡرِيٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 701467,
+          "text": "أَشَرٌّ",
+          "char_type": "word"
+        },
+        {
+          "id": 701468,
+          "text": "أُرِيدَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701469,
+          "text": "بِمَن",
+          "char_type": "word"
+        },
+        {
+          "id": 701470,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 701471,
+          "text": "ٱلۡأَرۡضِ",
+          "char_type": "word"
+        },
+        {
+          "id": 701472,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 701473,
+          "text": "أَرَادَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701474,
+          "text": "بِهِمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 701475,
+          "text": "رَبُّهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 701476,
+          "text": "رَشَدٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 701477,
+          "text": "١٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 72,
+      "ayah": 11,
+      "verse_key": "72:11",
+      "text": "وَأَنَّا مِنَّا ٱلصَّٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَۖ كُنَّا طَرَآئِقَ قِدَدٗا",
+      "words": [
+        {
+          "id": 701478,
+          "text": "وَأَنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 701479,
+          "text": "مِنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 701480,
+          "text": "ٱلصَّٰلِحُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701481,
+          "text": "وَمِنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 701482,
+          "text": "دُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701483,
+          "text": "ذَٰلِكَۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 701485,
+          "text": "كُنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 701486,
+          "text": "طَرَآئِقَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701487,
+          "text": "قِدَدٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 701488,
+          "text": "١١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 72,
+      "ayah": 12,
+      "verse_key": "72:12",
+      "text": "وَأَنَّا ظَنَنَّآ أَن لَّن نُّعۡجِزَ ٱللَّهَ فِي ٱلۡأَرۡضِ وَلَن نُّعۡجِزَهُۥ هَرَبٗا",
+      "words": [
+        {
+          "id": 701489,
+          "text": "وَأَنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 701490,
+          "text": "ظَنَنَّآ",
+          "char_type": "word"
+        },
+        {
+          "id": 701491,
+          "text": "أَن",
+          "char_type": "word"
+        },
+        {
+          "id": 701492,
+          "text": "لَّن",
+          "char_type": "word"
+        },
+        {
+          "id": 701493,
+          "text": "نُّعۡجِزَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701494,
+          "text": "ٱللَّهَ",
+          "char_type": "word"
+        },
+        {
+          "id": 701495,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 701496,
+          "text": "ٱلۡأَرۡضِ",
+          "char_type": "word"
+        },
+        {
+          "id": 701497,
+          "text": "وَلَن",
+          "char_type": "word"
+        },
+        {
+          "id": 701498,
+          "text": "نُّعۡجِزَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 701499,
+          "text": "هَرَبٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 701500,
+          "text": "١٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 72,
+      "ayah": 13,
+      "verse_key": "72:13",
+      "text": "وَأَنَّا لَمَّا سَمِعۡنَا ٱلۡهُدَىٰٓ ءَامَنَّا بِهِۦۖ فَمَن يُؤۡمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخۡسٗا وَلَا رَهَقٗا",
+      "words": [
+        {
+          "id": 701501,
+          "text": "وَأَنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 701502,
+          "text": "لَمَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 701503,
+          "text": "سَمِعۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 701504,
+          "text": "ٱلۡهُدَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 701505,
+          "text": "ءَامَنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 701506,
+          "text": "بِهِۦۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 701508,
+          "text": "فَمَن",
+          "char_type": "word"
+        },
+        {
+          "id": 701509,
+          "text": "يُؤۡمِنۢ",
+          "char_type": "word"
+        },
+        {
+          "id": 701510,
+          "text": "بِرَبِّهِۦ",
+          "char_type": "word"
+        },
+        {
+          "id": 701511,
+          "text": "فَلَا",
+          "char_type": "word"
+        },
+        {
+          "id": 701512,
+          "text": "يَخَافُ",
+          "char_type": "word"
+        },
+        {
+          "id": 701513,
+          "text": "بَخۡسٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 701514,
+          "text": "وَلَا",
+          "char_type": "word"
+        },
+        {
+          "id": 701515,
+          "text": "رَهَقٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 701516,
+          "text": "١٣",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 149
+}

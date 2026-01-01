@@ -1,0 +1,260 @@
+{
+  "page_number": 2,
+  "mushaf_id": 5,
+  "first_verse": "2:1",
+  "last_verse": "2:5",
+  "surahs_in_page": [
+    2
+  ],
+  "surah_starts": [
+    2
+  ],
+  "verses": [
+    {
+      "surah": 2,
+      "ayah": 1,
+      "verse_key": "2:1",
+      "text": "الٓمٓ",
+      "words": [
+        {
+          "id": 617639,
+          "text": "الٓمٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 617640,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 2,
+      "verse_key": "2:2",
+      "text": "ذَٰلِكَ ٱلۡكِتَٰبُ لَا رَيۡبَۛ فِيهِۛ هُدٗى لِّلۡمُتَّقِينَ",
+      "words": [
+        {
+          "id": 617641,
+          "text": "ذَٰلِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 617642,
+          "text": "ٱلۡكِتَٰبُ",
+          "char_type": "word"
+        },
+        {
+          "id": 617643,
+          "text": "لَا",
+          "char_type": "word"
+        },
+        {
+          "id": 617644,
+          "text": "رَيۡبَۛ",
+          "char_type": "word"
+        },
+        {
+          "id": 617646,
+          "text": "فِيهِۛ",
+          "char_type": "word"
+        },
+        {
+          "id": 617648,
+          "text": "هُدٗى",
+          "char_type": "word"
+        },
+        {
+          "id": 617649,
+          "text": "لِّلۡمُتَّقِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 617650,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 3,
+      "verse_key": "2:3",
+      "text": "ٱلَّذِينَ يُؤۡمِنُونَ بِٱلۡغَيۡبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
+      "words": [
+        {
+          "id": 617651,
+          "text": "ٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 617652,
+          "text": "يُؤۡمِنُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 617653,
+          "text": "بِٱلۡغَيۡبِ",
+          "char_type": "word"
+        },
+        {
+          "id": 617654,
+          "text": "وَيُقِيمُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 617655,
+          "text": "ٱلصَّلَوٰةَ",
+          "char_type": "word"
+        },
+        {
+          "id": 617656,
+          "text": "وَمِمَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 617657,
+          "text": "رَزَقۡنَٰهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 617658,
+          "text": "يُنفِقُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 617659,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 4,
+      "verse_key": "2:4",
+      "text": "وَٱلَّذِينَ يُؤۡمِنُونَ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَ وَبِٱلۡأٓخِرَةِ هُمۡ يُوقِنُونَ",
+      "words": [
+        {
+          "id": 617660,
+          "text": "وَٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 617661,
+          "text": "يُؤۡمِنُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 617662,
+          "text": "بِمَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 617663,
+          "text": "أُنزِلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 617664,
+          "text": "إِلَيۡكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 617665,
+          "text": "وَمَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 617666,
+          "text": "أُنزِلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 617667,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 617668,
+          "text": "قَبۡلِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 617669,
+          "text": "وَبِٱلۡأٓخِرَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 617670,
+          "text": "هُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 617671,
+          "text": "يُوقِنُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 617672,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 2,
+      "ayah": 5,
+      "verse_key": "2:5",
+      "text": "أُوْلَٰٓئِكَ عَلَىٰ هُدٗى مِّن رَّبِّهِمۡۖ وَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+      "words": [
+        {
+          "id": 617673,
+          "text": "أُوْلَٰٓئِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 617674,
+          "text": "عَلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 617675,
+          "text": "هُدٗى",
+          "char_type": "word"
+        },
+        {
+          "id": 617676,
+          "text": "مِّن",
+          "char_type": "word"
+        },
+        {
+          "id": 617677,
+          "text": "رَّبِّهِمۡۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 617679,
+          "text": "وَأُوْلَٰٓئِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 617680,
+          "text": "هُمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 617681,
+          "text": "ٱلۡمُفۡلِحُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 617682,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 41
+}

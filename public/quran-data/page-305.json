@@ -1,0 +1,708 @@
+{
+  "page_number": 305,
+  "mushaf_id": 5,
+  "first_verse": "19:1",
+  "last_verse": "19:11",
+  "surahs_in_page": [
+    19
+  ],
+  "surah_starts": [
+    19
+  ],
+  "verses": [
+    {
+      "surah": 19,
+      "ayah": 1,
+      "verse_key": "19:1",
+      "text": "كٓهيعٓصٓ",
+      "words": [
+        {
+          "id": 661661,
+          "text": "كٓهيعٓصٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 661662,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 19,
+      "ayah": 2,
+      "verse_key": "19:2",
+      "text": "ذِكۡرُ رَحۡمَتِ رَبِّكَ عَبۡدَهُۥ زَكَرِيَّآ",
+      "words": [
+        {
+          "id": 661663,
+          "text": "ذِكۡرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661664,
+          "text": "رَحۡمَتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 661665,
+          "text": "رَبِّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661666,
+          "text": "عَبۡدَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 661667,
+          "text": "زَكَرِيَّآ",
+          "char_type": "word"
+        },
+        {
+          "id": 661668,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 19,
+      "ayah": 3,
+      "verse_key": "19:3",
+      "text": "إِذۡ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيّٗا",
+      "words": [
+        {
+          "id": 661669,
+          "text": "إِذۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661670,
+          "text": "نَادَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 661671,
+          "text": "رَبَّهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 661672,
+          "text": "نِدَآءً",
+          "char_type": "word"
+        },
+        {
+          "id": 661673,
+          "text": "خَفِيّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661674,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 19,
+      "ayah": 4,
+      "verse_key": "19:4",
+      "text": "قَالَ رَبِّ إِنِّي وَهَنَ ٱلۡعَظۡمُ مِنِّي وَٱشۡتَعَلَ ٱلرَّأۡسُ شَيۡبٗا وَلَمۡ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيّٗا",
+      "words": [
+        {
+          "id": 661675,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661676,
+          "text": "رَبِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 661677,
+          "text": "إِنِّي",
+          "char_type": "word"
+        },
+        {
+          "id": 661678,
+          "text": "وَهَنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661679,
+          "text": "ٱلۡعَظۡمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661680,
+          "text": "مِنِّي",
+          "char_type": "word"
+        },
+        {
+          "id": 661681,
+          "text": "وَٱشۡتَعَلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661682,
+          "text": "ٱلرَّأۡسُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661683,
+          "text": "شَيۡبٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661684,
+          "text": "وَلَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661685,
+          "text": "أَكُنۢ",
+          "char_type": "word"
+        },
+        {
+          "id": 661686,
+          "text": "بِدُعَآئِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661687,
+          "text": "رَبِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 661688,
+          "text": "شَقِيّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661689,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 19,
+      "ayah": 5,
+      "verse_key": "19:5",
+      "text": "وَإِنِّي خِفۡتُ ٱلۡمَوَٰلِيَ مِن وَرَآءِي وَكَانَتِ ٱمۡرَأَتِي عَاقِرٗا فَهَبۡ لِي مِن لَّدُنكَ وَلِيّٗا",
+      "words": [
+        {
+          "id": 661690,
+          "text": "وَإِنِّي",
+          "char_type": "word"
+        },
+        {
+          "id": 661691,
+          "text": "خِفۡتُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661692,
+          "text": "ٱلۡمَوَٰلِيَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661693,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 661694,
+          "text": "وَرَآءِي",
+          "char_type": "word"
+        },
+        {
+          "id": 661695,
+          "text": "وَكَانَتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 661696,
+          "text": "ٱمۡرَأَتِي",
+          "char_type": "word"
+        },
+        {
+          "id": 661697,
+          "text": "عَاقِرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661698,
+          "text": "فَهَبۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661699,
+          "text": "لِي",
+          "char_type": "word"
+        },
+        {
+          "id": 661700,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 661701,
+          "text": "لَّدُنكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661702,
+          "text": "وَلِيّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661703,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 19,
+      "ayah": 6,
+      "verse_key": "19:6",
+      "text": "يَرِثُنِي وَيَرِثُ مِنۡ ءَالِ يَعۡقُوبَۖ وَٱجۡعَلۡهُ رَبِّ رَضِيّٗا",
+      "words": [
+        {
+          "id": 661704,
+          "text": "يَرِثُنِي",
+          "char_type": "word"
+        },
+        {
+          "id": 661705,
+          "text": "وَيَرِثُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661706,
+          "text": "مِنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661707,
+          "text": "ءَالِ",
+          "char_type": "word"
+        },
+        {
+          "id": 661708,
+          "text": "يَعۡقُوبَۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 661710,
+          "text": "وَٱجۡعَلۡهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661711,
+          "text": "رَبِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 661712,
+          "text": "رَضِيّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661713,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 19,
+      "ayah": 7,
+      "verse_key": "19:7",
+      "text": "يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسۡمُهُۥ يَحۡيَىٰ لَمۡ نَجۡعَل لَّهُۥ مِن قَبۡلُ سَمِيّٗا",
+      "words": [
+        {
+          "id": 661714,
+          "text": "يَٰزَكَرِيَّآ",
+          "char_type": "word"
+        },
+        {
+          "id": 661715,
+          "text": "إِنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 661716,
+          "text": "نُبَشِّرُكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661717,
+          "text": "بِغُلَٰمٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 661718,
+          "text": "ٱسۡمُهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 661719,
+          "text": "يَحۡيَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 661720,
+          "text": "لَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661721,
+          "text": "نَجۡعَل",
+          "char_type": "word"
+        },
+        {
+          "id": 661722,
+          "text": "لَّهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 661723,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 661724,
+          "text": "قَبۡلُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661725,
+          "text": "سَمِيّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661726,
+          "text": "٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 19,
+      "ayah": 8,
+      "verse_key": "19:8",
+      "text": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِي غُلَٰمٞ وَكَانَتِ ٱمۡرَأَتِي عَاقِرٗا وَقَدۡ بَلَغۡتُ مِنَ ٱلۡكِبَرِ عِتِيّٗا",
+      "words": [
+        {
+          "id": 661727,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661728,
+          "text": "رَبِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 661729,
+          "text": "أَنَّىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 661730,
+          "text": "يَكُونُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661731,
+          "text": "لِي",
+          "char_type": "word"
+        },
+        {
+          "id": 661732,
+          "text": "غُلَٰمٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 661733,
+          "text": "وَكَانَتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 661734,
+          "text": "ٱمۡرَأَتِي",
+          "char_type": "word"
+        },
+        {
+          "id": 661735,
+          "text": "عَاقِرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661736,
+          "text": "وَقَدۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661737,
+          "text": "بَلَغۡتُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661738,
+          "text": "مِنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661739,
+          "text": "ٱلۡكِبَرِ",
+          "char_type": "word"
+        },
+        {
+          "id": 661740,
+          "text": "عِتِيّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661741,
+          "text": "٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 19,
+      "ayah": 9,
+      "verse_key": "19:9",
+      "text": "قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَيَّ هَيِّنٞ وَقَدۡ خَلَقۡتُكَ مِن قَبۡلُ وَلَمۡ تَكُ شَيۡـٔٗا",
+      "words": [
+        {
+          "id": 661742,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661743,
+          "text": "كَذَٰلِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661744,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661745,
+          "text": "رَبُّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661746,
+          "text": "هُوَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661747,
+          "text": "عَلَيَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 661748,
+          "text": "هَيِّنٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 661749,
+          "text": "وَقَدۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661750,
+          "text": "خَلَقۡتُكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661751,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 661752,
+          "text": "قَبۡلُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661753,
+          "text": "وَلَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661754,
+          "text": "تَكُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661755,
+          "text": "شَيۡـٔٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661756,
+          "text": "٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 19,
+      "ayah": 10,
+      "verse_key": "19:10",
+      "text": "قَالَ رَبِّ ٱجۡعَل لِّيٓ ءَايَةٗۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٖ سَوِيّٗا",
+      "words": [
+        {
+          "id": 661757,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661758,
+          "text": "رَبِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 661759,
+          "text": "ٱجۡعَل",
+          "char_type": "word"
+        },
+        {
+          "id": 661760,
+          "text": "لِّيٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 661761,
+          "text": "ءَايَةٗۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 661763,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661764,
+          "text": "ءَايَتُكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661765,
+          "text": "أَلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 661766,
+          "text": "تُكَلِّمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661767,
+          "text": "ٱلنَّاسَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661768,
+          "text": "ثَلَٰثَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661769,
+          "text": "لَيَالٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 661770,
+          "text": "سَوِيّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661771,
+          "text": "١٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 19,
+      "ayah": 11,
+      "verse_key": "19:11",
+      "text": "فَخَرَجَ عَلَىٰ قَوۡمِهِۦ مِنَ ٱلۡمِحۡرَابِ فَأَوۡحَىٰٓ إِلَيۡهِمۡ أَن سَبِّحُواْ بُكۡرَةٗ وَعَشِيّٗا",
+      "words": [
+        {
+          "id": 661772,
+          "text": "فَخَرَجَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661773,
+          "text": "عَلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 661774,
+          "text": "قَوۡمِهِۦ",
+          "char_type": "word"
+        },
+        {
+          "id": 661775,
+          "text": "مِنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661776,
+          "text": "ٱلۡمِحۡرَابِ",
+          "char_type": "word"
+        },
+        {
+          "id": 661777,
+          "text": "فَأَوۡحَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 661778,
+          "text": "إِلَيۡهِمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661779,
+          "text": "أَن",
+          "char_type": "word"
+        },
+        {
+          "id": 661780,
+          "text": "سَبِّحُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 661781,
+          "text": "بُكۡرَةٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 661782,
+          "text": "وَعَشِيّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661783,
+          "text": "١١",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 121
+}

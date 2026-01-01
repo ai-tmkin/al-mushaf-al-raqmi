@@ -1,0 +1,590 @@
+{
+  "page_number": 601,
+  "mushaf_id": 5,
+  "first_verse": "103:1",
+  "last_verse": "105:5",
+  "surahs_in_page": [
+    103,
+    104,
+    105
+  ],
+  "surah_starts": [
+    103,
+    104,
+    105
+  ],
+  "verses": [
+    {
+      "surah": 103,
+      "ayah": 1,
+      "verse_key": "103:1",
+      "text": "وَٱلۡعَصۡرِ",
+      "words": [
+        {
+          "id": 705539,
+          "text": "وَٱلۡعَصۡرِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705540,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 103,
+      "ayah": 2,
+      "verse_key": "103:2",
+      "text": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ",
+      "words": [
+        {
+          "id": 705541,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 705542,
+          "text": "ٱلۡإِنسَٰنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705543,
+          "text": "لَفِي",
+          "char_type": "word"
+        },
+        {
+          "id": 705544,
+          "text": "خُسۡرٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 705545,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 103,
+      "ayah": 3,
+      "verse_key": "103:3",
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ",
+      "words": [
+        {
+          "id": 705546,
+          "text": "إِلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 705547,
+          "text": "ٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705548,
+          "text": "ءَامَنُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 705549,
+          "text": "وَعَمِلُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 705550,
+          "text": "ٱلصَّٰلِحَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705551,
+          "text": "وَتَوَاصَوۡاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 705552,
+          "text": "بِٱلۡحَقِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 705553,
+          "text": "وَتَوَاصَوۡاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 705554,
+          "text": "بِٱلصَّبۡرِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705555,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 104,
+      "ayah": 1,
+      "verse_key": "104:1",
+      "text": "وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ",
+      "words": [
+        {
+          "id": 705556,
+          "text": "وَيۡلٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 705557,
+          "text": "لِّكُلِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 705558,
+          "text": "هُمَزَةٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705559,
+          "text": "لُّمَزَةٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 705560,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 104,
+      "ayah": 2,
+      "verse_key": "104:2",
+      "text": "ٱلَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ",
+      "words": [
+        {
+          "id": 705561,
+          "text": "ٱلَّذِي",
+          "char_type": "word"
+        },
+        {
+          "id": 705562,
+          "text": "جَمَعَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705563,
+          "text": "مَالٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 705564,
+          "text": "وَعَدَّدَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 705565,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 104,
+      "ayah": 3,
+      "verse_key": "104:3",
+      "text": "يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ",
+      "words": [
+        {
+          "id": 705566,
+          "text": "يَحۡسَبُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705567,
+          "text": "أَنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 705568,
+          "text": "مَالَهُۥٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 705569,
+          "text": "أَخۡلَدَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 705570,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 104,
+      "ayah": 4,
+      "verse_key": "104:4",
+      "text": "كـَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ",
+      "words": [
+        {
+          "id": 705571,
+          "text": "كـَلَّاۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705573,
+          "text": "لَيُنۢبَذَنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 705574,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 705575,
+          "text": "ٱلۡحُطَمَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705576,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 104,
+      "ayah": 5,
+      "verse_key": "104:5",
+      "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ",
+      "words": [
+        {
+          "id": 705577,
+          "text": "وَمَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 705578,
+          "text": "أَدۡرَىٰكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705579,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705580,
+          "text": "ٱلۡحُطَمَةُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705581,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 104,
+      "ayah": 6,
+      "verse_key": "104:6",
+      "text": "نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ",
+      "words": [
+        {
+          "id": 705582,
+          "text": "نَارُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705583,
+          "text": "ٱللَّهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705584,
+          "text": "ٱلۡمُوقَدَةُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705585,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 104,
+      "ayah": 7,
+      "verse_key": "104:7",
+      "text": "ٱلَّتِي تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ",
+      "words": [
+        {
+          "id": 705586,
+          "text": "ٱلَّتِي",
+          "char_type": "word"
+        },
+        {
+          "id": 705587,
+          "text": "تَطَّلِعُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705588,
+          "text": "عَلَى",
+          "char_type": "word"
+        },
+        {
+          "id": 705589,
+          "text": "ٱلۡأَفۡـِٔدَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705590,
+          "text": "٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 104,
+      "ayah": 8,
+      "verse_key": "104:8",
+      "text": "إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةٞ",
+      "words": [
+        {
+          "id": 705591,
+          "text": "إِنَّهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705592,
+          "text": "عَلَيۡهِم",
+          "char_type": "word"
+        },
+        {
+          "id": 705593,
+          "text": "مُّؤۡصَدَةٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 705594,
+          "text": "٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 104,
+      "ayah": 9,
+      "verse_key": "104:9",
+      "text": "فِي عَمَدٖ مُّمَدَّدَةِۭ",
+      "words": [
+        {
+          "id": 705595,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 705596,
+          "text": "عَمَدٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705597,
+          "text": "مُّمَدَّدَةِۭ",
+          "char_type": "word"
+        },
+        {
+          "id": 705598,
+          "text": "٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 105,
+      "ayah": 1,
+      "verse_key": "105:1",
+      "text": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ",
+      "words": [
+        {
+          "id": 705599,
+          "text": "أَلَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705600,
+          "text": "تَرَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705601,
+          "text": "كَيۡفَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705602,
+          "text": "فَعَلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705603,
+          "text": "رَبُّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705604,
+          "text": "بِأَصۡحَٰبِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705605,
+          "text": "ٱلۡفِيلِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705606,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 105,
+      "ayah": 2,
+      "verse_key": "105:2",
+      "text": "أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ",
+      "words": [
+        {
+          "id": 705607,
+          "text": "أَلَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705608,
+          "text": "يَجۡعَلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705609,
+          "text": "كَيۡدَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705610,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 705611,
+          "text": "تَضۡلِيلٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705612,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 105,
+      "ayah": 3,
+      "verse_key": "105:3",
+      "text": "وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ",
+      "words": [
+        {
+          "id": 705613,
+          "text": "وَأَرۡسَلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705614,
+          "text": "عَلَيۡهِمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705615,
+          "text": "طَيۡرًا",
+          "char_type": "word"
+        },
+        {
+          "id": 705616,
+          "text": "أَبَابِيلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705617,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 105,
+      "ayah": 4,
+      "verse_key": "105:4",
+      "text": "تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ",
+      "words": [
+        {
+          "id": 705618,
+          "text": "تَرۡمِيهِم",
+          "char_type": "word"
+        },
+        {
+          "id": 705619,
+          "text": "بِحِجَارَةٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705620,
+          "text": "مِّن",
+          "char_type": "word"
+        },
+        {
+          "id": 705621,
+          "text": "سِجِّيلٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705622,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 105,
+      "ayah": 5,
+      "verse_key": "105:5",
+      "text": "فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۭ",
+      "words": [
+        {
+          "id": 705623,
+          "text": "فَجَعَلَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705624,
+          "text": "كَعَصۡفٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705625,
+          "text": "مَّأۡكُولِۭ",
+          "char_type": "word"
+        },
+        {
+          "id": 705626,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 87
+}

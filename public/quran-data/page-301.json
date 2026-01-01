@@ -1,0 +1,927 @@
+{
+  "page_number": 301,
+  "mushaf_id": 5,
+  "first_verse": "18:62",
+  "last_verse": "18:74",
+  "surahs_in_page": [
+    18
+  ],
+  "surah_starts": [],
+  "verses": [
+    {
+      "surah": 18,
+      "ayah": 62,
+      "verse_key": "18:62",
+      "text": "فَلَمَّا جَاوَزَا قَالَ لِفَتَىٰهُ ءَاتِنَا غَدَآءَنَا لَقَدۡ لَقِينَا مِن سَفَرِنَا هَٰذَا نَصَبٗا",
+      "words": [
+        {
+          "id": 660992,
+          "text": "فَلَمَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 660993,
+          "text": "جَاوَزَا",
+          "char_type": "word"
+        },
+        {
+          "id": 660994,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 660995,
+          "text": "لِفَتَىٰهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 660996,
+          "text": "ءَاتِنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 660997,
+          "text": "غَدَآءَنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 660998,
+          "text": "لَقَدۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 660999,
+          "text": "لَقِينَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661000,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 661001,
+          "text": "سَفَرِنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661002,
+          "text": "هَٰذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661003,
+          "text": "نَصَبٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661004,
+          "text": "٦٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 18,
+      "ayah": 63,
+      "verse_key": "18:63",
+      "text": "قَالَ أَرَءَيۡتَ إِذۡ أَوَيۡنَآ إِلَى ٱلصَّخۡرَةِ فَإِنِّي نَسِيتُ ٱلۡحُوتَ وَمَآ أَنسَىٰنِيهُ إِلَّا ٱلشَّيۡطَٰنُ أَنۡ أَذۡكُرَهُۥۚ وَٱتَّخَذَ سَبِيلَهُۥ فِي ٱلۡبَحۡرِ عَجَبٗا",
+      "words": [
+        {
+          "id": 661005,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661006,
+          "text": "أَرَءَيۡتَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661007,
+          "text": "إِذۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661008,
+          "text": "أَوَيۡنَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 661009,
+          "text": "إِلَى",
+          "char_type": "word"
+        },
+        {
+          "id": 661010,
+          "text": "ٱلصَّخۡرَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 661011,
+          "text": "فَإِنِّي",
+          "char_type": "word"
+        },
+        {
+          "id": 661012,
+          "text": "نَسِيتُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661013,
+          "text": "ٱلۡحُوتَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661014,
+          "text": "وَمَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 661015,
+          "text": "أَنسَىٰنِيهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661016,
+          "text": "إِلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 661017,
+          "text": "ٱلشَّيۡطَٰنُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661018,
+          "text": "أَنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661019,
+          "text": "أَذۡكُرَهُۥۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 661021,
+          "text": "وَٱتَّخَذَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661022,
+          "text": "سَبِيلَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 661023,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 661024,
+          "text": "ٱلۡبَحۡرِ",
+          "char_type": "word"
+        },
+        {
+          "id": 661025,
+          "text": "عَجَبٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661026,
+          "text": "٦٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 18,
+      "ayah": 64,
+      "verse_key": "18:64",
+      "text": "قَالَ ذَٰلِكَ مَا كُنَّا نَبۡغِۚ فَٱرۡتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصٗا",
+      "words": [
+        {
+          "id": 661027,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661028,
+          "text": "ذَٰلِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661029,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661030,
+          "text": "كُنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 661031,
+          "text": "نَبۡغِۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 661033,
+          "text": "فَٱرۡتَدَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 661034,
+          "text": "عَلَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 661035,
+          "text": "ءَاثَارِهِمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661036,
+          "text": "قَصَصٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661037,
+          "text": "٦٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 18,
+      "ayah": 65,
+      "verse_key": "18:65",
+      "text": "فَوَجَدَا عَبۡدٗا مِّنۡ عِبَادِنَآ ءَاتَيۡنَٰهُ رَحۡمَةٗ مِّنۡ عِندِنَا وَعَلَّمۡنَٰهُ مِن لَّدُنَّا عِلۡمٗا",
+      "words": [
+        {
+          "id": 661038,
+          "text": "فَوَجَدَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661039,
+          "text": "عَبۡدٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661040,
+          "text": "مِّنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661041,
+          "text": "عِبَادِنَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 661042,
+          "text": "ءَاتَيۡنَٰهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661043,
+          "text": "رَحۡمَةٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 661044,
+          "text": "مِّنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661045,
+          "text": "عِندِنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661046,
+          "text": "وَعَلَّمۡنَٰهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661047,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 661048,
+          "text": "لَّدُنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 661049,
+          "text": "عِلۡمٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661050,
+          "text": "٦٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 18,
+      "ayah": 66,
+      "verse_key": "18:66",
+      "text": "قَالَ لَهُۥ مُوسَىٰ هَلۡ أَتَّبِعُكَ عَلَىٰٓ أَن تُعَلِّمَنِ مِمَّا عُلِّمۡتَ رُشۡدٗا",
+      "words": [
+        {
+          "id": 661051,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661052,
+          "text": "لَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 661053,
+          "text": "مُوسَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 661054,
+          "text": "هَلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661055,
+          "text": "أَتَّبِعُكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661056,
+          "text": "عَلَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 661057,
+          "text": "أَن",
+          "char_type": "word"
+        },
+        {
+          "id": 661058,
+          "text": "تُعَلِّمَنِ",
+          "char_type": "word"
+        },
+        {
+          "id": 661059,
+          "text": "مِمَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 661060,
+          "text": "عُلِّمۡتَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661061,
+          "text": "رُشۡدٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661062,
+          "text": "٦٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 18,
+      "ayah": 67,
+      "verse_key": "18:67",
+      "text": "قَالَ إِنَّكَ لَن تَسۡتَطِيعَ مَعِيَ صَبۡرٗا",
+      "words": [
+        {
+          "id": 661063,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661064,
+          "text": "إِنَّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661065,
+          "text": "لَن",
+          "char_type": "word"
+        },
+        {
+          "id": 661066,
+          "text": "تَسۡتَطِيعَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661067,
+          "text": "مَعِيَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661068,
+          "text": "صَبۡرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661069,
+          "text": "٦٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 18,
+      "ayah": 68,
+      "verse_key": "18:68",
+      "text": "وَكَيۡفَ تَصۡبِرُ عَلَىٰ مَا لَمۡ تُحِطۡ بِهِۦ خُبۡرٗا",
+      "words": [
+        {
+          "id": 661070,
+          "text": "وَكَيۡفَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661071,
+          "text": "تَصۡبِرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661072,
+          "text": "عَلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 661073,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661074,
+          "text": "لَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661075,
+          "text": "تُحِطۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661076,
+          "text": "بِهِۦ",
+          "char_type": "word"
+        },
+        {
+          "id": 661077,
+          "text": "خُبۡرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661078,
+          "text": "٦٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 18,
+      "ayah": 69,
+      "verse_key": "18:69",
+      "text": "قَالَ سَتَجِدُنِيٓ إِن شَآءَ ٱللَّهُ صَابِرٗا وَلَآ أَعۡصِي لَكَ أَمۡرٗا",
+      "words": [
+        {
+          "id": 661079,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661080,
+          "text": "سَتَجِدُنِيٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 661081,
+          "text": "إِن",
+          "char_type": "word"
+        },
+        {
+          "id": 661082,
+          "text": "شَآءَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661083,
+          "text": "ٱللَّهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661084,
+          "text": "صَابِرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661085,
+          "text": "وَلَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 661086,
+          "text": "أَعۡصِي",
+          "char_type": "word"
+        },
+        {
+          "id": 661087,
+          "text": "لَكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661088,
+          "text": "أَمۡرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661089,
+          "text": "٦٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 18,
+      "ayah": 70,
+      "verse_key": "18:70",
+      "text": "قَالَ فَإِنِ ٱتَّبَعۡتَنِي فَلَا تَسۡـَٔلۡنِي عَن شَيۡءٍ حَتَّىٰٓ أُحۡدِثَ لَكَ مِنۡهُ ذِكۡرٗا",
+      "words": [
+        {
+          "id": 661090,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661091,
+          "text": "فَإِنِ",
+          "char_type": "word"
+        },
+        {
+          "id": 661092,
+          "text": "ٱتَّبَعۡتَنِي",
+          "char_type": "word"
+        },
+        {
+          "id": 661093,
+          "text": "فَلَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661094,
+          "text": "تَسۡـَٔلۡنِي",
+          "char_type": "word"
+        },
+        {
+          "id": 661095,
+          "text": "عَن",
+          "char_type": "word"
+        },
+        {
+          "id": 661096,
+          "text": "شَيۡءٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 661097,
+          "text": "حَتَّىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 661098,
+          "text": "أُحۡدِثَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661099,
+          "text": "لَكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661100,
+          "text": "مِنۡهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661101,
+          "text": "ذِكۡرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661102,
+          "text": "٧٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 18,
+      "ayah": 71,
+      "verse_key": "18:71",
+      "text": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا رَكِبَا فِي ٱلسَّفِينَةِ خَرَقَهَاۖ قَالَ أَخَرَقۡتَهَا لِتُغۡرِقَ أَهۡلَهَا لَقَدۡ جِئۡتَ شَيۡـًٔا إِمۡرٗا",
+      "words": [
+        {
+          "id": 661103,
+          "text": "فَٱنطَلَقَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661104,
+          "text": "حَتَّىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 661105,
+          "text": "إِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661106,
+          "text": "رَكِبَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661107,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 661108,
+          "text": "ٱلسَّفِينَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 661109,
+          "text": "خَرَقَهَاۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 661111,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661112,
+          "text": "أَخَرَقۡتَهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661113,
+          "text": "لِتُغۡرِقَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661114,
+          "text": "أَهۡلَهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661115,
+          "text": "لَقَدۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661116,
+          "text": "جِئۡتَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661117,
+          "text": "شَيۡـًٔا",
+          "char_type": "word"
+        },
+        {
+          "id": 661118,
+          "text": "إِمۡرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661119,
+          "text": "٧١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 18,
+      "ayah": 72,
+      "verse_key": "18:72",
+      "text": "قَالَ أَلَمۡ أَقُلۡ إِنَّكَ لَن تَسۡتَطِيعَ مَعِيَ صَبۡرٗا",
+      "words": [
+        {
+          "id": 661120,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661121,
+          "text": "أَلَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661122,
+          "text": "أَقُلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661123,
+          "text": "إِنَّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661124,
+          "text": "لَن",
+          "char_type": "word"
+        },
+        {
+          "id": 661125,
+          "text": "تَسۡتَطِيعَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661126,
+          "text": "مَعِيَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661127,
+          "text": "صَبۡرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661128,
+          "text": "٧٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 18,
+      "ayah": 73,
+      "verse_key": "18:73",
+      "text": "قَالَ لَا تُؤَاخِذۡنِي بِمَا نَسِيتُ وَلَا تُرۡهِقۡنِي مِنۡ أَمۡرِي عُسۡرٗا",
+      "words": [
+        {
+          "id": 661129,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661130,
+          "text": "لَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661131,
+          "text": "تُؤَاخِذۡنِي",
+          "char_type": "word"
+        },
+        {
+          "id": 661132,
+          "text": "بِمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661133,
+          "text": "نَسِيتُ",
+          "char_type": "word"
+        },
+        {
+          "id": 661134,
+          "text": "وَلَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661135,
+          "text": "تُرۡهِقۡنِي",
+          "char_type": "word"
+        },
+        {
+          "id": 661136,
+          "text": "مِنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661137,
+          "text": "أَمۡرِي",
+          "char_type": "word"
+        },
+        {
+          "id": 661138,
+          "text": "عُسۡرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661139,
+          "text": "٧٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 18,
+      "ayah": 74,
+      "verse_key": "18:74",
+      "text": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا لَقِيَا غُلَٰمٗا فَقَتَلَهُۥ قَالَ أَقَتَلۡتَ نَفۡسٗا زَكِيَّةَۢ بِغَيۡرِ نَفۡسٖ لَّقَدۡ جِئۡتَ شَيۡـٔٗا نُّكۡرٗا",
+      "words": [
+        {
+          "id": 661140,
+          "text": "فَٱنطَلَقَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661141,
+          "text": "حَتَّىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 661142,
+          "text": "إِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661143,
+          "text": "لَقِيَا",
+          "char_type": "word"
+        },
+        {
+          "id": 661144,
+          "text": "غُلَٰمٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661145,
+          "text": "فَقَتَلَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 661146,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661147,
+          "text": "أَقَتَلۡتَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661148,
+          "text": "نَفۡسٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661149,
+          "text": "زَكِيَّةَۢ",
+          "char_type": "word"
+        },
+        {
+          "id": 661150,
+          "text": "بِغَيۡرِ",
+          "char_type": "word"
+        },
+        {
+          "id": 661151,
+          "text": "نَفۡسٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 661152,
+          "text": "لَّقَدۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 661153,
+          "text": "جِئۡتَ",
+          "char_type": "word"
+        },
+        {
+          "id": 661154,
+          "text": "شَيۡـٔٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661155,
+          "text": "نُّكۡرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 661156,
+          "text": "٧٤",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 162
+}

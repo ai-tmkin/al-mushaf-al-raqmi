@@ -1,0 +1,1026 @@
+{
+  "page_number": 449,
+  "mushaf_id": 5,
+  "first_verse": "37:77",
+  "last_verse": "37:102",
+  "surahs_in_page": [
+    37
+  ],
+  "surah_starts": [],
+  "verses": [
+    {
+      "surah": 37,
+      "ayah": 77,
+      "verse_key": "37:77",
+      "text": "وَجَعَلۡنَا ذُرِّيَّتَهُۥ هُمُ ٱلۡبَاقِينَ",
+      "words": [
+        {
+          "id": 682917,
+          "text": "وَجَعَلۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682918,
+          "text": "ذُرِّيَّتَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 682919,
+          "text": "هُمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 682920,
+          "text": "ٱلۡبَاقِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682921,
+          "text": "٧٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 78,
+      "verse_key": "37:78",
+      "text": "وَتَرَكۡنَا عَلَيۡهِ فِي ٱلۡأٓخِرِينَ",
+      "words": [
+        {
+          "id": 682922,
+          "text": "وَتَرَكۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682923,
+          "text": "عَلَيۡهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682924,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 682925,
+          "text": "ٱلۡأٓخِرِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682926,
+          "text": "٧٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 79,
+      "verse_key": "37:79",
+      "text": "سَلَٰمٌ عَلَىٰ نُوحٖ فِي ٱلۡعَٰلَمِينَ",
+      "words": [
+        {
+          "id": 682927,
+          "text": "سَلَٰمٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 682928,
+          "text": "عَلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 682929,
+          "text": "نُوحٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 682930,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 682931,
+          "text": "ٱلۡعَٰلَمِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682932,
+          "text": "٧٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 80,
+      "verse_key": "37:80",
+      "text": "إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
+      "words": [
+        {
+          "id": 682933,
+          "text": "إِنَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 682934,
+          "text": "كَذَٰلِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682935,
+          "text": "نَجۡزِي",
+          "char_type": "word"
+        },
+        {
+          "id": 682936,
+          "text": "ٱلۡمُحۡسِنِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682937,
+          "text": "٨٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 81,
+      "verse_key": "37:81",
+      "text": "إِنَّهُۥ مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِينَ",
+      "words": [
+        {
+          "id": 682938,
+          "text": "إِنَّهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 682939,
+          "text": "مِنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682940,
+          "text": "عِبَادِنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682941,
+          "text": "ٱلۡمُؤۡمِنِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682942,
+          "text": "٨١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 82,
+      "verse_key": "37:82",
+      "text": "ثُمَّ أَغۡرَقۡنَا ٱلۡأٓخَرِينَ",
+      "words": [
+        {
+          "id": 682943,
+          "text": "ثُمَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 682944,
+          "text": "أَغۡرَقۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682945,
+          "text": "ٱلۡأٓخَرِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682946,
+          "text": "٨٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 83,
+      "verse_key": "37:83",
+      "text": "۞ وَإِنَّ مِن شِيعَتِهِۦ لَإِبۡرَٰهِيمَ",
+      "words": [
+        {
+          "id": 682948,
+          "text": "۞ وَإِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 682949,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 682950,
+          "text": "شِيعَتِهِۦ",
+          "char_type": "word"
+        },
+        {
+          "id": 682951,
+          "text": "لَإِبۡرَٰهِيمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682952,
+          "text": "٨٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 84,
+      "verse_key": "37:84",
+      "text": "إِذۡ جَآءَ رَبَّهُۥ بِقَلۡبٖ سَلِيمٍ",
+      "words": [
+        {
+          "id": 682953,
+          "text": "إِذۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682954,
+          "text": "جَآءَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682955,
+          "text": "رَبَّهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 682956,
+          "text": "بِقَلۡبٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 682957,
+          "text": "سَلِيمٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 682958,
+          "text": "٨٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 85,
+      "verse_key": "37:85",
+      "text": "إِذۡ قَالَ لِأَبِيهِ وَقَوۡمِهِۦ مَاذَا تَعۡبُدُونَ",
+      "words": [
+        {
+          "id": 682959,
+          "text": "إِذۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682960,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682961,
+          "text": "لِأَبِيهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682962,
+          "text": "وَقَوۡمِهِۦ",
+          "char_type": "word"
+        },
+        {
+          "id": 682963,
+          "text": "مَاذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682964,
+          "text": "تَعۡبُدُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682965,
+          "text": "٨٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 86,
+      "verse_key": "37:86",
+      "text": "أَئِفۡكًا ءَالِهَةٗ دُونَ ٱللَّهِ تُرِيدُونَ",
+      "words": [
+        {
+          "id": 682966,
+          "text": "أَئِفۡكًا",
+          "char_type": "word"
+        },
+        {
+          "id": 682967,
+          "text": "ءَالِهَةٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 682968,
+          "text": "دُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682969,
+          "text": "ٱللَّهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682970,
+          "text": "تُرِيدُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682971,
+          "text": "٨٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 87,
+      "verse_key": "37:87",
+      "text": "فَمَا ظَنُّكُم بِرَبِّ ٱلۡعَٰلَمِينَ",
+      "words": [
+        {
+          "id": 682972,
+          "text": "فَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682973,
+          "text": "ظَنُّكُم",
+          "char_type": "word"
+        },
+        {
+          "id": 682974,
+          "text": "بِرَبِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 682975,
+          "text": "ٱلۡعَٰلَمِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682976,
+          "text": "٨٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 88,
+      "verse_key": "37:88",
+      "text": "فَنَظَرَ نَظۡرَةٗ فِي ٱلنُّجُومِ",
+      "words": [
+        {
+          "id": 682977,
+          "text": "فَنَظَرَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682978,
+          "text": "نَظۡرَةٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 682979,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 682980,
+          "text": "ٱلنُّجُومِ",
+          "char_type": "word"
+        },
+        {
+          "id": 682981,
+          "text": "٨٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 89,
+      "verse_key": "37:89",
+      "text": "فَقَالَ إِنِّي سَقِيمٞ",
+      "words": [
+        {
+          "id": 682982,
+          "text": "فَقَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682983,
+          "text": "إِنِّي",
+          "char_type": "word"
+        },
+        {
+          "id": 682984,
+          "text": "سَقِيمٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 682985,
+          "text": "٨٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 90,
+      "verse_key": "37:90",
+      "text": "فَتَوَلَّوۡاْ عَنۡهُ مُدۡبِرِينَ",
+      "words": [
+        {
+          "id": 682986,
+          "text": "فَتَوَلَّوۡاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 682987,
+          "text": "عَنۡهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 682988,
+          "text": "مُدۡبِرِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682989,
+          "text": "٩٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 91,
+      "verse_key": "37:91",
+      "text": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمۡ فَقَالَ أَلَا تَأۡكُلُونَ",
+      "words": [
+        {
+          "id": 682990,
+          "text": "فَرَاغَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682991,
+          "text": "إِلَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 682992,
+          "text": "ءَالِهَتِهِمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682993,
+          "text": "فَقَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682994,
+          "text": "أَلَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682995,
+          "text": "تَأۡكُلُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 682996,
+          "text": "٩١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 92,
+      "verse_key": "37:92",
+      "text": "مَا لَكُمۡ لَا تَنطِقُونَ",
+      "words": [
+        {
+          "id": 682997,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 682998,
+          "text": "لَكُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 682999,
+          "text": "لَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683000,
+          "text": "تَنطِقُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683001,
+          "text": "٩٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 93,
+      "verse_key": "37:93",
+      "text": "فَرَاغَ عَلَيۡهِمۡ ضَرۡبَۢا بِٱلۡيَمِينِ",
+      "words": [
+        {
+          "id": 683002,
+          "text": "فَرَاغَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683003,
+          "text": "عَلَيۡهِمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 683004,
+          "text": "ضَرۡبَۢا",
+          "char_type": "word"
+        },
+        {
+          "id": 683005,
+          "text": "بِٱلۡيَمِينِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683006,
+          "text": "٩٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 94,
+      "verse_key": "37:94",
+      "text": "فَأَقۡبَلُوٓاْ إِلَيۡهِ يَزِفُّونَ",
+      "words": [
+        {
+          "id": 683007,
+          "text": "فَأَقۡبَلُوٓاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 683008,
+          "text": "إِلَيۡهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683009,
+          "text": "يَزِفُّونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683010,
+          "text": "٩٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 95,
+      "verse_key": "37:95",
+      "text": "قَالَ أَتَعۡبُدُونَ مَا تَنۡحِتُونَ",
+      "words": [
+        {
+          "id": 683011,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683012,
+          "text": "أَتَعۡبُدُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683013,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683014,
+          "text": "تَنۡحِتُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683015,
+          "text": "٩٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 96,
+      "verse_key": "37:96",
+      "text": "وَٱللَّهُ خَلَقَكُمۡ وَمَا تَعۡمَلُونَ",
+      "words": [
+        {
+          "id": 683016,
+          "text": "وَٱللَّهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683017,
+          "text": "خَلَقَكُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 683018,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683019,
+          "text": "تَعۡمَلُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683020,
+          "text": "٩٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 97,
+      "verse_key": "37:97",
+      "text": "قَالُواْ ٱبۡنُواْ لَهُۥ بُنۡيَٰنٗا فَأَلۡقُوهُ فِي ٱلۡجَحِيمِ",
+      "words": [
+        {
+          "id": 683021,
+          "text": "قَالُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 683022,
+          "text": "ٱبۡنُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 683023,
+          "text": "لَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 683024,
+          "text": "بُنۡيَٰنٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 683025,
+          "text": "فَأَلۡقُوهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683026,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 683027,
+          "text": "ٱلۡجَحِيمِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683028,
+          "text": "٩٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 98,
+      "verse_key": "37:98",
+      "text": "فَأَرَادُواْ بِهِۦ كَيۡدٗا فَجَعَلۡنَٰهُمُ ٱلۡأَسۡفَلِينَ",
+      "words": [
+        {
+          "id": 683029,
+          "text": "فَأَرَادُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 683030,
+          "text": "بِهِۦ",
+          "char_type": "word"
+        },
+        {
+          "id": 683031,
+          "text": "كَيۡدٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 683032,
+          "text": "فَجَعَلۡنَٰهُمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683033,
+          "text": "ٱلۡأَسۡفَلِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683034,
+          "text": "٩٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 99,
+      "verse_key": "37:99",
+      "text": "وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَبِّي سَيَهۡدِينِ",
+      "words": [
+        {
+          "id": 683035,
+          "text": "وَقَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683036,
+          "text": "إِنِّي",
+          "char_type": "word"
+        },
+        {
+          "id": 683037,
+          "text": "ذَاهِبٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 683038,
+          "text": "إِلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 683039,
+          "text": "رَبِّي",
+          "char_type": "word"
+        },
+        {
+          "id": 683040,
+          "text": "سَيَهۡدِينِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683041,
+          "text": "٩٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 100,
+      "verse_key": "37:100",
+      "text": "رَبِّ هَبۡ لِي مِنَ ٱلصَّٰلِحِينَ",
+      "words": [
+        {
+          "id": 683042,
+          "text": "رَبِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 683043,
+          "text": "هَبۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 683044,
+          "text": "لِي",
+          "char_type": "word"
+        },
+        {
+          "id": 683045,
+          "text": "مِنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683046,
+          "text": "ٱلصَّٰلِحِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683047,
+          "text": "١٠٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 101,
+      "verse_key": "37:101",
+      "text": "فَبَشَّرۡنَٰهُ بِغُلَٰمٍ حَلِيمٖ",
+      "words": [
+        {
+          "id": 683048,
+          "text": "فَبَشَّرۡنَٰهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683049,
+          "text": "بِغُلَٰمٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 683050,
+          "text": "حَلِيمٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 683051,
+          "text": "١٠١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 37,
+      "ayah": 102,
+      "verse_key": "37:102",
+      "text": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعۡيَ قَالَ يَٰبُنَيَّ إِنِّيٓ أَرَىٰ فِي ٱلۡمَنَامِ أَنِّيٓ أَذۡبَحُكَ فَٱنظُرۡ مَاذَا تَرَىٰۚ قَالَ يَٰٓأَبَتِ ٱفۡعَلۡ مَا تُؤۡمَرُۖ سَتَجِدُنِيٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ",
+      "words": [
+        {
+          "id": 683052,
+          "text": "فَلَمَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 683053,
+          "text": "بَلَغَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683054,
+          "text": "مَعَهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683055,
+          "text": "ٱلسَّعۡيَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683056,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683057,
+          "text": "يَٰبُنَيَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 683058,
+          "text": "إِنِّيٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 683059,
+          "text": "أَرَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 683060,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 683061,
+          "text": "ٱلۡمَنَامِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683062,
+          "text": "أَنِّيٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 683063,
+          "text": "أَذۡبَحُكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683064,
+          "text": "فَٱنظُرۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 683065,
+          "text": "مَاذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683066,
+          "text": "تَرَىٰۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 683068,
+          "text": "قَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683069,
+          "text": "يَٰٓأَبَتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683070,
+          "text": "ٱفۡعَلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 683071,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683072,
+          "text": "تُؤۡمَرُۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 683074,
+          "text": "سَتَجِدُنِيٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 683075,
+          "text": "إِن",
+          "char_type": "word"
+        },
+        {
+          "id": 683076,
+          "text": "شَآءَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683077,
+          "text": "ٱللَّهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683078,
+          "text": "مِنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683079,
+          "text": "ٱلصَّٰبِرِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683080,
+          "text": "١٠٢",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 161
+}

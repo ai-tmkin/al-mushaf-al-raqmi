@@ -1,0 +1,1010 @@
+{
+  "page_number": 577,
+  "mushaf_id": 5,
+  "first_verse": "74:48",
+  "last_verse": "75:19",
+  "surahs_in_page": [
+    74,
+    75
+  ],
+  "surah_starts": [
+    75
+  ],
+  "verses": [
+    {
+      "surah": 74,
+      "ayah": 48,
+      "verse_key": "74:48",
+      "text": "فَمَا تَنفَعُهُمۡ شَفَٰعَةُ ٱلشَّٰفِعِينَ",
+      "words": [
+        {
+          "id": 702180,
+          "text": "فَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702181,
+          "text": "تَنفَعُهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702182,
+          "text": "شَفَٰعَةُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702183,
+          "text": "ٱلشَّٰفِعِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702184,
+          "text": "٤٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 74,
+      "ayah": 49,
+      "verse_key": "74:49",
+      "text": "فَمَا لَهُمۡ عَنِ ٱلتَّذۡكِرَةِ مُعۡرِضِينَ",
+      "words": [
+        {
+          "id": 702185,
+          "text": "فَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702186,
+          "text": "لَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702187,
+          "text": "عَنِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702188,
+          "text": "ٱلتَّذۡكِرَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702189,
+          "text": "مُعۡرِضِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702190,
+          "text": "٤٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 74,
+      "ayah": 50,
+      "verse_key": "74:50",
+      "text": "كَأَنَّهُمۡ حُمُرٞ مُّسۡتَنفِرَةٞ",
+      "words": [
+        {
+          "id": 702191,
+          "text": "كَأَنَّهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702192,
+          "text": "حُمُرٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 702193,
+          "text": "مُّسۡتَنفِرَةٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 702194,
+          "text": "٥٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 74,
+      "ayah": 51,
+      "verse_key": "74:51",
+      "text": "فَرَّتۡ مِن قَسۡوَرَةِۭ",
+      "words": [
+        {
+          "id": 702195,
+          "text": "فَرَّتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702196,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 702197,
+          "text": "قَسۡوَرَةِۭ",
+          "char_type": "word"
+        },
+        {
+          "id": 702198,
+          "text": "٥١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 74,
+      "ayah": 52,
+      "verse_key": "74:52",
+      "text": "بَلۡ يُرِيدُ كُلُّ ٱمۡرِيٕٖ مِّنۡهُمۡ أَن يُؤۡتَىٰ صُحُفٗا مُّنَشَّرَةٗ",
+      "words": [
+        {
+          "id": 702199,
+          "text": "بَلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702200,
+          "text": "يُرِيدُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702201,
+          "text": "كُلُّ",
+          "char_type": "word"
+        },
+        {
+          "id": 702202,
+          "text": "ٱمۡرِيٕٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702203,
+          "text": "مِّنۡهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702204,
+          "text": "أَن",
+          "char_type": "word"
+        },
+        {
+          "id": 702205,
+          "text": "يُؤۡتَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 702206,
+          "text": "صُحُفٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 702207,
+          "text": "مُّنَشَّرَةٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 702208,
+          "text": "٥٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 74,
+      "ayah": 53,
+      "verse_key": "74:53",
+      "text": "كـَلَّاۖ بَل لَّا يَخَافُونَ ٱلۡأٓخِرَةَ",
+      "words": [
+        {
+          "id": 702209,
+          "text": "كـَلَّاۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 702211,
+          "text": "بَل",
+          "char_type": "word"
+        },
+        {
+          "id": 702212,
+          "text": "لَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 702213,
+          "text": "يَخَافُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702214,
+          "text": "ٱلۡأٓخِرَةَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702215,
+          "text": "٥٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 74,
+      "ayah": 54,
+      "verse_key": "74:54",
+      "text": "كـَلَّآ إِنَّهُۥ تَذۡكِرَةٞ",
+      "words": [
+        {
+          "id": 702216,
+          "text": "كـَلَّآ",
+          "char_type": "word"
+        },
+        {
+          "id": 702217,
+          "text": "إِنَّهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 702218,
+          "text": "تَذۡكِرَةٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 702219,
+          "text": "٥٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 74,
+      "ayah": 55,
+      "verse_key": "74:55",
+      "text": "فَمَن شَآءَ ذَكَرَهُۥ",
+      "words": [
+        {
+          "id": 702220,
+          "text": "فَمَن",
+          "char_type": "word"
+        },
+        {
+          "id": 702221,
+          "text": "شَآءَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702222,
+          "text": "ذَكَرَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 702223,
+          "text": "٥٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 74,
+      "ayah": 56,
+      "verse_key": "74:56",
+      "text": "وَمَا يَذۡكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ هُوَ أَهۡلُ ٱلتَّقۡوَىٰ وَأَهۡلُ ٱلۡمَغۡفِرَةِ",
+      "words": [
+        {
+          "id": 702224,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702225,
+          "text": "يَذۡكُرُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702226,
+          "text": "إِلَّآ",
+          "char_type": "word"
+        },
+        {
+          "id": 702227,
+          "text": "أَن",
+          "char_type": "word"
+        },
+        {
+          "id": 702228,
+          "text": "يَشَآءَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702229,
+          "text": "ٱللَّهُۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 702231,
+          "text": "هُوَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702232,
+          "text": "أَهۡلُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702233,
+          "text": "ٱلتَّقۡوَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 702234,
+          "text": "وَأَهۡلُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702235,
+          "text": "ٱلۡمَغۡفِرَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702236,
+          "text": "٥٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 1,
+      "verse_key": "75:1",
+      "text": "لَآ أُقۡسِمُ بِيَوۡمِ ٱلۡقِيَٰمَةِ",
+      "words": [
+        {
+          "id": 702237,
+          "text": "لَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 702238,
+          "text": "أُقۡسِمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702239,
+          "text": "بِيَوۡمِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702240,
+          "text": "ٱلۡقِيَٰمَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702241,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 2,
+      "verse_key": "75:2",
+      "text": "وَلَآ أُقۡسِمُ بِٱلنَّفۡسِ ٱللَّوَّامَةِ",
+      "words": [
+        {
+          "id": 702242,
+          "text": "وَلَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 702243,
+          "text": "أُقۡسِمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702244,
+          "text": "بِٱلنَّفۡسِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702245,
+          "text": "ٱللَّوَّامَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702246,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 3,
+      "verse_key": "75:3",
+      "text": "أَيَحۡسَبُ ٱلۡإِنسَٰنُ أَلَّن نَّجۡمَعَ عِظَامَهُۥ",
+      "words": [
+        {
+          "id": 702247,
+          "text": "أَيَحۡسَبُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702248,
+          "text": "ٱلۡإِنسَٰنُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702249,
+          "text": "أَلَّن",
+          "char_type": "word"
+        },
+        {
+          "id": 702250,
+          "text": "نَّجۡمَعَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702251,
+          "text": "عِظَامَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 702252,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 4,
+      "verse_key": "75:4",
+      "text": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّيَ بَنَانَهُۥ",
+      "words": [
+        {
+          "id": 702253,
+          "text": "بَلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 702254,
+          "text": "قَٰدِرِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702255,
+          "text": "عَلَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 702256,
+          "text": "أَن",
+          "char_type": "word"
+        },
+        {
+          "id": 702257,
+          "text": "نُّسَوِّيَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702258,
+          "text": "بَنَانَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 702259,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 5,
+      "verse_key": "75:5",
+      "text": "بَلۡ يُرِيدُ ٱلۡإِنسَٰنُ لِيَفۡجُرَ أَمَامَهُۥ",
+      "words": [
+        {
+          "id": 702260,
+          "text": "بَلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702261,
+          "text": "يُرِيدُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702262,
+          "text": "ٱلۡإِنسَٰنُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702263,
+          "text": "لِيَفۡجُرَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702264,
+          "text": "أَمَامَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 702265,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 6,
+      "verse_key": "75:6",
+      "text": "يَسۡـَٔلُ أَيَّانَ يَوۡمُ ٱلۡقِيَٰمَةِ",
+      "words": [
+        {
+          "id": 702266,
+          "text": "يَسۡـَٔلُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702267,
+          "text": "أَيَّانَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702268,
+          "text": "يَوۡمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702269,
+          "text": "ٱلۡقِيَٰمَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702270,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 7,
+      "verse_key": "75:7",
+      "text": "فَإِذَا بَرِقَ ٱلۡبَصَرُ",
+      "words": [
+        {
+          "id": 702271,
+          "text": "فَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702272,
+          "text": "بَرِقَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702273,
+          "text": "ٱلۡبَصَرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702274,
+          "text": "٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 8,
+      "verse_key": "75:8",
+      "text": "وَخَسَفَ ٱلۡقَمَرُ",
+      "words": [
+        {
+          "id": 702275,
+          "text": "وَخَسَفَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702276,
+          "text": "ٱلۡقَمَرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702277,
+          "text": "٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 9,
+      "verse_key": "75:9",
+      "text": "وَجُمِعَ ٱلشَّمۡسُ وَٱلۡقَمَرُ",
+      "words": [
+        {
+          "id": 702278,
+          "text": "وَجُمِعَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702279,
+          "text": "ٱلشَّمۡسُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702280,
+          "text": "وَٱلۡقَمَرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702281,
+          "text": "٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 10,
+      "verse_key": "75:10",
+      "text": "يَقُولُ ٱلۡإِنسَٰنُ يَوۡمَئِذٍ أَيۡنَ ٱلۡمَفَرُّ",
+      "words": [
+        {
+          "id": 702282,
+          "text": "يَقُولُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702283,
+          "text": "ٱلۡإِنسَٰنُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702284,
+          "text": "يَوۡمَئِذٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 702285,
+          "text": "أَيۡنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702286,
+          "text": "ٱلۡمَفَرُّ",
+          "char_type": "word"
+        },
+        {
+          "id": 702287,
+          "text": "١٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 11,
+      "verse_key": "75:11",
+      "text": "كـَلَّا لَا وَزَرَ",
+      "words": [
+        {
+          "id": 702288,
+          "text": "كـَلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 702289,
+          "text": "لَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702290,
+          "text": "وَزَرَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702291,
+          "text": "١١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 12,
+      "verse_key": "75:12",
+      "text": "إِلَىٰ رَبِّكَ يَوۡمَئِذٍ ٱلۡمُسۡتَقَرُّ",
+      "words": [
+        {
+          "id": 702292,
+          "text": "إِلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 702293,
+          "text": "رَبِّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702294,
+          "text": "يَوۡمَئِذٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 702295,
+          "text": "ٱلۡمُسۡتَقَرُّ",
+          "char_type": "word"
+        },
+        {
+          "id": 702296,
+          "text": "١٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 13,
+      "verse_key": "75:13",
+      "text": "يُنَبَّؤُاْ ٱلۡإِنسَٰنُ يَوۡمَئِذِۭ بِمَا قَدَّمَ وَأَخَّرَ",
+      "words": [
+        {
+          "id": 702297,
+          "text": "يُنَبَّؤُاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 702298,
+          "text": "ٱلۡإِنسَٰنُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702299,
+          "text": "يَوۡمَئِذِۭ",
+          "char_type": "word"
+        },
+        {
+          "id": 702300,
+          "text": "بِمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702301,
+          "text": "قَدَّمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702302,
+          "text": "وَأَخَّرَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702303,
+          "text": "١٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 14,
+      "verse_key": "75:14",
+      "text": "بَلِ ٱلۡإِنسَٰنُ عَلَىٰ نَفۡسِهِۦ بَصِيرَةٞ",
+      "words": [
+        {
+          "id": 702304,
+          "text": "بَلِ",
+          "char_type": "word"
+        },
+        {
+          "id": 702305,
+          "text": "ٱلۡإِنسَٰنُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702306,
+          "text": "عَلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 702307,
+          "text": "نَفۡسِهِۦ",
+          "char_type": "word"
+        },
+        {
+          "id": 702308,
+          "text": "بَصِيرَةٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 702309,
+          "text": "١٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 15,
+      "verse_key": "75:15",
+      "text": "وَلَوۡ أَلۡقَىٰ مَعَاذِيرَهُۥ",
+      "words": [
+        {
+          "id": 702310,
+          "text": "وَلَوۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702311,
+          "text": "أَلۡقَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 702312,
+          "text": "مَعَاذِيرَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 702313,
+          "text": "١٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 16,
+      "verse_key": "75:16",
+      "text": "لَا تُحَرِّكۡ بِهِۦ لِسَانَكَ لِتَعۡجَلَ بِهِۦٓ",
+      "words": [
+        {
+          "id": 702314,
+          "text": "لَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702315,
+          "text": "تُحَرِّكۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702316,
+          "text": "بِهِۦ",
+          "char_type": "word"
+        },
+        {
+          "id": 702317,
+          "text": "لِسَانَكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702318,
+          "text": "لِتَعۡجَلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 702319,
+          "text": "بِهِۦٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 702320,
+          "text": "١٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 17,
+      "verse_key": "75:17",
+      "text": "إِنَّ عَلَيۡنَا جَمۡعَهُۥ وَقُرۡءَانَهُۥ",
+      "words": [
+        {
+          "id": 702321,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 702322,
+          "text": "عَلَيۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702323,
+          "text": "جَمۡعَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 702324,
+          "text": "وَقُرۡءَانَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 702325,
+          "text": "١٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 18,
+      "verse_key": "75:18",
+      "text": "فَإِذَا قَرَأۡنَٰهُ فَٱتَّبِعۡ قُرۡءَانَهُۥ",
+      "words": [
+        {
+          "id": 702326,
+          "text": "فَإِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702327,
+          "text": "قَرَأۡنَٰهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 702328,
+          "text": "فَٱتَّبِعۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 702329,
+          "text": "قُرۡءَانَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 702330,
+          "text": "١٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 75,
+      "ayah": 19,
+      "verse_key": "75:19",
+      "text": "ثُمَّ إِنَّ عَلَيۡنَا بَيَانَهُۥ",
+      "words": [
+        {
+          "id": 702331,
+          "text": "ثُمَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 702332,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 702333,
+          "text": "عَلَيۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 702334,
+          "text": "بَيَانَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 702335,
+          "text": "١٩",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 154
+}

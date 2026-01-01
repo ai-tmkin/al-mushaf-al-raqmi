@@ -1,0 +1,543 @@
+{
+  "page_number": 603,
+  "mushaf_id": 5,
+  "first_verse": "109:1",
+  "last_verse": "111:5",
+  "surahs_in_page": [
+    109,
+    110,
+    111,
+    112
+  ],
+  "surah_starts": [
+    109,
+    110,
+    111,
+    112
+  ],
+  "verses": [
+    {
+      "surah": 109,
+      "ayah": 1,
+      "verse_key": "109:1",
+      "text": "قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ",
+      "words": [
+        {
+          "id": 705693,
+          "text": "قُلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705694,
+          "text": "يَٰٓأَيُّهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705695,
+          "text": "ٱلۡكَٰفِرُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705696,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 109,
+      "ayah": 2,
+      "verse_key": "109:2",
+      "text": "لَآ أَعۡبُدُ مَا تَعۡبُدُونَ",
+      "words": [
+        {
+          "id": 705697,
+          "text": "لَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 705698,
+          "text": "أَعۡبُدُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705699,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705700,
+          "text": "تَعۡبُدُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705701,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 109,
+      "ayah": 3,
+      "verse_key": "109:3",
+      "text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+      "words": [
+        {
+          "id": 705702,
+          "text": "وَلَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 705703,
+          "text": "أَنتُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705704,
+          "text": "عَٰبِدُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705705,
+          "text": "مَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 705706,
+          "text": "أَعۡبُدُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705707,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 109,
+      "ayah": 4,
+      "verse_key": "109:4",
+      "text": "وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ",
+      "words": [
+        {
+          "id": 705708,
+          "text": "وَلَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 705709,
+          "text": "أَنَا۠",
+          "char_type": "word"
+        },
+        {
+          "id": 705710,
+          "text": "عَابِدٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 705711,
+          "text": "مَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 705712,
+          "text": "عَبَدتُّمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705713,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 109,
+      "ayah": 5,
+      "verse_key": "109:5",
+      "text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+      "words": [
+        {
+          "id": 705714,
+          "text": "وَلَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 705715,
+          "text": "أَنتُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705716,
+          "text": "عَٰبِدُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705717,
+          "text": "مَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 705718,
+          "text": "أَعۡبُدُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705719,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 109,
+      "ayah": 6,
+      "verse_key": "109:6",
+      "text": "لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ",
+      "words": [
+        {
+          "id": 705720,
+          "text": "لَكُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705721,
+          "text": "دِينُكُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705722,
+          "text": "وَلِيَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705723,
+          "text": "دِينِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705724,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 110,
+      "ayah": 1,
+      "verse_key": "110:1",
+      "text": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ",
+      "words": [
+        {
+          "id": 705725,
+          "text": "إِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705726,
+          "text": "جَآءَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705727,
+          "text": "نَصۡرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705728,
+          "text": "ٱللَّهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705729,
+          "text": "وَٱلۡفَتۡحُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705730,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 110,
+      "ayah": 2,
+      "verse_key": "110:2",
+      "text": "وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا",
+      "words": [
+        {
+          "id": 705731,
+          "text": "وَرَأَيۡتَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705732,
+          "text": "ٱلنَّاسَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705733,
+          "text": "يَدۡخُلُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705734,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 705735,
+          "text": "دِينِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705736,
+          "text": "ٱللَّهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705737,
+          "text": "أَفۡوَاجٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 705738,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 110,
+      "ayah": 3,
+      "verse_key": "110:3",
+      "text": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا",
+      "words": [
+        {
+          "id": 705739,
+          "text": "فَسَبِّحۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705740,
+          "text": "بِحَمۡدِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705741,
+          "text": "رَبِّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705742,
+          "text": "وَٱسۡتَغۡفِرۡهُۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 705744,
+          "text": "إِنَّهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 705745,
+          "text": "كَانَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705746,
+          "text": "تَوَّابَۢا",
+          "char_type": "word"
+        },
+        {
+          "id": 705747,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 111,
+      "ayah": 1,
+      "verse_key": "111:1",
+      "text": "تَبَّتۡ يَدَآ أَبِي لَهَبٖ وَتَبَّ",
+      "words": [
+        {
+          "id": 705748,
+          "text": "تَبَّتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705749,
+          "text": "يَدَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 705750,
+          "text": "أَبِي",
+          "char_type": "word"
+        },
+        {
+          "id": 705751,
+          "text": "لَهَبٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705752,
+          "text": "وَتَبَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 705753,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 111,
+      "ayah": 2,
+      "verse_key": "111:2",
+      "text": "مَآ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ",
+      "words": [
+        {
+          "id": 705754,
+          "text": "مَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 705755,
+          "text": "أَغۡنَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 705756,
+          "text": "عَنۡهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705757,
+          "text": "مَالُهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 705758,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705759,
+          "text": "كَسَبَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705760,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 111,
+      "ayah": 3,
+      "verse_key": "111:3",
+      "text": "سَيَصۡلَىٰ نَارٗا ذَاتَ لَهَبٖ",
+      "words": [
+        {
+          "id": 705761,
+          "text": "سَيَصۡلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 705762,
+          "text": "نَارٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 705763,
+          "text": "ذَاتَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705764,
+          "text": "لَهَبٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705765,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 111,
+      "ayah": 4,
+      "verse_key": "111:4",
+      "text": "وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ",
+      "words": [
+        {
+          "id": 705766,
+          "text": "وَٱمۡرَأَتُهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 705767,
+          "text": "حَمَّالَةَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705768,
+          "text": "ٱلۡحَطَبِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705769,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 112,
+      "ayah": 1,
+      "verse_key": "112:1",
+      "text": "فِي جِيدِهَا حَبۡلٞ مِّن مَّسَدِۭ",
+      "words": [
+        {
+          "id": 705770,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 705771,
+          "text": "جِيدِهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705772,
+          "text": "حَبۡلٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 705773,
+          "text": "مِّن",
+          "char_type": "word"
+        },
+        {
+          "id": 705774,
+          "text": "مَّسَدِۭ",
+          "char_type": "word"
+        },
+        {
+          "id": 705775,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 82
+}

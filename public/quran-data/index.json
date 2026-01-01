@@ -1,0 +1,735 @@
+{
+  "mushaf_id": 5,
+  "mushaf_name": "KFGQPC HAFS",
+  "version": "2.0",
+  "scraped_at": "2026-01-01T11:52:24.798Z",
+  "pages": [
+    {
+      "page_number": 551,
+      "first_verse": "60:12",
+      "last_verse": "61:5",
+      "surahs": [
+        60,
+        61
+      ],
+      "surah_starts": [
+        61
+      ],
+      "verse_count": 7,
+      "word_count": 126
+    },
+    {
+      "page_number": 552,
+      "first_verse": "61:6",
+      "last_verse": "61:14",
+      "surahs": [
+        61
+      ],
+      "surah_starts": [],
+      "verse_count": 9,
+      "word_count": 168
+    },
+    {
+      "page_number": 553,
+      "first_verse": "62:1",
+      "last_verse": "62:8",
+      "surahs": [
+        62
+      ],
+      "surah_starts": [
+        62
+      ],
+      "verse_count": 8,
+      "word_count": 126
+    },
+    {
+      "page_number": 554,
+      "first_verse": "62:9",
+      "last_verse": "63:4",
+      "surahs": [
+        62,
+        63
+      ],
+      "surah_starts": [
+        63
+      ],
+      "verse_count": 7,
+      "word_count": 126
+    },
+    {
+      "page_number": 555,
+      "first_verse": "63:5",
+      "last_verse": "63:11",
+      "surahs": [
+        63
+      ],
+      "surah_starts": [],
+      "verse_count": 7,
+      "word_count": 125
+    },
+    {
+      "page_number": 556,
+      "first_verse": "64:1",
+      "last_verse": "64:9",
+      "surahs": [
+        64
+      ],
+      "surah_starts": [
+        64
+      ],
+      "verse_count": 9,
+      "word_count": 144
+    },
+    {
+      "page_number": 557,
+      "first_verse": "64:10",
+      "last_verse": "64:18",
+      "surahs": [
+        64
+      ],
+      "surah_starts": [],
+      "verse_count": 9,
+      "word_count": 115
+    },
+    {
+      "page_number": 558,
+      "first_verse": "65:1",
+      "last_verse": "65:5",
+      "surahs": [
+        65
+      ],
+      "surah_starts": [
+        65
+      ],
+      "verse_count": 5,
+      "word_count": 139
+    },
+    {
+      "page_number": 559,
+      "first_verse": "65:6",
+      "last_verse": "65:12",
+      "surahs": [
+        65
+      ],
+      "surah_starts": [],
+      "verse_count": 7,
+      "word_count": 160
+    },
+    {
+      "page_number": 560,
+      "first_verse": "66:1",
+      "last_verse": "66:7",
+      "surahs": [
+        66
+      ],
+      "surah_starts": [
+        66
+      ],
+      "verse_count": 7,
+      "word_count": 132
+    },
+    {
+      "page_number": 561,
+      "first_verse": "66:8",
+      "last_verse": "66:12",
+      "surahs": [
+        66
+      ],
+      "surah_starts": [],
+      "verse_count": 5,
+      "word_count": 129
+    },
+    {
+      "page_number": 562,
+      "first_verse": "67:1",
+      "last_verse": "67:12",
+      "surahs": [
+        67
+      ],
+      "surah_starts": [
+        67
+      ],
+      "verse_count": 12,
+      "word_count": 143
+    },
+    {
+      "page_number": 563,
+      "first_verse": "67:13",
+      "last_verse": "67:26",
+      "surahs": [
+        67
+      ],
+      "surah_starts": [],
+      "verse_count": 14,
+      "word_count": 165
+    },
+    {
+      "page_number": 564,
+      "first_verse": "67:27",
+      "last_verse": "68:16",
+      "surahs": [
+        67,
+        68
+      ],
+      "surah_starts": [
+        68
+      ],
+      "verse_count": 20,
+      "word_count": 142
+    },
+    {
+      "page_number": 565,
+      "first_verse": "68:17",
+      "last_verse": "68:42",
+      "surahs": [
+        68
+      ],
+      "surah_starts": [],
+      "verse_count": 26,
+      "word_count": 174
+    },
+    {
+      "page_number": 566,
+      "first_verse": "68:43",
+      "last_verse": "69:8",
+      "surahs": [
+        68,
+        69
+      ],
+      "surah_starts": [
+        69
+      ],
+      "verse_count": 18,
+      "word_count": 140
+    },
+    {
+      "page_number": 567,
+      "first_verse": "69:9",
+      "last_verse": "69:35",
+      "surahs": [
+        69
+      ],
+      "surah_starts": [],
+      "verse_count": 27,
+      "word_count": 170
+    },
+    {
+      "page_number": 568,
+      "first_verse": "69:36",
+      "last_verse": "70:10",
+      "surahs": [
+        69,
+        70
+      ],
+      "surah_starts": [
+        70
+      ],
+      "verse_count": 27,
+      "word_count": 143
+    },
+    {
+      "page_number": 569,
+      "first_verse": "70:11",
+      "last_verse": "70:40",
+      "surahs": [
+        70
+      ],
+      "surah_starts": [],
+      "verse_count": 30,
+      "word_count": 171
+    },
+    {
+      "page_number": 570,
+      "first_verse": "70:41",
+      "last_verse": "71:10",
+      "surahs": [
+        70,
+        71
+      ],
+      "surah_starts": [
+        71
+      ],
+      "verse_count": 14,
+      "word_count": 134
+    },
+    {
+      "page_number": 571,
+      "first_verse": "71:11",
+      "last_verse": "71:28",
+      "surahs": [
+        71
+      ],
+      "surah_starts": [],
+      "verse_count": 18,
+      "word_count": 158
+    },
+    {
+      "page_number": 572,
+      "first_verse": "72:1",
+      "last_verse": "72:13",
+      "surahs": [
+        72
+      ],
+      "surah_starts": [
+        72
+      ],
+      "verse_count": 13,
+      "word_count": 149
+    },
+    {
+      "page_number": 573,
+      "first_verse": "72:14",
+      "last_verse": "72:28",
+      "surahs": [
+        72
+      ],
+      "surah_starts": [],
+      "verse_count": 15,
+      "word_count": 164
+    },
+    {
+      "page_number": 574,
+      "first_verse": "73:1",
+      "last_verse": "73:19",
+      "surahs": [
+        73
+      ],
+      "surah_starts": [
+        73
+      ],
+      "verse_count": 19,
+      "word_count": 140
+    },
+    {
+      "page_number": 575,
+      "first_verse": "73:20",
+      "last_verse": "74:18",
+      "surahs": [
+        73,
+        74
+      ],
+      "surah_starts": [
+        74
+      ],
+      "verse_count": 19,
+      "word_count": 151
+    },
+    {
+      "page_number": 576,
+      "first_verse": "74:19",
+      "last_verse": "74:47",
+      "surahs": [
+        74
+      ],
+      "surah_starts": [],
+      "verse_count": 29,
+      "word_count": 184
+    },
+    {
+      "page_number": 577,
+      "first_verse": "74:48",
+      "last_verse": "75:19",
+      "surahs": [
+        74,
+        75
+      ],
+      "surah_starts": [
+        75
+      ],
+      "verse_count": 28,
+      "word_count": 154
+    },
+    {
+      "page_number": 578,
+      "first_verse": "75:20",
+      "last_verse": "76:5",
+      "surahs": [
+        75,
+        76
+      ],
+      "surah_starts": [
+        76
+      ],
+      "verse_count": 26,
+      "word_count": 152
+    },
+    {
+      "page_number": 579,
+      "first_verse": "76:6",
+      "last_verse": "76:25",
+      "surahs": [
+        76
+      ],
+      "surah_starts": [],
+      "verse_count": 20,
+      "word_count": 167
+    },
+    {
+      "page_number": 580,
+      "first_verse": "76:26",
+      "last_verse": "77:19",
+      "surahs": [
+        76,
+        77
+      ],
+      "surah_starts": [
+        77
+      ],
+      "verse_count": 25,
+      "word_count": 132
+    },
+    {
+      "page_number": 581,
+      "first_verse": "77:20",
+      "last_verse": "77:50",
+      "surahs": [
+        77
+      ],
+      "surah_starts": [],
+      "verse_count": 30,
+      "word_count": 159
+    },
+    {
+      "page_number": 582,
+      "first_verse": "78:1",
+      "last_verse": "78:30",
+      "surahs": [
+        78
+      ],
+      "surah_starts": [
+        78
+      ],
+      "verse_count": 30,
+      "word_count": 135
+    },
+    {
+      "page_number": 583,
+      "first_verse": "78:31",
+      "last_verse": "79:16",
+      "surahs": [
+        78,
+        79
+      ],
+      "surah_starts": [
+        79
+      ],
+      "verse_count": 26,
+      "word_count": 145
+    },
+    {
+      "page_number": 584,
+      "first_verse": "79:17",
+      "last_verse": "79:46",
+      "surahs": [
+        79
+      ],
+      "surah_starts": [],
+      "verse_count": 30,
+      "word_count": 158
+    },
+    {
+      "page_number": 585,
+      "first_verse": "80:1",
+      "last_verse": "80:40",
+      "surahs": [
+        80
+      ],
+      "surah_starts": [
+        80
+      ],
+      "verse_count": 40,
+      "word_count": 167
+    },
+    {
+      "page_number": 586,
+      "first_verse": "80:41",
+      "last_verse": "81:29",
+      "surahs": [
+        80,
+        81
+      ],
+      "surah_starts": [
+        81
+      ],
+      "verse_count": 31,
+      "word_count": 141
+    },
+    {
+      "page_number": 587,
+      "first_verse": "82:1",
+      "last_verse": "83:4",
+      "surahs": [
+        82,
+        83
+      ],
+      "surah_starts": [
+        82,
+        83
+      ],
+      "verse_count": 23,
+      "word_count": 121
+    },
+    {
+      "page_number": 588,
+      "first_verse": "83:5",
+      "last_verse": "83:33",
+      "surahs": [
+        83
+      ],
+      "surah_starts": [],
+      "verse_count": 29,
+      "word_count": 165
+    },
+    {
+      "page_number": 589,
+      "first_verse": "83:34",
+      "last_verse": "84:24",
+      "surahs": [
+        83,
+        84
+      ],
+      "surah_starts": [
+        84
+      ],
+      "verse_count": 27,
+      "word_count": 140
+    },
+    {
+      "page_number": 590,
+      "first_verse": "84:25",
+      "last_verse": "85:22",
+      "surahs": [
+        84,
+        85
+      ],
+      "surah_starts": [
+        85
+      ],
+      "verse_count": 23,
+      "word_count": 141
+    },
+    {
+      "page_number": 591,
+      "first_verse": "86:1",
+      "last_verse": "87:10",
+      "surahs": [
+        86,
+        87
+      ],
+      "surah_starts": [
+        86,
+        87
+      ],
+      "verse_count": 27,
+      "word_count": 125
+    },
+    {
+      "page_number": 592,
+      "first_verse": "87:11",
+      "last_verse": "88:22",
+      "surahs": [
+        87,
+        88
+      ],
+      "surah_starts": [
+        88
+      ],
+      "verse_count": 31,
+      "word_count": 143
+    },
+    {
+      "page_number": 593,
+      "first_verse": "88:23",
+      "last_verse": "89:22",
+      "surahs": [
+        88,
+        89
+      ],
+      "surah_starts": [
+        89
+      ],
+      "verse_count": 26,
+      "word_count": 143
+    },
+    {
+      "page_number": 594,
+      "first_verse": "89:23",
+      "last_verse": "90:18",
+      "surahs": [
+        89,
+        90
+      ],
+      "surah_starts": [
+        90
+      ],
+      "verse_count": 26,
+      "word_count": 134
+    },
+    {
+      "page_number": 595,
+      "first_verse": "90:19",
+      "last_verse": "92:9",
+      "surahs": [
+        90,
+        91,
+        92
+      ],
+      "surah_starts": [
+        91,
+        92
+      ],
+      "verse_count": 26,
+      "word_count": 116
+    },
+    {
+      "page_number": 596,
+      "first_verse": "92:10",
+      "last_verse": "94:2",
+      "surahs": [
+        92,
+        93,
+        94
+      ],
+      "surah_starts": [
+        93,
+        94
+      ],
+      "verse_count": 25,
+      "word_count": 116
+    },
+    {
+      "page_number": 597,
+      "first_verse": "94:3",
+      "last_verse": "96:12",
+      "surahs": [
+        94,
+        95,
+        96
+      ],
+      "surah_starts": [
+        95,
+        96
+      ],
+      "verse_count": 26,
+      "word_count": 125
+    },
+    {
+      "page_number": 598,
+      "first_verse": "96:13",
+      "last_verse": "98:5",
+      "surahs": [
+        96,
+        97,
+        98
+      ],
+      "surah_starts": [
+        97,
+        98
+      ],
+      "verse_count": 17,
+      "word_count": 122
+    },
+    {
+      "page_number": 599,
+      "first_verse": "98:6",
+      "last_verse": "100:5",
+      "surahs": [
+        98,
+        99,
+        100
+      ],
+      "surah_starts": [
+        99,
+        100
+      ],
+      "verse_count": 16,
+      "word_count": 110
+    },
+    {
+      "page_number": 600,
+      "first_verse": "100:6",
+      "last_verse": "102:8",
+      "surahs": [
+        100,
+        101,
+        102
+      ],
+      "surah_starts": [
+        101,
+        102
+      ],
+      "verse_count": 25,
+      "word_count": 117
+    },
+    {
+      "page_number": 601,
+      "first_verse": "103:1",
+      "last_verse": "105:5",
+      "surahs": [
+        103,
+        104,
+        105
+      ],
+      "surah_starts": [
+        103,
+        104,
+        105
+      ],
+      "verse_count": 17,
+      "word_count": 87
+    },
+    {
+      "page_number": 602,
+      "first_verse": "106:1",
+      "last_verse": "108:3",
+      "surahs": [
+        106,
+        107,
+        108
+      ],
+      "surah_starts": [
+        106,
+        107,
+        108
+      ],
+      "verse_count": 14,
+      "word_count": 66
+    },
+    {
+      "page_number": 603,
+      "first_verse": "109:1",
+      "last_verse": "111:5",
+      "surahs": [
+        109,
+        110,
+        111,
+        112
+      ],
+      "surah_starts": [
+        109,
+        110,
+        111,
+        112
+      ],
+      "verse_count": 14,
+      "word_count": 82
+    },
+    {
+      "page_number": 604,
+      "first_verse": "112:1",
+      "last_verse": "114:6",
+      "surahs": [
+        112,
+        113,
+        114
+      ],
+      "surah_starts": [
+        112,
+        113,
+        114
+      ],
+      "verse_count": 15,
+      "word_count": 73
+    }
+  ]
+}

@@ -1,0 +1,939 @@
+{
+  "page_number": 593,
+  "mushaf_id": 5,
+  "first_verse": "88:23",
+  "last_verse": "89:22",
+  "surahs_in_page": [
+    88,
+    89
+  ],
+  "surah_starts": [
+    89
+  ],
+  "verses": [
+    {
+      "surah": 88,
+      "ayah": 23,
+      "verse_key": "88:23",
+      "text": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "words": [
+        {
+          "id": 704548,
+          "text": "إِلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 704549,
+          "text": "مَن",
+          "char_type": "word"
+        },
+        {
+          "id": 704550,
+          "text": "تَوَلَّىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 704551,
+          "text": "وَكَفَرَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704552,
+          "text": "٢٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 88,
+      "ayah": 24,
+      "verse_key": "88:24",
+      "text": "فَيُعَذِّبُهُ ٱللَّهُ ٱلۡعَذَابَ ٱلۡأَكۡبَرَ",
+      "words": [
+        {
+          "id": 704553,
+          "text": "فَيُعَذِّبُهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704554,
+          "text": "ٱللَّهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704555,
+          "text": "ٱلۡعَذَابَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704556,
+          "text": "ٱلۡأَكۡبَرَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704557,
+          "text": "٢٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 88,
+      "ayah": 25,
+      "verse_key": "88:25",
+      "text": "إِنَّ إِلَيۡنَآ إِيَابَهُمۡ",
+      "words": [
+        {
+          "id": 704558,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 704559,
+          "text": "إِلَيۡنَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 704560,
+          "text": "إِيَابَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704561,
+          "text": "٢٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 88,
+      "ayah": 26,
+      "verse_key": "88:26",
+      "text": "ثُمَّ إِنَّ عَلَيۡنَا حِسَابَهُم",
+      "words": [
+        {
+          "id": 704562,
+          "text": "ثُمَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 704563,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 704564,
+          "text": "عَلَيۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704565,
+          "text": "حِسَابَهُم",
+          "char_type": "word"
+        },
+        {
+          "id": 704566,
+          "text": "٢٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 1,
+      "verse_key": "89:1",
+      "text": "وَٱلۡفَجۡرِ",
+      "words": [
+        {
+          "id": 704567,
+          "text": "وَٱلۡفَجۡرِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704568,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 2,
+      "verse_key": "89:2",
+      "text": "وَلَيَالٍ عَشۡرٖ",
+      "words": [
+        {
+          "id": 704569,
+          "text": "وَلَيَالٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 704570,
+          "text": "عَشۡرٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 704571,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 3,
+      "verse_key": "89:3",
+      "text": "وَٱلشَّفۡعِ وَٱلۡوَتۡرِ",
+      "words": [
+        {
+          "id": 704572,
+          "text": "وَٱلشَّفۡعِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704573,
+          "text": "وَٱلۡوَتۡرِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704574,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 4,
+      "verse_key": "89:4",
+      "text": "وَٱلَّيۡلِ إِذَا يَسۡرِ",
+      "words": [
+        {
+          "id": 704575,
+          "text": "وَٱلَّيۡلِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704576,
+          "text": "إِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704577,
+          "text": "يَسۡرِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704578,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 5,
+      "verse_key": "89:5",
+      "text": "هَلۡ فِي ذَٰلِكَ قَسَمٞ لِّذِي حِجۡرٍ",
+      "words": [
+        {
+          "id": 704579,
+          "text": "هَلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704580,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704581,
+          "text": "ذَٰلِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704582,
+          "text": "قَسَمٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 704583,
+          "text": "لِّذِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704584,
+          "text": "حِجۡرٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 704585,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 6,
+      "verse_key": "89:6",
+      "text": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "words": [
+        {
+          "id": 704586,
+          "text": "أَلَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704587,
+          "text": "تَرَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704588,
+          "text": "كَيۡفَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704589,
+          "text": "فَعَلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704590,
+          "text": "رَبُّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704591,
+          "text": "بِعَادٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 704592,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 7,
+      "verse_key": "89:7",
+      "text": "إِرَمَ ذَاتِ ٱلۡعِمَادِ",
+      "words": [
+        {
+          "id": 704593,
+          "text": "إِرَمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704594,
+          "text": "ذَاتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704595,
+          "text": "ٱلۡعِمَادِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704596,
+          "text": "٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 8,
+      "verse_key": "89:8",
+      "text": "ٱلَّتِي لَمۡ يُخۡلَقۡ مِثۡلُهَا فِي ٱلۡبِلَٰدِ",
+      "words": [
+        {
+          "id": 704597,
+          "text": "ٱلَّتِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704598,
+          "text": "لَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704599,
+          "text": "يُخۡلَقۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704600,
+          "text": "مِثۡلُهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704601,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704602,
+          "text": "ٱلۡبِلَٰدِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704603,
+          "text": "٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 9,
+      "verse_key": "89:9",
+      "text": "وَثَمُودَ ٱلَّذِينَ جَابُواْ ٱلصَّخۡرَ بِٱلۡوَادِ",
+      "words": [
+        {
+          "id": 704604,
+          "text": "وَثَمُودَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704605,
+          "text": "ٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704606,
+          "text": "جَابُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 704607,
+          "text": "ٱلصَّخۡرَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704608,
+          "text": "بِٱلۡوَادِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704609,
+          "text": "٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 10,
+      "verse_key": "89:10",
+      "text": "وَفِرۡعَوۡنَ ذِي ٱلۡأَوۡتَادِ",
+      "words": [
+        {
+          "id": 704610,
+          "text": "وَفِرۡعَوۡنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704611,
+          "text": "ذِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704612,
+          "text": "ٱلۡأَوۡتَادِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704613,
+          "text": "١٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 11,
+      "verse_key": "89:11",
+      "text": "ٱلَّذِينَ طَغَوۡاْ فِي ٱلۡبِلَٰدِ",
+      "words": [
+        {
+          "id": 704614,
+          "text": "ٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704615,
+          "text": "طَغَوۡاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 704616,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704617,
+          "text": "ٱلۡبِلَٰدِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704618,
+          "text": "١١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 12,
+      "verse_key": "89:12",
+      "text": "فَأَكۡثَرُواْ فِيهَا ٱلۡفَسَادَ",
+      "words": [
+        {
+          "id": 704619,
+          "text": "فَأَكۡثَرُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 704620,
+          "text": "فِيهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704621,
+          "text": "ٱلۡفَسَادَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704622,
+          "text": "١٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 13,
+      "verse_key": "89:13",
+      "text": "فَصَبَّ عَلَيۡهِمۡ رَبُّكَ سَوۡطَ عَذَابٍ",
+      "words": [
+        {
+          "id": 704623,
+          "text": "فَصَبَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 704624,
+          "text": "عَلَيۡهِمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704625,
+          "text": "رَبُّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704626,
+          "text": "سَوۡطَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704627,
+          "text": "عَذَابٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 704628,
+          "text": "١٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 14,
+      "verse_key": "89:14",
+      "text": "إِنَّ رَبَّكَ لَبِٱلۡمِرۡصَادِ",
+      "words": [
+        {
+          "id": 704629,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 704630,
+          "text": "رَبَّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704631,
+          "text": "لَبِٱلۡمِرۡصَادِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704632,
+          "text": "١٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 15,
+      "verse_key": "89:15",
+      "text": "فَأَمَّا ٱلۡإِنسَٰنُ إِذَا مَا ٱبۡتَلَىٰهُ رَبُّهُۥ فَأَكۡرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّيٓ أَكۡرَمَنِ",
+      "words": [
+        {
+          "id": 704633,
+          "text": "فَأَمَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 704634,
+          "text": "ٱلۡإِنسَٰنُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704635,
+          "text": "إِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704636,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704637,
+          "text": "ٱبۡتَلَىٰهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704638,
+          "text": "رَبُّهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 704639,
+          "text": "فَأَكۡرَمَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 704640,
+          "text": "وَنَعَّمَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 704641,
+          "text": "فَيَقُولُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704642,
+          "text": "رَبِّيٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 704643,
+          "text": "أَكۡرَمَنِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704644,
+          "text": "١٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 16,
+      "verse_key": "89:16",
+      "text": "وَأَمَّآ إِذَا مَا ٱبۡتَلَىٰهُ فَقَدَرَ عَلَيۡهِ رِزۡقَهُۥ فَيَقُولُ رَبِّيٓ أَهَٰنَنِ",
+      "words": [
+        {
+          "id": 704645,
+          "text": "وَأَمَّآ",
+          "char_type": "word"
+        },
+        {
+          "id": 704646,
+          "text": "إِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704647,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704648,
+          "text": "ٱبۡتَلَىٰهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704649,
+          "text": "فَقَدَرَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704650,
+          "text": "عَلَيۡهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704651,
+          "text": "رِزۡقَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 704652,
+          "text": "فَيَقُولُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704653,
+          "text": "رَبِّيٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 704654,
+          "text": "أَهَٰنَنِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704655,
+          "text": "١٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 17,
+      "verse_key": "89:17",
+      "text": "كـَلَّاۖ بَل لَّا تُكۡرِمُونَ ٱلۡيَتِيمَ",
+      "words": [
+        {
+          "id": 704656,
+          "text": "كـَلَّاۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 704658,
+          "text": "بَل",
+          "char_type": "word"
+        },
+        {
+          "id": 704659,
+          "text": "لَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 704660,
+          "text": "تُكۡرِمُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704661,
+          "text": "ٱلۡيَتِيمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704662,
+          "text": "١٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 18,
+      "verse_key": "89:18",
+      "text": "وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+      "words": [
+        {
+          "id": 704663,
+          "text": "وَلَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704664,
+          "text": "تَحَٰٓضُّونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704665,
+          "text": "عَلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 704666,
+          "text": "طَعَامِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704667,
+          "text": "ٱلۡمِسۡكِينِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704668,
+          "text": "١٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 19,
+      "verse_key": "89:19",
+      "text": "وَتَأۡكُلُونَ ٱلتُّرَاثَ أَكۡلٗا لَّمّٗا",
+      "words": [
+        {
+          "id": 704669,
+          "text": "وَتَأۡكُلُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704670,
+          "text": "ٱلتُّرَاثَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704671,
+          "text": "أَكۡلٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 704672,
+          "text": "لَّمّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 704673,
+          "text": "١٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 20,
+      "verse_key": "89:20",
+      "text": "وَتُحِبُّونَ ٱلۡمَالَ حُبّٗا جَمّٗا",
+      "words": [
+        {
+          "id": 704674,
+          "text": "وَتُحِبُّونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704675,
+          "text": "ٱلۡمَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704676,
+          "text": "حُبّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 704677,
+          "text": "جَمّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 704678,
+          "text": "٢٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 21,
+      "verse_key": "89:21",
+      "text": "كـَلَّآۖ إِذَا دُكَّتِ ٱلۡأَرۡضُ دَكّٗا دَكّٗا",
+      "words": [
+        {
+          "id": 704679,
+          "text": "كـَلَّآۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 704680,
+          "text": "إِذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704681,
+          "text": "دُكَّتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704682,
+          "text": "ٱلۡأَرۡضُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704683,
+          "text": "دَكّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 704684,
+          "text": "دَكّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 704685,
+          "text": "٢١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "ayah": 22,
+      "verse_key": "89:22",
+      "text": "وَجَآءَ رَبُّكَ وَٱلۡمَلَكُ صَفّٗا صَفّٗا",
+      "words": [
+        {
+          "id": 704686,
+          "text": "وَجَآءَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704687,
+          "text": "رَبُّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704688,
+          "text": "وَٱلۡمَلَكُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704689,
+          "text": "صَفّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 704690,
+          "text": "صَفّٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 704691,
+          "text": "٢٢",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 143
+}

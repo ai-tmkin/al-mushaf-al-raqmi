@@ -1,0 +1,917 @@
+{
+  "page_number": 525,
+  "mushaf_id": 5,
+  "first_verse": "52:32",
+  "last_verse": "52:49",
+  "surahs_in_page": [
+    52
+  ],
+  "surah_starts": [],
+  "verses": [
+    {
+      "surah": 52,
+      "ayah": 32,
+      "verse_key": "52:32",
+      "text": "أَمۡ تَأۡمُرُهُمۡ أَحۡلَٰمُهُم بِهَٰذَآۚ أَمۡ هُمۡ قَوۡمٞ طَاغُونَ",
+      "words": [
+        {
+          "id": 694291,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694292,
+          "text": "تَأۡمُرُهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694293,
+          "text": "أَحۡلَٰمُهُم",
+          "char_type": "word"
+        },
+        {
+          "id": 694294,
+          "text": "بِهَٰذَآۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 694296,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694297,
+          "text": "هُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694298,
+          "text": "قَوۡمٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 694299,
+          "text": "طَاغُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694300,
+          "text": "٣٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 33,
+      "verse_key": "52:33",
+      "text": "أَمۡ يَقُولُونَ تَقَوَّلَهُۥۚ بَل لَّا يُؤۡمِنُونَ",
+      "words": [
+        {
+          "id": 694301,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694302,
+          "text": "يَقُولُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694303,
+          "text": "تَقَوَّلَهُۥۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 694305,
+          "text": "بَل",
+          "char_type": "word"
+        },
+        {
+          "id": 694306,
+          "text": "لَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 694307,
+          "text": "يُؤۡمِنُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694308,
+          "text": "٣٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 34,
+      "verse_key": "52:34",
+      "text": "فَلۡيَأۡتُواْ بِحَدِيثٖ مِّثۡلِهِۦٓ إِن كَانُواْ صَٰدِقِينَ",
+      "words": [
+        {
+          "id": 694309,
+          "text": "فَلۡيَأۡتُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 694310,
+          "text": "بِحَدِيثٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 694311,
+          "text": "مِّثۡلِهِۦٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 694312,
+          "text": "إِن",
+          "char_type": "word"
+        },
+        {
+          "id": 694313,
+          "text": "كَانُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 694314,
+          "text": "صَٰدِقِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694315,
+          "text": "٣٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 35,
+      "verse_key": "52:35",
+      "text": "أَمۡ خُلِقُواْ مِنۡ غَيۡرِ شَيۡءٍ أَمۡ هُمُ ٱلۡخَٰلِقُونَ",
+      "words": [
+        {
+          "id": 694316,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694317,
+          "text": "خُلِقُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 694318,
+          "text": "مِنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694319,
+          "text": "غَيۡرِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694320,
+          "text": "شَيۡءٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 694321,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694322,
+          "text": "هُمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694323,
+          "text": "ٱلۡخَٰلِقُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694324,
+          "text": "٣٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 36,
+      "verse_key": "52:36",
+      "text": "أَمۡ خَلَقُواْ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَۚ بَل لَّا يُوقِنُونَ",
+      "words": [
+        {
+          "id": 694325,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694326,
+          "text": "خَلَقُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 694327,
+          "text": "ٱلسَّمَٰوَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694328,
+          "text": "وَٱلۡأَرۡضَۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 694330,
+          "text": "بَل",
+          "char_type": "word"
+        },
+        {
+          "id": 694331,
+          "text": "لَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 694332,
+          "text": "يُوقِنُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694333,
+          "text": "٣٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 37,
+      "verse_key": "52:37",
+      "text": "أَمۡ عِندَهُمۡ خَزَآئِنُ رَبِّكَ أَمۡ هُمُ ٱلۡمُصَۜيۡطِرُونَ",
+      "words": [
+        {
+          "id": 694334,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694335,
+          "text": "عِندَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694336,
+          "text": "خَزَآئِنُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694337,
+          "text": "رَبِّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694338,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694339,
+          "text": "هُمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694340,
+          "text": "ٱلۡمُصَۜيۡطِرُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694341,
+          "text": "٣٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 38,
+      "verse_key": "52:38",
+      "text": "أَمۡ لَهُمۡ سُلَّمٞ يَسۡتَمِعُونَ فِيهِۖ فَلۡيَأۡتِ مُسۡتَمِعُهُم بِسُلۡطَٰنٖ مُّبِينٍ",
+      "words": [
+        {
+          "id": 694342,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694343,
+          "text": "لَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694344,
+          "text": "سُلَّمٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 694345,
+          "text": "يَسۡتَمِعُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694346,
+          "text": "فِيهِۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 694348,
+          "text": "فَلۡيَأۡتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694349,
+          "text": "مُسۡتَمِعُهُم",
+          "char_type": "word"
+        },
+        {
+          "id": 694350,
+          "text": "بِسُلۡطَٰنٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 694351,
+          "text": "مُّبِينٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 694352,
+          "text": "٣٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 39,
+      "verse_key": "52:39",
+      "text": "أَمۡ لَهُ ٱلۡبَنَٰتُ وَلَكُمُ ٱلۡبَنُونَ",
+      "words": [
+        {
+          "id": 694353,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694354,
+          "text": "لَهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694355,
+          "text": "ٱلۡبَنَٰتُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694356,
+          "text": "وَلَكُمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694357,
+          "text": "ٱلۡبَنُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694358,
+          "text": "٣٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 40,
+      "verse_key": "52:40",
+      "text": "أَمۡ تَسۡـَٔلُهُمۡ أَجۡرٗا فَهُم مِّن مَّغۡرَمٖ مُّثۡقَلُونَ",
+      "words": [
+        {
+          "id": 694359,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694360,
+          "text": "تَسۡـَٔلُهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694361,
+          "text": "أَجۡرٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 694362,
+          "text": "فَهُم",
+          "char_type": "word"
+        },
+        {
+          "id": 694363,
+          "text": "مِّن",
+          "char_type": "word"
+        },
+        {
+          "id": 694364,
+          "text": "مَّغۡرَمٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 694365,
+          "text": "مُّثۡقَلُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694366,
+          "text": "٤٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 41,
+      "verse_key": "52:41",
+      "text": "أَمۡ عِندَهُمُ ٱلۡغَيۡبُ فَهُمۡ يَكۡتُبُونَ",
+      "words": [
+        {
+          "id": 694367,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694368,
+          "text": "عِندَهُمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694369,
+          "text": "ٱلۡغَيۡبُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694370,
+          "text": "فَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694371,
+          "text": "يَكۡتُبُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694372,
+          "text": "٤١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 42,
+      "verse_key": "52:42",
+      "text": "أَمۡ يُرِيدُونَ كَيۡدٗاۖ فَٱلَّذِينَ كَفَرُواْ هُمُ ٱلۡمَكِيدُونَ",
+      "words": [
+        {
+          "id": 694373,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694374,
+          "text": "يُرِيدُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694375,
+          "text": "كَيۡدٗاۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 694377,
+          "text": "فَٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694378,
+          "text": "كَفَرُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 694379,
+          "text": "هُمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694380,
+          "text": "ٱلۡمَكِيدُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694381,
+          "text": "٤٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 43,
+      "verse_key": "52:43",
+      "text": "أَمۡ لَهُمۡ إِلَٰهٌ غَيۡرُ ٱللَّهِۚ سُبۡحَٰنَ ٱللَّهِ عَمَّا يُشۡرِكُونَ",
+      "words": [
+        {
+          "id": 694382,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694383,
+          "text": "لَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694384,
+          "text": "إِلَٰهٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 694385,
+          "text": "غَيۡرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694386,
+          "text": "ٱللَّهِۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 694388,
+          "text": "سُبۡحَٰنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694389,
+          "text": "ٱللَّهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694390,
+          "text": "عَمَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 694391,
+          "text": "يُشۡرِكُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694392,
+          "text": "٤٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 44,
+      "verse_key": "52:44",
+      "text": "وَإِن يَرَوۡاْ كِسۡفٗا مِّنَ ٱلسَّمَآءِ سَاقِطٗا يَقُولُواْ سَحَابٞ مَّرۡكُومٞ",
+      "words": [
+        {
+          "id": 694393,
+          "text": "وَإِن",
+          "char_type": "word"
+        },
+        {
+          "id": 694394,
+          "text": "يَرَوۡاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 694395,
+          "text": "كِسۡفٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 694396,
+          "text": "مِّنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694397,
+          "text": "ٱلسَّمَآءِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694398,
+          "text": "سَاقِطٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 694399,
+          "text": "يَقُولُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 694400,
+          "text": "سَحَابٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 694401,
+          "text": "مَّرۡكُومٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 694402,
+          "text": "٤٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 45,
+      "verse_key": "52:45",
+      "text": "فَذَرۡهُمۡ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي فِيهِ يُصۡعَقُونَ",
+      "words": [
+        {
+          "id": 694403,
+          "text": "فَذَرۡهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694404,
+          "text": "حَتَّىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 694405,
+          "text": "يُلَٰقُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 694406,
+          "text": "يَوۡمَهُمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694407,
+          "text": "ٱلَّذِي",
+          "char_type": "word"
+        },
+        {
+          "id": 694408,
+          "text": "فِيهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694409,
+          "text": "يُصۡعَقُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694410,
+          "text": "٤٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 46,
+      "verse_key": "52:46",
+      "text": "يَوۡمَ لَا يُغۡنِي عَنۡهُمۡ كَيۡدُهُمۡ شَيۡـٔٗا وَلَا هُمۡ يُنصَرُونَ",
+      "words": [
+        {
+          "id": 694411,
+          "text": "يَوۡمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694412,
+          "text": "لَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694413,
+          "text": "يُغۡنِي",
+          "char_type": "word"
+        },
+        {
+          "id": 694414,
+          "text": "عَنۡهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694415,
+          "text": "كَيۡدُهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694416,
+          "text": "شَيۡـٔٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 694417,
+          "text": "وَلَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694418,
+          "text": "هُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694419,
+          "text": "يُنصَرُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694420,
+          "text": "٤٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 47,
+      "verse_key": "52:47",
+      "text": "وَإِنَّ لِلَّذِينَ ظَلَمُواْ عَذَابٗا دُونَ ذَٰلِكَ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+      "words": [
+        {
+          "id": 694421,
+          "text": "وَإِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 694422,
+          "text": "لِلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694423,
+          "text": "ظَلَمُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 694424,
+          "text": "عَذَابٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 694425,
+          "text": "دُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694426,
+          "text": "ذَٰلِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694427,
+          "text": "وَلَٰكِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 694428,
+          "text": "أَكۡثَرَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694429,
+          "text": "لَا",
+          "char_type": "word"
+        },
+        {
+          "id": 694430,
+          "text": "يَعۡلَمُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694431,
+          "text": "٤٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 48,
+      "verse_key": "52:48",
+      "text": "وَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ فَإِنَّكَ بِأَعۡيُنِنَاۖ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ حِينَ تَقُومُ",
+      "words": [
+        {
+          "id": 694432,
+          "text": "وَٱصۡبِرۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694433,
+          "text": "لِحُكۡمِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694434,
+          "text": "رَبِّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694435,
+          "text": "فَإِنَّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694436,
+          "text": "بِأَعۡيُنِنَاۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 694438,
+          "text": "وَسَبِّحۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 694439,
+          "text": "بِحَمۡدِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694440,
+          "text": "رَبِّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694441,
+          "text": "حِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694442,
+          "text": "تَقُومُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694443,
+          "text": "٤٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 52,
+      "ayah": 49,
+      "verse_key": "52:49",
+      "text": "وَمِنَ ٱلَّيۡلِ فَسَبِّحۡهُ وَإِدۡبَٰرَ ٱلنُّجُومِ",
+      "words": [
+        {
+          "id": 694444,
+          "text": "وَمِنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694445,
+          "text": "ٱلَّيۡلِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694446,
+          "text": "فَسَبِّحۡهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 694447,
+          "text": "وَإِدۡبَٰرَ",
+          "char_type": "word"
+        },
+        {
+          "id": 694448,
+          "text": "ٱلنُّجُومِ",
+          "char_type": "word"
+        },
+        {
+          "id": 694449,
+          "text": "٤٩",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 152
+}

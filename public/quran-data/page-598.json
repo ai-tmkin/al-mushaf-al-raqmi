@@ -1,0 +1,764 @@
+{
+  "page_number": 598,
+  "mushaf_id": 5,
+  "first_verse": "96:13",
+  "last_verse": "98:5",
+  "surahs_in_page": [
+    96,
+    97,
+    98
+  ],
+  "surah_starts": [
+    97,
+    98
+  ],
+  "verses": [
+    {
+      "surah": 96,
+      "ayah": 13,
+      "verse_key": "96:13",
+      "text": "أَرَءَيۡتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "words": [
+        {
+          "id": 705184,
+          "text": "أَرَءَيۡتَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705185,
+          "text": "إِن",
+          "char_type": "word"
+        },
+        {
+          "id": 705186,
+          "text": "كَذَّبَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705187,
+          "text": "وَتَوَلَّىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 705188,
+          "text": "١٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 96,
+      "ayah": 14,
+      "verse_key": "96:14",
+      "text": "أَلَمۡ يَعۡلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "words": [
+        {
+          "id": 705189,
+          "text": "أَلَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705190,
+          "text": "يَعۡلَم",
+          "char_type": "word"
+        },
+        {
+          "id": 705191,
+          "text": "بِأَنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 705192,
+          "text": "ٱللَّهَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705193,
+          "text": "يَرَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 705194,
+          "text": "١٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 96,
+      "ayah": 15,
+      "verse_key": "96:15",
+      "text": "كـَلَّا لَئِن لَّمۡ يَنتَهِ لَنَسۡفَعَۢا بِٱلنَّاصِيَةِ",
+      "words": [
+        {
+          "id": 705195,
+          "text": "كـَلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 705196,
+          "text": "لَئِن",
+          "char_type": "word"
+        },
+        {
+          "id": 705197,
+          "text": "لَّمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705198,
+          "text": "يَنتَهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705199,
+          "text": "لَنَسۡفَعَۢا",
+          "char_type": "word"
+        },
+        {
+          "id": 705200,
+          "text": "بِٱلنَّاصِيَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705201,
+          "text": "١٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 96,
+      "ayah": 16,
+      "verse_key": "96:16",
+      "text": "نَاصِيَةٖ كَٰذِبَةٍ خَاطِئَةٖ",
+      "words": [
+        {
+          "id": 705202,
+          "text": "نَاصِيَةٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705203,
+          "text": "كَٰذِبَةٍ",
+          "char_type": "word"
+        },
+        {
+          "id": 705204,
+          "text": "خَاطِئَةٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705205,
+          "text": "١٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 96,
+      "ayah": 17,
+      "verse_key": "96:17",
+      "text": "فَلۡيَدۡعُ نَادِيَهُۥ",
+      "words": [
+        {
+          "id": 705206,
+          "text": "فَلۡيَدۡعُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705207,
+          "text": "نَادِيَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 705208,
+          "text": "١٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 96,
+      "ayah": 18,
+      "verse_key": "96:18",
+      "text": "سَنَدۡعُ ٱلزَّبَانِيَةَ",
+      "words": [
+        {
+          "id": 705209,
+          "text": "سَنَدۡعُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705210,
+          "text": "ٱلزَّبَانِيَةَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705211,
+          "text": "١٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 96,
+      "ayah": 19,
+      "verse_key": "96:19",
+      "text": "كـَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩",
+      "words": [
+        {
+          "id": 705212,
+          "text": "كـَلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 705213,
+          "text": "لَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705214,
+          "text": "تُطِعۡهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705215,
+          "text": "وَٱسۡجُدۡۤ",
+          "char_type": "word"
+        },
+        {
+          "id": 705216,
+          "text": "وَٱقۡتَرِب۩",
+          "char_type": "word"
+        },
+        {
+          "id": 705218,
+          "text": "١٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 97,
+      "ayah": 1,
+      "verse_key": "97:1",
+      "text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
+      "words": [
+        {
+          "id": 705219,
+          "text": "إِنَّآ",
+          "char_type": "word"
+        },
+        {
+          "id": 705220,
+          "text": "أَنزَلۡنَٰهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705221,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 705222,
+          "text": "لَيۡلَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705223,
+          "text": "ٱلۡقَدۡرِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705224,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 97,
+      "ayah": 2,
+      "verse_key": "97:2",
+      "text": "وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ",
+      "words": [
+        {
+          "id": 705225,
+          "text": "وَمَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 705226,
+          "text": "أَدۡرَىٰكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705227,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705228,
+          "text": "لَيۡلَةُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705229,
+          "text": "ٱلۡقَدۡرِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705230,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 97,
+      "ayah": 3,
+      "verse_key": "97:3",
+      "text": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ",
+      "words": [
+        {
+          "id": 705231,
+          "text": "لَيۡلَةُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705232,
+          "text": "ٱلۡقَدۡرِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705233,
+          "text": "خَيۡرٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 705234,
+          "text": "مِّنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705235,
+          "text": "أَلۡفِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705236,
+          "text": "شَهۡرٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705237,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 97,
+      "ayah": 4,
+      "verse_key": "97:4",
+      "text": "تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ",
+      "words": [
+        {
+          "id": 705238,
+          "text": "تَنَزَّلُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705239,
+          "text": "ٱلۡمَلَٰٓئِكَةُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705240,
+          "text": "وَٱلرُّوحُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705241,
+          "text": "فِيهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705242,
+          "text": "بِإِذۡنِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705243,
+          "text": "رَبِّهِم",
+          "char_type": "word"
+        },
+        {
+          "id": 705244,
+          "text": "مِّن",
+          "char_type": "word"
+        },
+        {
+          "id": 705245,
+          "text": "كُلِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 705246,
+          "text": "أَمۡرٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 705247,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 97,
+      "ayah": 5,
+      "verse_key": "97:5",
+      "text": "سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ",
+      "words": [
+        {
+          "id": 705248,
+          "text": "سَلَٰمٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 705249,
+          "text": "هِيَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705250,
+          "text": "حَتَّىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 705251,
+          "text": "مَطۡلَعِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705252,
+          "text": "ٱلۡفَجۡرِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705253,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 98,
+      "ayah": 1,
+      "verse_key": "98:1",
+      "text": "لَمۡ يَكُنِ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَٱلۡمُشۡرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأۡتِيَهُمُ ٱلۡبَيِّنَةُ",
+      "words": [
+        {
+          "id": 705254,
+          "text": "لَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705255,
+          "text": "يَكُنِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705256,
+          "text": "ٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705257,
+          "text": "كَفَرُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 705258,
+          "text": "مِنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 705259,
+          "text": "أَهۡلِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705260,
+          "text": "ٱلۡكِتَٰبِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705261,
+          "text": "وَٱلۡمُشۡرِكِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705262,
+          "text": "مُنفَكِّينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705263,
+          "text": "حَتَّىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 705264,
+          "text": "تَأۡتِيَهُمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705265,
+          "text": "ٱلۡبَيِّنَةُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705266,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 98,
+      "ayah": 2,
+      "verse_key": "98:2",
+      "text": "رَسُولٞ مِّنَ ٱللَّهِ يَتۡلُواْ صُحُفٗا مُّطَهَّرَةٗ",
+      "words": [
+        {
+          "id": 705267,
+          "text": "رَسُولٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 705268,
+          "text": "مِّنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705269,
+          "text": "ٱللَّهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705270,
+          "text": "يَتۡلُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 705271,
+          "text": "صُحُفٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 705272,
+          "text": "مُّطَهَّرَةٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 705273,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 98,
+      "ayah": 3,
+      "verse_key": "98:3",
+      "text": "فِيهَا كُتُبٞ قَيِّمَةٞ",
+      "words": [
+        {
+          "id": 705274,
+          "text": "فِيهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705275,
+          "text": "كُتُبٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 705276,
+          "text": "قَيِّمَةٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 705277,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 98,
+      "ayah": 4,
+      "verse_key": "98:4",
+      "text": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ إِلَّا مِنۢ بَعۡدِ مَا جَآءَتۡهُمُ ٱلۡبَيِّنَةُ",
+      "words": [
+        {
+          "id": 705278,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705279,
+          "text": "تَفَرَّقَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705280,
+          "text": "ٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705281,
+          "text": "أُوتُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 705282,
+          "text": "ٱلۡكِتَٰبَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705283,
+          "text": "إِلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 705284,
+          "text": "مِنۢ",
+          "char_type": "word"
+        },
+        {
+          "id": 705285,
+          "text": "بَعۡدِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705286,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 705287,
+          "text": "جَآءَتۡهُمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705288,
+          "text": "ٱلۡبَيِّنَةُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705289,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 98,
+      "ayah": 5,
+      "verse_key": "98:5",
+      "text": "وَمَآ أُمِرُوٓاْ إِلَّا لِيَعۡبُدُواْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُواْ ٱلصَّلَوٰةَ وَيُؤۡتُواْ ٱلزَّكَوٰةَۚ وَذَٰلِكَ دِينُ ٱلۡقَيِّمَةِ",
+      "words": [
+        {
+          "id": 705290,
+          "text": "وَمَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 705291,
+          "text": "أُمِرُوٓاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 705292,
+          "text": "إِلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 705293,
+          "text": "لِيَعۡبُدُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 705294,
+          "text": "ٱللَّهَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705295,
+          "text": "مُخۡلِصِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705296,
+          "text": "لَهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705297,
+          "text": "ٱلدِّينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705298,
+          "text": "حُنَفَآءَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705299,
+          "text": "وَيُقِيمُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 705300,
+          "text": "ٱلصَّلَوٰةَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705301,
+          "text": "وَيُؤۡتُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 705302,
+          "text": "ٱلزَّكَوٰةَۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 705304,
+          "text": "وَذَٰلِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 705305,
+          "text": "دِينُ",
+          "char_type": "word"
+        },
+        {
+          "id": 705306,
+          "text": "ٱلۡقَيِّمَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 705307,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 122
+}

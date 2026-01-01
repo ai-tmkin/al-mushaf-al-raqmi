@@ -1,0 +1,913 @@
+{
+  "page_number": 453,
+  "mushaf_id": 5,
+  "first_verse": "38:1",
+  "last_verse": "38:16",
+  "surahs_in_page": [
+    38
+  ],
+  "surah_starts": [
+    38
+  ],
+  "verses": [
+    {
+      "surah": 38,
+      "ayah": 1,
+      "verse_key": "38:1",
+      "text": "صٓۚ وَٱلۡقُرۡءَانِ ذِي ٱلذِّكۡرِ",
+      "words": [
+        {
+          "id": 683510,
+          "text": "صٓۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 683512,
+          "text": "وَٱلۡقُرۡءَانِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683513,
+          "text": "ذِي",
+          "char_type": "word"
+        },
+        {
+          "id": 683514,
+          "text": "ٱلذِّكۡرِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683515,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 38,
+      "ayah": 2,
+      "verse_key": "38:2",
+      "text": "بَلِ ٱلَّذِينَ كَفَرُواْ فِي عِزَّةٖ وَشِقَاقٖ",
+      "words": [
+        {
+          "id": 683516,
+          "text": "بَلِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683517,
+          "text": "ٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683518,
+          "text": "كَفَرُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 683519,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 683520,
+          "text": "عِزَّةٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 683521,
+          "text": "وَشِقَاقٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 683522,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 38,
+      "ayah": 3,
+      "verse_key": "38:3",
+      "text": "كَمۡ أَهۡلَكۡنَا مِن قَبۡلِهِم مِّن قَرۡنٖ فَنَادَواْ وَّلَاتَ حِينَ مَنَاصٖ",
+      "words": [
+        {
+          "id": 683523,
+          "text": "كَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 683524,
+          "text": "أَهۡلَكۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683525,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 683526,
+          "text": "قَبۡلِهِم",
+          "char_type": "word"
+        },
+        {
+          "id": 683527,
+          "text": "مِّن",
+          "char_type": "word"
+        },
+        {
+          "id": 683528,
+          "text": "قَرۡنٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 683529,
+          "text": "فَنَادَواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 683530,
+          "text": "وَّلَاتَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683531,
+          "text": "حِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683532,
+          "text": "مَنَاصٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 683533,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 38,
+      "ayah": 4,
+      "verse_key": "38:4",
+      "text": "وَعَجِبُوٓاْ أَن جَآءَهُم مُّنذِرٞ مِّنۡهُمۡۖ وَقَالَ ٱلۡكَٰفِرُونَ هَٰذَا سَٰحِرٞ كَذَّابٌ",
+      "words": [
+        {
+          "id": 683534,
+          "text": "وَعَجِبُوٓاْ",
+          "char_type": "word"
+        },
+        {
+          "id": 683535,
+          "text": "أَن",
+          "char_type": "word"
+        },
+        {
+          "id": 683536,
+          "text": "جَآءَهُم",
+          "char_type": "word"
+        },
+        {
+          "id": 683537,
+          "text": "مُّنذِرٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 683538,
+          "text": "مِّنۡهُمۡۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 683540,
+          "text": "وَقَالَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683541,
+          "text": "ٱلۡكَٰفِرُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683542,
+          "text": "هَٰذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683543,
+          "text": "سَٰحِرٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 683544,
+          "text": "كَذَّابٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 683545,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 38,
+      "ayah": 5,
+      "verse_key": "38:5",
+      "text": "أَجَعَلَ ٱلۡأٓلِهَةَ إِلَٰهٗا وَٰحِدًاۖ إِنَّ هَٰذَا لَشَيۡءٌ عُجَابٞ",
+      "words": [
+        {
+          "id": 683546,
+          "text": "أَجَعَلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683547,
+          "text": "ٱلۡأٓلِهَةَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683548,
+          "text": "إِلَٰهٗا",
+          "char_type": "word"
+        },
+        {
+          "id": 683549,
+          "text": "وَٰحِدًاۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 683551,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 683552,
+          "text": "هَٰذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683553,
+          "text": "لَشَيۡءٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 683554,
+          "text": "عُجَابٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 683555,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 38,
+      "ayah": 6,
+      "verse_key": "38:6",
+      "text": "وَٱنطَلَقَ ٱلۡمَلَأُ مِنۡهُمۡ أَنِ ٱمۡشُواْ وَٱصۡبِرُواْ عَلَىٰٓ ءَالِهَتِكُمۡۖ إِنَّ هَٰذَا لَشَيۡءٞ يُرَادُ",
+      "words": [
+        {
+          "id": 683556,
+          "text": "وَٱنطَلَقَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683557,
+          "text": "ٱلۡمَلَأُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683558,
+          "text": "مِنۡهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 683559,
+          "text": "أَنِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683560,
+          "text": "ٱمۡشُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 683561,
+          "text": "وَٱصۡبِرُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 683562,
+          "text": "عَلَىٰٓ",
+          "char_type": "word"
+        },
+        {
+          "id": 683563,
+          "text": "ءَالِهَتِكُمۡۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 683565,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 683566,
+          "text": "هَٰذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683567,
+          "text": "لَشَيۡءٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 683568,
+          "text": "يُرَادُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683569,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 38,
+      "ayah": 7,
+      "verse_key": "38:7",
+      "text": "مَا سَمِعۡنَا بِهَٰذَا فِي ٱلۡمِلَّةِ ٱلۡأٓخِرَةِ إِنۡ هَٰذَآ إِلَّا ٱخۡتِلَٰقٌ",
+      "words": [
+        {
+          "id": 683570,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683571,
+          "text": "سَمِعۡنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683572,
+          "text": "بِهَٰذَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683573,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 683574,
+          "text": "ٱلۡمِلَّةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683575,
+          "text": "ٱلۡأٓخِرَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683576,
+          "text": "إِنۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 683577,
+          "text": "هَٰذَآ",
+          "char_type": "word"
+        },
+        {
+          "id": 683578,
+          "text": "إِلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 683579,
+          "text": "ٱخۡتِلَٰقٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 683580,
+          "text": "٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 38,
+      "ayah": 8,
+      "verse_key": "38:8",
+      "text": "أَءُنزِلَ عَلَيۡهِ ٱلذِّكۡرُ مِنۢ بَيۡنِنَاۚ بَلۡ هُمۡ فِي شَكّٖ مِّن ذِكۡرِيۚ بَل لَّمَّا يَذُوقُواْ عَذَابِ",
+      "words": [
+        {
+          "id": 683581,
+          "text": "أَءُنزِلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683582,
+          "text": "عَلَيۡهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683583,
+          "text": "ٱلذِّكۡرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683584,
+          "text": "مِنۢ",
+          "char_type": "word"
+        },
+        {
+          "id": 683585,
+          "text": "بَيۡنِنَاۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 683587,
+          "text": "بَلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 683588,
+          "text": "هُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 683589,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 683590,
+          "text": "شَكّٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 683591,
+          "text": "مِّن",
+          "char_type": "word"
+        },
+        {
+          "id": 683592,
+          "text": "ذِكۡرِيۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 683594,
+          "text": "بَل",
+          "char_type": "word"
+        },
+        {
+          "id": 683595,
+          "text": "لَّمَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 683596,
+          "text": "يَذُوقُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 683597,
+          "text": "عَذَابِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683598,
+          "text": "٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 38,
+      "ayah": 9,
+      "verse_key": "38:9",
+      "text": "أَمۡ عِندَهُمۡ خَزَآئِنُ رَحۡمَةِ رَبِّكَ ٱلۡعَزِيزِ ٱلۡوَهَّابِ",
+      "words": [
+        {
+          "id": 683599,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 683600,
+          "text": "عِندَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 683601,
+          "text": "خَزَآئِنُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683602,
+          "text": "رَحۡمَةِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683603,
+          "text": "رَبِّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683604,
+          "text": "ٱلۡعَزِيزِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683605,
+          "text": "ٱلۡوَهَّابِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683606,
+          "text": "٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 38,
+      "ayah": 10,
+      "verse_key": "38:10",
+      "text": "أَمۡ لَهُم مُّلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَاۖ فَلۡيَرۡتَقُواْ فِي ٱلۡأَسۡبَٰبِ",
+      "words": [
+        {
+          "id": 683607,
+          "text": "أَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 683608,
+          "text": "لَهُم",
+          "char_type": "word"
+        },
+        {
+          "id": 683609,
+          "text": "مُّلۡكُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683610,
+          "text": "ٱلسَّمَٰوَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683611,
+          "text": "وَٱلۡأَرۡضِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683612,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683613,
+          "text": "بَيۡنَهُمَاۖ",
+          "char_type": "word"
+        },
+        {
+          "id": 683615,
+          "text": "فَلۡيَرۡتَقُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 683616,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 683617,
+          "text": "ٱلۡأَسۡبَٰبِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683618,
+          "text": "١٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 38,
+      "ayah": 11,
+      "verse_key": "38:11",
+      "text": "جُندٞ مَّا هُنَالِكَ مَهۡزُومٞ مِّنَ ٱلۡأَحۡزَابِ",
+      "words": [
+        {
+          "id": 683619,
+          "text": "جُندٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 683620,
+          "text": "مَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 683621,
+          "text": "هُنَالِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683622,
+          "text": "مَهۡزُومٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 683623,
+          "text": "مِّنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683624,
+          "text": "ٱلۡأَحۡزَابِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683625,
+          "text": "١١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 38,
+      "ayah": 12,
+      "verse_key": "38:12",
+      "text": "كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ وَعَادٞ وَفِرۡعَوۡنُ ذُو ٱلۡأَوۡتَادِ",
+      "words": [
+        {
+          "id": 683626,
+          "text": "كَذَّبَتۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 683627,
+          "text": "قَبۡلَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 683628,
+          "text": "قَوۡمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683629,
+          "text": "نُوحٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 683630,
+          "text": "وَعَادٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 683631,
+          "text": "وَفِرۡعَوۡنُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683632,
+          "text": "ذُو",
+          "char_type": "word"
+        },
+        {
+          "id": 683633,
+          "text": "ٱلۡأَوۡتَادِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683634,
+          "text": "١٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 38,
+      "ayah": 13,
+      "verse_key": "38:13",
+      "text": "وَثَمُودُ وَقَوۡمُ لُوطٖ وَأَصۡحَٰبُ لۡـَٔيۡكَةِۚ أُوْلَٰٓئِكَ ٱلۡأَحۡزَابُ",
+      "words": [
+        {
+          "id": 683635,
+          "text": "وَثَمُودُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683636,
+          "text": "وَقَوۡمُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683637,
+          "text": "لُوطٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 683638,
+          "text": "وَأَصۡحَٰبُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683639,
+          "text": "لۡـَٔيۡكَةِۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 683641,
+          "text": "أُوْلَٰٓئِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683642,
+          "text": "ٱلۡأَحۡزَابُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683643,
+          "text": "١٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 38,
+      "ayah": 14,
+      "verse_key": "38:14",
+      "text": "إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ",
+      "words": [
+        {
+          "id": 683644,
+          "text": "إِن",
+          "char_type": "word"
+        },
+        {
+          "id": 683645,
+          "text": "كُلٌّ",
+          "char_type": "word"
+        },
+        {
+          "id": 683646,
+          "text": "إِلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 683647,
+          "text": "كَذَّبَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683648,
+          "text": "ٱلرُّسُلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683649,
+          "text": "فَحَقَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 683650,
+          "text": "عِقَابِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683651,
+          "text": "١٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 38,
+      "ayah": 15,
+      "verse_key": "38:15",
+      "text": "وَمَا يَنظُرُ هَٰٓؤُلَآءِ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ مَّا لَهَا مِن فَوَاقٖ",
+      "words": [
+        {
+          "id": 683652,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683653,
+          "text": "يَنظُرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 683654,
+          "text": "هَٰٓؤُلَآءِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683655,
+          "text": "إِلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 683656,
+          "text": "صَيۡحَةٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 683657,
+          "text": "وَٰحِدَةٗ",
+          "char_type": "word"
+        },
+        {
+          "id": 683658,
+          "text": "مَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 683659,
+          "text": "لَهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683660,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 683661,
+          "text": "فَوَاقٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 683662,
+          "text": "١٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 38,
+      "ayah": 16,
+      "verse_key": "38:16",
+      "text": "وَقَالُواْ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبۡلَ يَوۡمِ ٱلۡحِسَابِ",
+      "words": [
+        {
+          "id": 683663,
+          "text": "وَقَالُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 683664,
+          "text": "رَبَّنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683665,
+          "text": "عَجِّل",
+          "char_type": "word"
+        },
+        {
+          "id": 683666,
+          "text": "لَّنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683667,
+          "text": "قِطَّنَا",
+          "char_type": "word"
+        },
+        {
+          "id": 683668,
+          "text": "قَبۡلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 683669,
+          "text": "يَوۡمِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683670,
+          "text": "ٱلۡحِسَابِ",
+          "char_type": "word"
+        },
+        {
+          "id": 683671,
+          "text": "١٦",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 154
+}

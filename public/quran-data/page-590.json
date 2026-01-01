@@ -1,0 +1,905 @@
+{
+  "page_number": 590,
+  "mushaf_id": 5,
+  "first_verse": "84:25",
+  "last_verse": "85:22",
+  "surahs_in_page": [
+    84,
+    85
+  ],
+  "surah_starts": [
+    85
+  ],
+  "verses": [
+    {
+      "surah": 84,
+      "ayah": 25,
+      "verse_key": "84:25",
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَهُمۡ أَجۡرٌ غَيۡرُ مَمۡنُونِۭ",
+      "words": [
+        {
+          "id": 704136,
+          "text": "إِلَّا",
+          "char_type": "word"
+        },
+        {
+          "id": 704137,
+          "text": "ٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704138,
+          "text": "ءَامَنُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 704139,
+          "text": "وَعَمِلُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 704140,
+          "text": "ٱلصَّٰلِحَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704141,
+          "text": "لَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704142,
+          "text": "أَجۡرٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 704143,
+          "text": "غَيۡرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704144,
+          "text": "مَمۡنُونِۭ",
+          "char_type": "word"
+        },
+        {
+          "id": 704145,
+          "text": "٢٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 1,
+      "verse_key": "85:1",
+      "text": "وَٱلسَّمَآءِ ذَاتِ ٱلۡبُرُوجِ",
+      "words": [
+        {
+          "id": 704146,
+          "text": "وَٱلسَّمَآءِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704147,
+          "text": "ذَاتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704148,
+          "text": "ٱلۡبُرُوجِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704149,
+          "text": "١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 2,
+      "verse_key": "85:2",
+      "text": "وَٱلۡيَوۡمِ ٱلۡمَوۡعُودِ",
+      "words": [
+        {
+          "id": 704150,
+          "text": "وَٱلۡيَوۡمِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704151,
+          "text": "ٱلۡمَوۡعُودِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704152,
+          "text": "٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 3,
+      "verse_key": "85:3",
+      "text": "وَشَاهِدٖ وَمَشۡهُودٖ",
+      "words": [
+        {
+          "id": 704153,
+          "text": "وَشَاهِدٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 704154,
+          "text": "وَمَشۡهُودٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 704155,
+          "text": "٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 4,
+      "verse_key": "85:4",
+      "text": "قُتِلَ أَصۡحَٰبُ ٱلۡأُخۡدُودِ",
+      "words": [
+        {
+          "id": 704156,
+          "text": "قُتِلَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704157,
+          "text": "أَصۡحَٰبُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704158,
+          "text": "ٱلۡأُخۡدُودِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704159,
+          "text": "٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 5,
+      "verse_key": "85:5",
+      "text": "ٱلنَّارِ ذَاتِ ٱلۡوَقُودِ",
+      "words": [
+        {
+          "id": 704160,
+          "text": "ٱلنَّارِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704161,
+          "text": "ذَاتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704162,
+          "text": "ٱلۡوَقُودِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704163,
+          "text": "٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 6,
+      "verse_key": "85:6",
+      "text": "إِذۡ هُمۡ عَلَيۡهَا قُعُودٞ",
+      "words": [
+        {
+          "id": 704164,
+          "text": "إِذۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704165,
+          "text": "هُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704166,
+          "text": "عَلَيۡهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704167,
+          "text": "قُعُودٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 704168,
+          "text": "٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 7,
+      "verse_key": "85:7",
+      "text": "وَهُمۡ عَلَىٰ مَا يَفۡعَلُونَ بِٱلۡمُؤۡمِنِينَ شُهُودٞ",
+      "words": [
+        {
+          "id": 704169,
+          "text": "وَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704170,
+          "text": "عَلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 704171,
+          "text": "مَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704172,
+          "text": "يَفۡعَلُونَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704173,
+          "text": "بِٱلۡمُؤۡمِنِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704174,
+          "text": "شُهُودٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 704175,
+          "text": "٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 8,
+      "verse_key": "85:8",
+      "text": "وَمَا نَقَمُواْ مِنۡهُمۡ إِلَّآ أَن يُؤۡمِنُواْ بِٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ",
+      "words": [
+        {
+          "id": 704176,
+          "text": "وَمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704177,
+          "text": "نَقَمُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 704178,
+          "text": "مِنۡهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704179,
+          "text": "إِلَّآ",
+          "char_type": "word"
+        },
+        {
+          "id": 704180,
+          "text": "أَن",
+          "char_type": "word"
+        },
+        {
+          "id": 704181,
+          "text": "يُؤۡمِنُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 704182,
+          "text": "بِٱللَّهِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704183,
+          "text": "ٱلۡعَزِيزِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704184,
+          "text": "ٱلۡحَمِيدِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704185,
+          "text": "٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 9,
+      "verse_key": "85:9",
+      "text": "ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ",
+      "words": [
+        {
+          "id": 704186,
+          "text": "ٱلَّذِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704187,
+          "text": "لَهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 704188,
+          "text": "مُلۡكُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704189,
+          "text": "ٱلسَّمَٰوَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704190,
+          "text": "وَٱلۡأَرۡضِۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 704192,
+          "text": "وَٱللَّهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704193,
+          "text": "عَلَىٰ",
+          "char_type": "word"
+        },
+        {
+          "id": 704194,
+          "text": "كُلِّ",
+          "char_type": "word"
+        },
+        {
+          "id": 704195,
+          "text": "شَيۡءٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 704196,
+          "text": "شَهِيدٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 704197,
+          "text": "٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 10,
+      "verse_key": "85:10",
+      "text": "إِنَّ ٱلَّذِينَ فَتَنُواْ ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ ثُمَّ لَمۡ يَتُوبُواْ فَلَهُمۡ عَذَابُ جَهَنَّمَ وَلَهُمۡ عَذَابُ ٱلۡحَرِيقِ",
+      "words": [
+        {
+          "id": 704198,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 704199,
+          "text": "ٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704200,
+          "text": "فَتَنُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 704201,
+          "text": "ٱلۡمُؤۡمِنِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704202,
+          "text": "وَٱلۡمُؤۡمِنَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704203,
+          "text": "ثُمَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 704204,
+          "text": "لَمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704205,
+          "text": "يَتُوبُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 704206,
+          "text": "فَلَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704207,
+          "text": "عَذَابُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704208,
+          "text": "جَهَنَّمَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704209,
+          "text": "وَلَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704210,
+          "text": "عَذَابُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704211,
+          "text": "ٱلۡحَرِيقِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704212,
+          "text": "١٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 11,
+      "verse_key": "85:11",
+      "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَهُمۡ جَنَّٰتٞ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡكَبِيرُ",
+      "words": [
+        {
+          "id": 704213,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 704214,
+          "text": "ٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704215,
+          "text": "ءَامَنُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 704216,
+          "text": "وَعَمِلُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 704217,
+          "text": "ٱلصَّٰلِحَٰتِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704218,
+          "text": "لَهُمۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704219,
+          "text": "جَنَّٰتٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 704220,
+          "text": "تَجۡرِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704221,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 704222,
+          "text": "تَحۡتِهَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704223,
+          "text": "ٱلۡأَنۡهَٰرُۚ",
+          "char_type": "word"
+        },
+        {
+          "id": 704225,
+          "text": "ذَٰلِكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704226,
+          "text": "ٱلۡفَوۡزُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704227,
+          "text": "ٱلۡكَبِيرُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704228,
+          "text": "١١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 12,
+      "verse_key": "85:12",
+      "text": "إِنَّ بَطۡشَ رَبِّكَ لَشَدِيدٌ",
+      "words": [
+        {
+          "id": 704229,
+          "text": "إِنَّ",
+          "char_type": "word"
+        },
+        {
+          "id": 704230,
+          "text": "بَطۡشَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704231,
+          "text": "رَبِّكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704232,
+          "text": "لَشَدِيدٌ",
+          "char_type": "word"
+        },
+        {
+          "id": 704233,
+          "text": "١٢",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 13,
+      "verse_key": "85:13",
+      "text": "إِنَّهُۥ هُوَ يُبۡدِئُ وَيُعِيدُ",
+      "words": [
+        {
+          "id": 704234,
+          "text": "إِنَّهُۥ",
+          "char_type": "word"
+        },
+        {
+          "id": 704235,
+          "text": "هُوَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704236,
+          "text": "يُبۡدِئُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704237,
+          "text": "وَيُعِيدُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704238,
+          "text": "١٣",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 14,
+      "verse_key": "85:14",
+      "text": "وَهُوَ ٱلۡغَفُورُ ٱلۡوَدُودُ",
+      "words": [
+        {
+          "id": 704239,
+          "text": "وَهُوَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704240,
+          "text": "ٱلۡغَفُورُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704241,
+          "text": "ٱلۡوَدُودُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704242,
+          "text": "١٤",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 15,
+      "verse_key": "85:15",
+      "text": "ذُو ٱلۡعَرۡشِ ٱلۡمَجِيدُ",
+      "words": [
+        {
+          "id": 704243,
+          "text": "ذُو",
+          "char_type": "word"
+        },
+        {
+          "id": 704244,
+          "text": "ٱلۡعَرۡشِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704245,
+          "text": "ٱلۡمَجِيدُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704246,
+          "text": "١٥",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 16,
+      "verse_key": "85:16",
+      "text": "فَعَّالٞ لِّمَا يُرِيدُ",
+      "words": [
+        {
+          "id": 704247,
+          "text": "فَعَّالٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 704248,
+          "text": "لِّمَا",
+          "char_type": "word"
+        },
+        {
+          "id": 704249,
+          "text": "يُرِيدُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704250,
+          "text": "١٦",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 17,
+      "verse_key": "85:17",
+      "text": "هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡجُنُودِ",
+      "words": [
+        {
+          "id": 704251,
+          "text": "هَلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704252,
+          "text": "أَتَىٰكَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704253,
+          "text": "حَدِيثُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704254,
+          "text": "ٱلۡجُنُودِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704255,
+          "text": "١٧",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 18,
+      "verse_key": "85:18",
+      "text": "فِرۡعَوۡنَ وَثَمُودَ",
+      "words": [
+        {
+          "id": 704256,
+          "text": "فِرۡعَوۡنَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704257,
+          "text": "وَثَمُودَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704258,
+          "text": "١٨",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 19,
+      "verse_key": "85:19",
+      "text": "بَلِ ٱلَّذِينَ كَفَرُواْ فِي تَكۡذِيبٖ",
+      "words": [
+        {
+          "id": 704259,
+          "text": "بَلِ",
+          "char_type": "word"
+        },
+        {
+          "id": 704260,
+          "text": "ٱلَّذِينَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704261,
+          "text": "كَفَرُواْ",
+          "char_type": "word"
+        },
+        {
+          "id": 704262,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704263,
+          "text": "تَكۡذِيبٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 704264,
+          "text": "١٩",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 20,
+      "verse_key": "85:20",
+      "text": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطُۢ",
+      "words": [
+        {
+          "id": 704265,
+          "text": "وَٱللَّهُ",
+          "char_type": "word"
+        },
+        {
+          "id": 704266,
+          "text": "مِن",
+          "char_type": "word"
+        },
+        {
+          "id": 704267,
+          "text": "وَرَآئِهِم",
+          "char_type": "word"
+        },
+        {
+          "id": 704268,
+          "text": "مُّحِيطُۢ",
+          "char_type": "word"
+        },
+        {
+          "id": 704269,
+          "text": "٢٠",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 21,
+      "verse_key": "85:21",
+      "text": "بَلۡ هُوَ قُرۡءَانٞ مَّجِيدٞ",
+      "words": [
+        {
+          "id": 704270,
+          "text": "بَلۡ",
+          "char_type": "word"
+        },
+        {
+          "id": 704271,
+          "text": "هُوَ",
+          "char_type": "word"
+        },
+        {
+          "id": 704272,
+          "text": "قُرۡءَانٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 704273,
+          "text": "مَّجِيدٞ",
+          "char_type": "word"
+        },
+        {
+          "id": 704274,
+          "text": "٢١",
+          "char_type": "end"
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "ayah": 22,
+      "verse_key": "85:22",
+      "text": "فِي لَوۡحٖ مَّحۡفُوظِۭ",
+      "words": [
+        {
+          "id": 704275,
+          "text": "فِي",
+          "char_type": "word"
+        },
+        {
+          "id": 704276,
+          "text": "لَوۡحٖ",
+          "char_type": "word"
+        },
+        {
+          "id": 704277,
+          "text": "مَّحۡفُوظِۭ",
+          "char_type": "word"
+        },
+        {
+          "id": 704278,
+          "text": "٢٢",
+          "char_type": "end"
+        }
+      ]
+    }
+  ],
+  "word_count": 141
+}
