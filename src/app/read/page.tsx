@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useCallback, Suspense } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import { Sidebar } from "@/components/layout/sidebar";
 import { QuranSearchBar } from "@/components/quran/search-bar";
@@ -16,8 +16,6 @@ import {
 } from "lucide-react";
 import { SURAH_NAMES_AR, TOTAL_PAGES } from "@/lib/quran/quran-com-api";
 
-export const dynamic = "force-dynamic";
-
 // أوضاع العرض المختلفة - كل وضع مستقل تماماً
 type ViewMode = "image" | "pages" | "surah";
 
@@ -29,7 +27,8 @@ interface Chapter {
   pages: number[];
 }
 
-export default function ReadPage() {
+// المكون الرئيسي الذي يستخدم useSearchParams
+function ReadPageContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
 
@@ -294,5 +293,29 @@ export default function ReadPage() {
         </div>
       </main>
     </div>
+  );
+}
+
+// صفحة التحميل
+function LoadingFallback() {
+  return (
+    <div className="flex min-h-screen">
+      <Sidebar />
+      <main className="md:mr-[72px] md:w-[calc(100%-72px)] w-full pt-14 md:pt-0 pb-20 md:pb-0 bg-sand-50 flex items-center justify-center">
+        <div className="text-center">
+          <Loader2 className="w-8 h-8 text-emerald-600 animate-spin mx-auto mb-4" />
+          <p className="text-sand-600">جاري تحميل المصحف...</p>
+        </div>
+      </main>
+    </div>
+  );
+}
+
+// الصفحة الرئيسية مع Suspense
+export default function ReadPage() {
+  return (
+    <Suspense fallback={<LoadingFallback />}>
+      <ReadPageContent />
+    </Suspense>
   );
 }
