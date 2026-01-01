@@ -1,0 +1,629 @@
+{
+  "page_number": "600",
+  "total_lines": 11,
+  "surah_starts": [
+    101,
+    102
+  ],
+  "lines": [
+    {
+      "line_number": 1,
+      "words": [
+        {
+          "text": "وَحُصِّلَ",
+          "charType": "word",
+          "verseKey": "100:10",
+          "position": 1
+        },
+        {
+          "text": "مَا",
+          "charType": "word",
+          "verseKey": "100:10",
+          "position": 2
+        },
+        {
+          "text": "فِى",
+          "charType": "word",
+          "verseKey": "100:10",
+          "position": 3
+        },
+        {
+          "text": "ٱلصُّدُورِ",
+          "charType": "word",
+          "verseKey": "100:10",
+          "position": 4
+        },
+        {
+          "text": "١٠",
+          "charType": "end",
+          "verseKey": "100:10",
+          "position": 5
+        },
+        {
+          "text": "إِنَّ",
+          "charType": "word",
+          "verseKey": "100:11",
+          "position": 1
+        },
+        {
+          "text": "رَبَّهُم",
+          "charType": "word",
+          "verseKey": "100:11",
+          "position": 2
+        },
+        {
+          "text": "بِهِمْ",
+          "charType": "word",
+          "verseKey": "100:11",
+          "position": 3
+        },
+        {
+          "text": "يَوْمَئِذٍۢ",
+          "charType": "word",
+          "verseKey": "100:11",
+          "position": 4
+        },
+        {
+          "text": "لَّخَبِيرٌۢ",
+          "charType": "word",
+          "verseKey": "100:11",
+          "position": 5
+        },
+        {
+          "text": "١١",
+          "charType": "end",
+          "verseKey": "100:11",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "line_number": 4,
+      "words": [
+        {
+          "text": "ٱلْقَارِعَةُ",
+          "charType": "word",
+          "verseKey": "101:1",
+          "position": 1
+        },
+        {
+          "text": "١",
+          "charType": "end",
+          "verseKey": "101:1",
+          "position": 2
+        },
+        {
+          "text": "مَا",
+          "charType": "word",
+          "verseKey": "101:2",
+          "position": 1
+        },
+        {
+          "text": "ٱلْقَارِعَةُ",
+          "charType": "word",
+          "verseKey": "101:2",
+          "position": 2
+        },
+        {
+          "text": "٢",
+          "charType": "end",
+          "verseKey": "101:2",
+          "position": 3
+        },
+        {
+          "text": "وَمَآ",
+          "charType": "word",
+          "verseKey": "101:3",
+          "position": 1
+        },
+        {
+          "text": "أَدْرَىٰكَ",
+          "charType": "word",
+          "verseKey": "101:3",
+          "position": 2
+        },
+        {
+          "text": "مَا",
+          "charType": "word",
+          "verseKey": "101:3",
+          "position": 3
+        },
+        {
+          "text": "ٱلْقَارِعَةُ",
+          "charType": "word",
+          "verseKey": "101:3",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "line_number": 5,
+      "words": [
+        {
+          "text": "٣",
+          "charType": "end",
+          "verseKey": "101:3",
+          "position": 5
+        },
+        {
+          "text": "يَوْمَ",
+          "charType": "word",
+          "verseKey": "101:4",
+          "position": 1
+        },
+        {
+          "text": "يَكُونُ",
+          "charType": "word",
+          "verseKey": "101:4",
+          "position": 2
+        },
+        {
+          "text": "ٱلنَّاسُ",
+          "charType": "word",
+          "verseKey": "101:4",
+          "position": 3
+        },
+        {
+          "text": "كَٱلْفَرَاشِ",
+          "charType": "word",
+          "verseKey": "101:4",
+          "position": 4
+        },
+        {
+          "text": "ٱلْمَبْثُوثِ",
+          "charType": "word",
+          "verseKey": "101:4",
+          "position": 5
+        },
+        {
+          "text": "٤",
+          "charType": "end",
+          "verseKey": "101:4",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "line_number": 6,
+      "words": [
+        {
+          "text": "وَتَكُونُ",
+          "charType": "word",
+          "verseKey": "101:5",
+          "position": 1
+        },
+        {
+          "text": "ٱلْجِبَالُ",
+          "charType": "word",
+          "verseKey": "101:5",
+          "position": 2
+        },
+        {
+          "text": "كَٱلْعِهْنِ",
+          "charType": "word",
+          "verseKey": "101:5",
+          "position": 3
+        },
+        {
+          "text": "ٱلْمَنفُوشِ",
+          "charType": "word",
+          "verseKey": "101:5",
+          "position": 4
+        },
+        {
+          "text": "٥",
+          "charType": "end",
+          "verseKey": "101:5",
+          "position": 5
+        },
+        {
+          "text": "فَأَمَّا",
+          "charType": "word",
+          "verseKey": "101:6",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "line_number": 7,
+      "words": [
+        {
+          "text": "مَن",
+          "charType": "word",
+          "verseKey": "101:6",
+          "position": 2
+        },
+        {
+          "text": "ثَقُلَتْ",
+          "charType": "word",
+          "verseKey": "101:6",
+          "position": 3
+        },
+        {
+          "text": "مَوَٰزِينُهُۥ",
+          "charType": "word",
+          "verseKey": "101:6",
+          "position": 4
+        },
+        {
+          "text": "٦",
+          "charType": "end",
+          "verseKey": "101:6",
+          "position": 5
+        },
+        {
+          "text": "فَهُوَ",
+          "charType": "word",
+          "verseKey": "101:7",
+          "position": 1
+        },
+        {
+          "text": "فِى",
+          "charType": "word",
+          "verseKey": "101:7",
+          "position": 2
+        },
+        {
+          "text": "عِيشَةٍۢ",
+          "charType": "word",
+          "verseKey": "101:7",
+          "position": 3
+        },
+        {
+          "text": "رَّاضِيَةٍۢ",
+          "charType": "word",
+          "verseKey": "101:7",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "line_number": 8,
+      "words": [
+        {
+          "text": "٧",
+          "charType": "end",
+          "verseKey": "101:7",
+          "position": 5
+        },
+        {
+          "text": "وَأَمَّا",
+          "charType": "word",
+          "verseKey": "101:8",
+          "position": 1
+        },
+        {
+          "text": "مَنْ",
+          "charType": "word",
+          "verseKey": "101:8",
+          "position": 2
+        },
+        {
+          "text": "خَفَّتْ",
+          "charType": "word",
+          "verseKey": "101:8",
+          "position": 3
+        },
+        {
+          "text": "مَوَٰزِينُهُۥ",
+          "charType": "word",
+          "verseKey": "101:8",
+          "position": 4
+        },
+        {
+          "text": "٨",
+          "charType": "end",
+          "verseKey": "101:8",
+          "position": 5
+        },
+        {
+          "text": "فَأُمُّهُۥ",
+          "charType": "word",
+          "verseKey": "101:9",
+          "position": 1
+        },
+        {
+          "text": "هَاوِيَةٌۭ",
+          "charType": "word",
+          "verseKey": "101:9",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "line_number": 9,
+      "words": [
+        {
+          "text": "٩",
+          "charType": "end",
+          "verseKey": "101:9",
+          "position": 3
+        },
+        {
+          "text": "وَمَآ",
+          "charType": "word",
+          "verseKey": "101:10",
+          "position": 1
+        },
+        {
+          "text": "أَدْرَىٰكَ",
+          "charType": "word",
+          "verseKey": "101:10",
+          "position": 2
+        },
+        {
+          "text": "مَا",
+          "charType": "word",
+          "verseKey": "101:10",
+          "position": 3
+        },
+        {
+          "text": "هِيَهْ",
+          "charType": "word",
+          "verseKey": "101:10",
+          "position": 4
+        },
+        {
+          "text": "١٠",
+          "charType": "end",
+          "verseKey": "101:10",
+          "position": 5
+        },
+        {
+          "text": "نَارٌ",
+          "charType": "word",
+          "verseKey": "101:11",
+          "position": 1
+        },
+        {
+          "text": "حَامِيَةٌۢ",
+          "charType": "word",
+          "verseKey": "101:11",
+          "position": 2
+        },
+        {
+          "text": "١١",
+          "charType": "end",
+          "verseKey": "101:11",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "line_number": 12,
+      "words": [
+        {
+          "text": "أَلْهَىٰكُمُ",
+          "charType": "word",
+          "verseKey": "102:1",
+          "position": 1
+        },
+        {
+          "text": "ٱلتَّكَاثُرُ",
+          "charType": "word",
+          "verseKey": "102:1",
+          "position": 2
+        },
+        {
+          "text": "١",
+          "charType": "end",
+          "verseKey": "102:1",
+          "position": 3
+        },
+        {
+          "text": "حَتَّىٰ",
+          "charType": "word",
+          "verseKey": "102:2",
+          "position": 1
+        },
+        {
+          "text": "زُرْتُمُ",
+          "charType": "word",
+          "verseKey": "102:2",
+          "position": 2
+        },
+        {
+          "text": "ٱلْمَقَابِرَ",
+          "charType": "word",
+          "verseKey": "102:2",
+          "position": 3
+        },
+        {
+          "text": "٢",
+          "charType": "end",
+          "verseKey": "102:2",
+          "position": 4
+        },
+        {
+          "text": "كَلَّا",
+          "charType": "word",
+          "verseKey": "102:3",
+          "position": 1
+        },
+        {
+          "text": "سَوْفَ",
+          "charType": "word",
+          "verseKey": "102:3",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "line_number": 13,
+      "words": [
+        {
+          "text": "تَعْلَمُونَ",
+          "charType": "word",
+          "verseKey": "102:3",
+          "position": 3
+        },
+        {
+          "text": "٣",
+          "charType": "end",
+          "verseKey": "102:3",
+          "position": 4
+        },
+        {
+          "text": "ثُمَّ",
+          "charType": "word",
+          "verseKey": "102:4",
+          "position": 1
+        },
+        {
+          "text": "كَلَّا",
+          "charType": "word",
+          "verseKey": "102:4",
+          "position": 2
+        },
+        {
+          "text": "سَوْفَ",
+          "charType": "word",
+          "verseKey": "102:4",
+          "position": 3
+        },
+        {
+          "text": "تَعْلَمُونَ",
+          "charType": "word",
+          "verseKey": "102:4",
+          "position": 4
+        },
+        {
+          "text": "٤",
+          "charType": "end",
+          "verseKey": "102:4",
+          "position": 5
+        },
+        {
+          "text": "كَلَّا",
+          "charType": "word",
+          "verseKey": "102:5",
+          "position": 1
+        },
+        {
+          "text": "لَوْ",
+          "charType": "word",
+          "verseKey": "102:5",
+          "position": 2
+        },
+        {
+          "text": "تَعْلَمُونَ",
+          "charType": "word",
+          "verseKey": "102:5",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "line_number": 14,
+      "words": [
+        {
+          "text": "عِلْمَ",
+          "charType": "word",
+          "verseKey": "102:5",
+          "position": 4
+        },
+        {
+          "text": "ٱلْيَقِينِ",
+          "charType": "word",
+          "verseKey": "102:5",
+          "position": 5
+        },
+        {
+          "text": "٥",
+          "charType": "end",
+          "verseKey": "102:5",
+          "position": 6
+        },
+        {
+          "text": "لَتَرَوُنَّ",
+          "charType": "word",
+          "verseKey": "102:6",
+          "position": 1
+        },
+        {
+          "text": "ٱلْجَحِيمَ",
+          "charType": "word",
+          "verseKey": "102:6",
+          "position": 2
+        },
+        {
+          "text": "٦",
+          "charType": "end",
+          "verseKey": "102:6",
+          "position": 3
+        },
+        {
+          "text": "ثُمَّ",
+          "charType": "word",
+          "verseKey": "102:7",
+          "position": 1
+        },
+        {
+          "text": "لَتَرَوُنَّهَا",
+          "charType": "word",
+          "verseKey": "102:7",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "line_number": 15,
+      "words": [
+        {
+          "text": "عَيْنَ",
+          "charType": "word",
+          "verseKey": "102:7",
+          "position": 3
+        },
+        {
+          "text": "ٱلْيَقِينِ",
+          "charType": "word",
+          "verseKey": "102:7",
+          "position": 4
+        },
+        {
+          "text": "٧",
+          "charType": "end",
+          "verseKey": "102:7",
+          "position": 5
+        },
+        {
+          "text": "ثُمَّ",
+          "charType": "word",
+          "verseKey": "102:8",
+          "position": 1
+        },
+        {
+          "text": "لَتُسْـَٔلُنَّ",
+          "charType": "word",
+          "verseKey": "102:8",
+          "position": 2
+        },
+        {
+          "text": "يَوْمَئِذٍ",
+          "charType": "word",
+          "verseKey": "102:8",
+          "position": 3
+        },
+        {
+          "text": "عَنِ",
+          "charType": "word",
+          "verseKey": "102:8",
+          "position": 4
+        },
+        {
+          "text": "ٱلنَّعِيمِ",
+          "charType": "word",
+          "verseKey": "102:8",
+          "position": 5
+        },
+        {
+          "text": "٨",
+          "charType": "end",
+          "verseKey": "102:8",
+          "position": 6
+        }
+      ]
+    }
+  ]
+}

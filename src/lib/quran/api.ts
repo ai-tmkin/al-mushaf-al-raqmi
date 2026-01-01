@@ -25,6 +25,14 @@ export interface Ayah {
   ruku: number;
   hizbQuarter: number;
   sajda: boolean | { id: number; recommended: boolean; obligatory: boolean };
+  surah?: {
+    number: number;
+    name: string;
+    englishName: string;
+    englishNameTranslation: string;
+    revelationType: string;
+    numberOfAyahs: number;
+  };
 }
 
 export interface SurahData {
@@ -203,4 +211,99 @@ export function getSurahNameAr(surahNumber: number): string {
     111: "المسد", 112: "الإخلاص", 113: "الفلق", 114: "الناس"
   };
   return names[surahNumber] || `سورة ${surahNumber}`;
+}
+
+/**
+ * Page data interface from AlQuran Cloud API
+ */
+export interface PageData {
+  code: number;
+  status: string;
+  data: {
+    ayahs: Ayah[];
+    surahs: {
+      number: number;
+      name: string;
+      englishName: string;
+      englishNameTranslation: string;
+      numberOfAyahs: number;
+      revelationType: string;
+    }[];
+    edition: {
+      identifier: string;
+      language: string;
+      name: string;
+      englishName: string;
+      format: string;
+      type: string;
+      direction: string;
+    };
+  };
+}
+
+/**
+ * Fetch a page from AlQuran Cloud API
+ * Uses the quran-uthmani edition for Uthmanic script
+ * 
+ * @param pageNumber - Page number (1-604)
+ * @param edition - Edition identifier (default: "quran-uthmani")
+ * @param offset - Optional offset for ayahs
+ * @param limit - Optional limit for number of ayahs
+ * @returns Page data with ayahs
+ */
+export async function fetchPage(
+  pageNumber: number,
+  edition: string = "quran-uthmani",
+  offset?: number,
+  limit?: number
+): Promise<PageData> {
+  try {
+    if (pageNumber < 1 || pageNumber > 604) {
+      throw new Error("Page number must be between 1 and 604");
+    }
+
+    let url = `${API_BASE_URL}/page/${pageNumber}/${edition}`;
+    const params = new URLSearchParams();
+    
+    if (offset !== undefined) {
+      params.append("offset", offset.toString());
+    }
+    if (limit !== undefined) {
+      params.append("limit", limit.toString());
+    }
+    
+    if (params.toString()) {
+      url += `?${params.toString()}`;
+    }
+
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`Failed to fetch page ${pageNumber}: ${response.statusText}`);
+    }
+
+    const data: PageData = await response.json();
+    
+    if (data.code !== 200) {
+      throw new Error(`API returned error: ${data.status}`);
+    }
+
+    return data;
+  } catch (error) {
+    console.error(`Error fetching page ${pageNumber}:`, error);
+    throw error;
+  }
+}
+
+/**
+ * Fetch verses for a specific page
+ * Returns a simplified array of verses compatible with existing code
+ */
+export async function fetchPageVerses(pageNumber: number): Promise<Ayah[]> {
+  try {
+    const pageData = await fetchPage(pageNumber, "quran-uthmani");
+    return pageData.data.ayahs;
+  } catch (error) {
+    console.error(`Error fetching page verses ${pageNumber}:`, error);
+    throw error;
+  }
 }

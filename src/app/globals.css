@@ -372,3 +372,154 @@ input[type="color"]::-webkit-color-swatch {
     min-width: 44px;
   }
 }
+
+/* ==========================================
+   Mushaf Page Styles - محاكاة صفحة المصحف
+   ========================================== */
+
+/* Mushaf page container - 15 lines per page */
+.mushaf-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+}
+
+/* Mushaf Page - 15 lines per page */
+.mushaf-page {
+  background: linear-gradient(to bottom, #FFFDF5 0%, #FBF8F0 100%);
+}
+
+/* Quran text container - ensures 15 lines */
+.quran-text-container {
+  font-family: 'Scheherazade New', 'Amiri', 'KFGQPC Uthmanic Script HAFS', serif;
+  text-align: justify;
+  text-align-last: center;
+  text-justify: inter-word;
+  word-spacing: 0.08em;
+  letter-spacing: 0.01em;
+  line-height: 2.35;
+  word-break: keep-all;
+  overflow-wrap: normal;
+  hyphens: none;
+  -webkit-hyphens: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Verse end mark - circle with number inside */
+.verse-end-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #C9A227;
+  font-family: 'Scheherazade New', 'Amiri', serif;
+  vertical-align: middle;
+  margin: 0 1px;
+}
+
+/* Verse end marker styling */
+.mushaf-text .verse-marker {
+  display: inline;
+  color: #8B7355;
+  font-size: 0.85em;
+  margin: 0 2px;
+}
+
+/* Surah header in mushaf style */
+.mushaf-surah-header {
+  text-align: center;
+  margin-bottom: 0.75em;
+  font-family: 'Amiri Quran', 'Amiri', serif;
+}
+
+/* Bismillah styling */
+.mushaf-bismillah {
+  text-align: center;
+  font-size: 1.1em;
+  margin-bottom: 0.5em;
+  color: #3D3425;
+}
+
+/* Page number styling */
+.mushaf-page-number {
+  font-family: 'Amiri', serif;
+  color: #5D4E37;
+}
+
+/* Sajda verse highlight */
+.mushaf-text .sajda-verse {
+  color: #8B0000;
+}
+
+/* Selection highlight */
+.mushaf-text .verse-selected {
+  background-color: rgba(212, 232, 209, 0.6);
+  border-radius: 2px;
+  padding: 0 2px;
+}
+
+.mushaf-text .verse-highlighted {
+  background-color: rgba(247, 233, 184, 0.7);
+  border-radius: 2px;
+  padding: 0 2px;
+}
+
+/* Mushaf page paper effect */
+.mushaf-paper {
+  background: linear-gradient(
+    to bottom,
+    #FBF7F0 0%,
+    #F8F4EB 50%,
+    #FBF7F0 100%
+  );
+  box-shadow: 
+    0 1px 3px rgba(0, 0, 0, 0.08),
+    0 4px 12px rgba(0, 0, 0, 0.05),
+    inset 0 0 60px rgba(201, 168, 108, 0.05);
+}
+
+/* Decorative border for mushaf page */
+.mushaf-border {
+  border: 2px solid rgba(201, 168, 108, 0.3);
+  position: relative;
+}
+
+.mushaf-border::before {
+  content: '';
+  position: absolute;
+  inset: 4px;
+  border: 1px solid rgba(201, 168, 108, 0.2);
+  pointer-events: none;
+}
+
+/* Range slider for page navigation */
+input[type="range"].mushaf-slider {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 6px;
+  background: #E5DFD5;
+  border-radius: 3px;
+  outline: none;
+}
+
+input[type="range"].mushaf-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  background: #C9A86C;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+input[type="range"].mushaf-slider::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  background: #C9A86C;
+  border-radius: 50%;
+  cursor: pointer;
+  border: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}

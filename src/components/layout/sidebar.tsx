@@ -3,11 +3,12 @@
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Home, Palette, FolderHeart, LayoutGrid, Search, Settings, User, Menu, X } from "lucide-react";
+import { Home, Palette, FolderHeart, LayoutGrid, Search, Settings, User, Menu, X, BookOpen } from "lucide-react";
 import gsap from "gsap";
 
 const navItems = [
   { href: "/", icon: Home, label: "الرئيسية" },
+  { href: "/read", icon: BookOpen, label: "المقرأة" },
   { href: "/create", icon: Palette, label: "تصميم جديد" },
   { href: "/collections", icon: FolderHeart, label: "مجموعاتي" },
   { href: "/gallery", icon: LayoutGrid, label: "المعرض" },
@@ -19,8 +20,8 @@ const navItems = [
 // Mobile bottom nav shows only 5 main items
 const mobileNavItems = [
   { href: "/", icon: Home, label: "الرئيسية" },
+  { href: "/read", icon: BookOpen, label: "المقرأة" },
   { href: "/create", icon: Palette, label: "تصميم" },
-  { href: "/gallery", icon: LayoutGrid, label: "المعرض" },
   { href: "/collections", icon: FolderHeart, label: "مجموعاتي" },
   { href: "/profile", icon: User, label: "حسابي" },
 ];
